@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nihonggo Quizer</title>
+    <!-- link to all css on assets/css -->
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/typeracer.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body class="text-center">
+    <div id="side-opt">
+        <h1>Settings</h1>
+        <div id="Words">
+            <h3>Amount</h3>
+            <div class="opt">
+                <input type="number" name="ammount" id="ammount" max="3000">
+                <label for="ammount">Amount Of Words</label>
+            </div>
+        </div>
+
+        <div id="Selects">
+            <h3>Selects</h3>
+            <div class="opt">
+                <input type="checkbox" name="Kana" id="Kana">
+                <label for="Kana">Kana (Hiragana & Katakana)</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="N5" id="N5">
+                <label for="N5">N5 Vocab</label>
+            </div>
+        </div>
+    </div>
+    <div id="quiz">
+        <div class="tabel" id="toggle">
+            <button class="btn btn-primary" target="#side-opt">Settings</button>
+            <button class="btn btn-primary" target="#side-info">Information</button>
+        </div>
+        <h1>TypeRacer</h1>
+        <div class="box" id="question">
+        </div>
+        <p>Write this in romaji</p>
+        <div id="answer">
+            <input type="text" name="answer" autocomplete="off">
+        </div>
+
+        <div id="alerts">
+        </div>
+    </div>
+    <div id="side-info">
+        <h1>Information</h1>
+        <div id="GameI">
+            <h3>Game Info</h3>
+            <div class="correct"></div>
+            <div class="wrong"></div>
+        </div>
+        <div id="TimerI">
+            <h3>Timer</h3>
+            <div class="High Score"></div>
+            <div class="time"></div>
+        </div>
+    </div>
+</body>
+
+
+<script src="../assets/Javascripts/typeracer/index.js"></script>
+<script src="../assets/Javascripts/kana/wanakana.js"></script>
+<script src="../assets/Javascripts/kanji/kanji.js"></script>
+</html>

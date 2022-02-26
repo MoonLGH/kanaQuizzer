@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kana Quizzer</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div id="side-opt">
+        <h1>Settings</h1>
+        <div id="hira">
+            <h3>Hiragana</h3>
+            <div class="opt">
+                <input type="checkbox" name="hiraG" value="hiraG" id="hiraG">
+                <label for="hiraG">Turn on Gojuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="hiraD" value="hiraD" id="hiraD">
+                <label for="hiraD">Turn on Dakuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="hiraH" value="hiraH" id="hiraH">
+                <label for="hiraH">Turn on Handakuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="hiraY" value="hiraY" id="hiraY">
+                <label for="hiraY">Turn on Yoon</label>
+            </div>
+        </div>
+        <div id="kata">
+            <h3>Katagana</h3>
+            <div class="opt">
+                <input type="checkbox" name="kataG" value="kataG" id="kataG">
+                <label for="kataG">Turn on Gojuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="kataD" value="kataD" id="kataD">
+                <label for="kataD">Turn on Dakuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="kataH" value="kataH" id="kataH">
+                <label for="kataH">Turn on Handakuon</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="kataY" value="kataY" id="kataY">
+                <label for="kataY">Turn on Yoon</label>
+            </div>
+        </div>
+    </div>
+    <div id="quiz">
+        <div class="tabel" id="toggle">
+            <button class="btn btn-primary" target="#side-opt">Settings</button>
+            <button class="btn btn-primary" target="#side-info">Information</button>
+        </div>
+        <h1>Nihongo Quizzer</h1>
+        <div class="box" id="question">
+            <h3></h3>
+        </div>
+        <p>Write this on romaji</p>
+        <div id="answer">
+            <input type="text" name="answer" autocomplete="off">
+            <div class="submit">
+                <button class="btn btn-success">Submit</button>
+            </div>
+        </div>
+
+        <div id="alerts">
+        </div>
+    </div>
+    <div id="side-info">
+        <h1>Information</h1>
+        <div id="stageI">
+            <h3>Stage</h3>
+            <div class="phase"></div>
+            <div class="nextPhase"></div>
+        </div>
+        <div id="hiraI">
+            <h3>Hiragana</h3>
+            <div class="correct"></div>
+            <div class="wrong"></div>
+            <button id="clearH" class="btn btn-danger">Clear</button>
+        </div>
+        <div id="kataI">
+            <h3>Katagana</h3>
+            <div class="correct"></div>
+            <div class="wrong"></div>
+            <button id="clearK" class="btn btn-danger">Clear</button>
+        </div>
+    </div>
+</body>
+
+<!-- general stuff -->
+<script src="../assets/Javascripts/kana/hiragana.js"></script>
+<script src="../assets/Javascripts/kana/katakana.js"></script>
+<script src="../assets/Javascripts/kana/script.js"></script>
+
+<!-- quiz -->
+<script src="../assets/Javascripts/kana/quiz.js"></script>
+<script src="../assets/Javascripts/kana/quiz-main.js"></script>
+<script src="../assets/Javascripts/kana/wanakana.js"></script>
+</html>

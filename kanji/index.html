@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanji Quizzer</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/popup.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div id="side-opt">
+        <h1>Settings</h1>
+        <div id="grade">
+            <h3>Grade</h3>
+            <div class="opt">
+                <input type="checkbox" name="G1" value="G1" id="G1">
+                <label for="G1">Grade 1</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G2" value="G2" id="G2">
+                <label for="G2">Grade 2</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G3" value="G3" id="G3">
+                <label for="G3">Grade 3</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G4" value="G4" id="G4">
+                <label for="G4">Grade 4</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G5" value="G5" id="G5">
+                <label for="G5">Grade 5</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G6" value="G6" id="G6">
+                <label for="G6">Grade 6</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G7" value="G7" id="G7">
+                <label for="G7">Grade 7</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G8" value="G8" id="G8">
+                <label for="G8">Grade 8</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G9" value="G9" id="G9">
+                <label for="G9">Grade 9</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="G10" value="G10" id="G10">
+                <label for="G10">Grade 10</label>
+            </div>
+            <div class="opt">
+                <input type="checkbox" name="All" value="All" id="All">
+                <label for="All">All</label>
+            </div>
+        </div>
+    </div>
+    <div id="quiz">
+        <div class="tabel" id="toggle">
+            <button class="btn btn-primary" target="#side-opt">Settings</button>
+            <button class="btn btn-primary" target="#side-info">Information</button>
+        </div>
+        <h1>Nihongo Quizzer</h1>
+        <div class="box" id="question">
+            <h3></h3>
+        </div>
+        <p>Write this on romaji</p>
+        <div id="answer">
+            <input type="text" name="answer" autocomplete="off">
+            <div class="submit">
+                <button class="btn btn-success">Submit</button>
+            </div>
+        </div>
+        <div id="alerts">
+        </div>
+    </div>
+    <div id="side-info">
+        <h1>Information</h1>
+        <div id="stageI">
+            <h3>Stage</h3>
+            <div class="phase"></div>
+            <div class="nextPhase"></div>
+        </div>
+        <div id="kanjiI">
+            <h3>Kanji</h3>
+            <div class="kanjiList"></div>
+        </div>
+        <div id="scoreL">
+            <h2>Score</h3>
+            <div class="All">
+                <h3>All</h3>
+                <div id="correct"></div>
+                <div id="wrong"></div>
+                <button id="clearAll" class="btn btn-danger">Clear</button>
+            </div>
+            <div class="G1" id="G1"></div>
+            <div class="G2" id="G2"></div>
+            <div class="G3" id="G3"></div>
+            <div class="G4" id="G4"></div>
+            <div class="G5" id="G5"></div>
+            <div class="G6" id="G6"></div>
+            <div class="G7" id="G7"></div>
+            <div class="G8" id="G8"></div>
+            <div class="G9" id="G9"></div>
+            <div class="G10" id="G10"></div>
+        </div>
+    </div>
+      
+    <div id="popup">
+
+    </div>
+</body>
+
+<!-- general -->
+<script src="../assets/Javascripts/popup.js"></script>
+
+<!-- kanji -->
+<script src="../assets/Javascripts/kanji/kanji.js"></script>
+<script src="../assets/Javascripts/kana/wanakana.js"></script>
+
+<!-- quiz -->
+<script src="../assets/Javascripts/kanji/answer.js"></script>
+<script src="../assets/Javascripts/kanji/quiz-brain.js"></script>
+<script src="../assets/Javascripts/kanji/quiz-index.js"></script>
+<script src="../assets/Javascripts/kanji/grade-setting.js"></script>
+
+</html>

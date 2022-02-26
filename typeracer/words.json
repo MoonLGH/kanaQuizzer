@@ -1,0 +1,9001 @@
+[{
+    "kana": "の",
+    "romaji": "no"
+}, {
+    "kana": "た",
+    "romaji": "ta"
+}, {
+    "kana": "に",
+    "romaji": "ni"
+}, {
+    "kana": "は",
+    "romaji": "ha"
+}, {
+    "kana": "を",
+    "romaji": "wo"
+}, {
+    "kana": "て",
+    "romaji": "te"
+}, {
+    "kana": "だ",
+    "romaji": "da"
+}, {
+    "kana": "が",
+    "romaji": "ga"
+}, {
+    "kana": "と",
+    "romaji": "to"
+}, {
+    "kana": "する",
+    "romaji": "suru"
+}, {
+    "kana": "ない",
+    "romaji": "nai"
+}, {
+    "kana": "いる",
+    "romaji": "iru"
+}, {
+    "kana": "も",
+    "romaji": "mo"
+}, {
+    "kana": "で",
+    "romaji": "de"
+}, {
+    "kana": "か",
+    "romaji": "ka"
+}, {
+    "kana": "ある",
+    "romaji": "aru"
+}, {
+    "kana": "から",
+    "romaji": "kara"
+}, {
+    "kana": "こと",
+    "romaji": "koto"
+}, {
+    "kana": "ん",
+    "romaji": "n"
+}, {
+    "kana": "なる",
+    "romaji": "naru"
+}, {
+    "kana": "う",
+    "romaji": "u"
+}, {
+    "kana": "れる",
+    "romaji": "reru"
+}, {
+    "kana": "よう",
+    "romaji": "you"
+}, {
+    "kana": "その",
+    "romaji": "sono"
+}, {
+    "kana": "ます",
+    "romaji": "masu"
+}, {
+    "kana": "です",
+    "romaji": "desu"
+}, {
+    "kana": "それ",
+    "romaji": "sore"
+}, {
+    "kana": "よ",
+    "romaji": "yo"
+}, {
+    "kana": "そう",
+    "romaji": "sou"
+}, {
+    "kana": "ひと",
+    "romaji": "hito"
+}, {
+    "kana": "いう",
+    "romaji": "iu"
+}, {
+    "kana": "ば",
+    "romaji": "ba"
+}, {
+    "kana": "お",
+    "romaji": "o"
+}, {
+    "kana": "いう",
+    "romaji": "iu"
+}, {
+    "kana": "もの",
+    "romaji": "mono"
+}, {
+    "kana": "この",
+    "romaji": "kono"
+}, {
+    "kana": "くる",
+    "romaji": "kuru"
+}, {
+    "kana": "へ",
+    "romaji": "he"
+}, {
+    "kana": "ぬ",
+    "romaji": "nu"
+}, {
+    "kana": "おもう",
+    "romaji": "omou"
+}, {
+    "kana": "いち",
+    "romaji": "ichi"
+}, {
+    "kana": "みる",
+    "romaji": "miru"
+}, {
+    "kana": "なに",
+    "romaji": "nani"
+}, {
+    "kana": "な",
+    "romaji": "na"
+}, {
+    "kana": "や",
+    "romaji": "ya"
+}, {
+    "kana": "られる",
+    "romaji": "rareru"
+}, {
+    "kana": "に",
+    "romaji": "ni"
+}, {
+    "kana": "ね",
+    "romaji": "ne"
+}, {
+    "kana": "さ",
+    "romaji": "sa"
+}, {
+    "kana": "まで",
+    "romaji": "made"
+}, {
+    "kana": "たち",
+    "romaji": "tachi"
+}, {
+    "kana": "せる",
+    "romaji": "seru"
+}, {
+    "kana": "く",
+    "romaji": "ku"
+}, {
+    "kana": "じぶん",
+    "romaji": "jibun"
+}, {
+    "kana": "って",
+    "romaji": "tte"
+}, {
+    "kana": "じゃ",
+    "romaji": "ja"
+}, {
+    "kana": "だけ",
+    "romaji": "dake"
+}, {
+    "kana": "てる",
+    "romaji": "teru"
+}, {
+    "kana": "わたし",
+    "romaji": "watashi"
+}, {
+    "kana": "なか",
+    "romaji": "naka"
+}, {
+    "kana": "さん",
+    "romaji": "san"
+}, {
+    "kana": "ながら",
+    "romaji": "nagara"
+}, {
+    "kana": "いく",
+    "romaji": "iku"
+}, {
+    "kana": "わ",
+    "romaji": "wa"
+}, {
+    "kana": "という",
+    "romaji": "toiu"
+}, {
+    "kana": "くる",
+    "romaji": "kuru"
+}, {
+    "kana": "これ",
+    "romaji": "kore"
+}, {
+    "kana": "かお",
+    "romaji": "kao"
+}, {
+    "kana": "できる",
+    "romaji": "dekiru"
+}, {
+    "kana": "いい",
+    "romaji": "ii"
+}, {
+    "kana": "かれ",
+    "romaji": "kare"
+}, {
+    "kana": "しまう",
+    "romaji": "shimau"
+}, {
+    "kana": "て",
+    "romaji": "te"
+}, {
+    "kana": "ら",
+    "romaji": "ra"
+}, {
+    "kana": "こえ",
+    "romaji": "koe"
+}, {
+    "kana": "たい",
+    "romaji": "tai"
+}, {
+    "kana": "め",
+    "romaji": "me"
+}, {
+    "kana": "やる",
+    "romaji": "yaru"
+}, {
+    "kana": "どう",
+    "romaji": "dou"
+}, {
+    "kana": "まえ",
+    "romaji": "mae"
+}, {
+    "kana": "みる",
+    "romaji": "miru"
+}, {
+    "kana": "でも",
+    "romaji": "demo"
+}, {
+    "kana": "おとこ",
+    "romaji": "otoko"
+}, {
+    "kana": "あの",
+    "romaji": "ano"
+}, {
+    "kana": "もの",
+    "romaji": "mono"
+}, {
+    "kana": "でる",
+    "romaji": "deru"
+}, {
+    "kana": "しる",
+    "romaji": "shiru"
+}, {
+    "kana": "じゅう",
+    "romaji": "juu"
+}, {
+    "kana": "もう",
+    "romaji": "mou"
+}, {
+    "kana": "いく",
+    "romaji": "iku"
+}, {
+    "kana": "さん",
+    "romaji": "san"
+}, {
+    "kana": "わかる",
+    "romaji": "wakaru"
+}, {
+    "kana": "そんな",
+    "romaji": "sonna"
+}, {
+    "kana": "くれる",
+    "romaji": "kureru"
+}, {
+    "kana": "きる",
+    "romaji": "kiru"
+}, {
+    "kana": "ところ",
+    "romaji": "tokoro"
+}, {
+    "kana": "とき",
+    "romaji": "toki"
+}, {
+    "kana": "かのじょ",
+    "romaji": "kanojo"
+}, {
+    "kana": "ここ",
+    "romaji": "koko"
+}, {
+    "kana": "わたし",
+    "romaji": "watashi"
+}, {
+    "kana": "そして",
+    "romaji": "soshite"
+}, {
+    "kana": "てき",
+    "romaji": "teki"
+}, {
+    "kana": "り",
+    "romaji": "ri"
+}, {
+    "kana": "いま",
+    "romaji": "ima"
+}, {
+    "kana": "かた",
+    "romaji": "kata"
+}, {
+    "kana": "うえ",
+    "romaji": "ue"
+}, {
+    "kana": "おんな",
+    "romaji": "onna"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "つく",
+    "romaji": "tsuku"
+}, {
+    "kana": "しかし",
+    "romaji": "shikashi"
+}, {
+    "kana": "ため",
+    "romaji": "tame"
+}, {
+    "kana": "として",
+    "romaji": "toshite"
+}, {
+    "kana": "また",
+    "romaji": "mata"
+}, {
+    "kana": "あ",
+    "romaji": "a"
+}, {
+    "kana": "おれ",
+    "romaji": "ore"
+}, {
+    "kana": "きく",
+    "romaji": "kiku"
+}, {
+    "kana": "とき",
+    "romaji": "toki"
+}, {
+    "kana": "ほど",
+    "romaji": "hodo"
+}, {
+    "kana": "ぼく",
+    "romaji": "boku"
+}, {
+    "kana": "みえる",
+    "romaji": "mieru"
+}, {
+    "kana": "よい",
+    "romaji": "yoi"
+}, {
+    "kana": "える",
+    "romaji": "eru"
+}, {
+    "kana": "より",
+    "romaji": "yori"
+}, {
+    "kana": "いえ",
+    "romaji": "ie"
+}, {
+    "kana": "にち",
+    "romaji": "nichi"
+}, {
+    "kana": "おれ",
+    "romaji": "ore"
+}, {
+    "kana": "かんがえる",
+    "romaji": "kangaeru"
+}, {
+    "kana": "だす",
+    "romaji": "dasu"
+}, {
+    "kana": "そこ",
+    "romaji": "soko"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "はいる",
+    "romaji": "hairu"
+}, {
+    "kana": "もつ",
+    "romaji": "motsu"
+}, {
+    "kana": "くち",
+    "romaji": "kuchi"
+}, {
+    "kana": "はなし",
+    "romaji": "hanashi"
+}, {
+    "kana": "わけ",
+    "romaji": "wake"
+}, {
+    "kana": "こと",
+    "romaji": "koto"
+}, {
+    "kana": "けど",
+    "romaji": "kedo"
+}, {
+    "kana": "など",
+    "romaji": "nado"
+}, {
+    "kana": "あなた",
+    "romaji": "anata"
+}, {
+    "kana": "おと",
+    "romaji": "oto"
+}, {
+    "kana": "あたま",
+    "romaji": "atama"
+}, {
+    "kana": "ご",
+    "romaji": "go"
+}, {
+    "kana": "め",
+    "romaji": "me"
+}, {
+    "kana": "ことば",
+    "romaji": "kotoba"
+}, {
+    "kana": "す",
+    "romaji": "su"
+}, {
+    "kana": "たり",
+    "romaji": "tari"
+}, {
+    "kana": "まだ",
+    "romaji": "mada"
+}, {
+    "kana": "らしい",
+    "romaji": "rashii"
+}, {
+    "kana": "ぞ",
+    "romaji": "zo"
+}, {
+    "kana": "まま",
+    "romaji": "mama"
+}, {
+    "kana": "ン",
+    "romaji": "n"
+}, {
+    "kana": "かける",
+    "romaji": "kakeru"
+}, {
+    "kana": "ま",
+    "romaji": "ma"
+}, {
+    "kana": "こ",
+    "romaji": "ko"
+}, {
+    "kana": "どこ",
+    "romaji": "doko"
+}, {
+    "kana": "にんげん",
+    "romaji": "ningen"
+}, {
+    "kana": "ふる",
+    "romaji": "furu"
+}, {
+    "kana": "かも",
+    "romaji": "kamo"
+}, {
+    "kana": "さま",
+    "romaji": "sama"
+}, {
+    "kana": "ま",
+    "romaji": "ma"
+}, {
+    "kana": "る",
+    "romaji": "ru"
+}, {
+    "kana": "とし",
+    "romaji": "toshi"
+}, {
+    "kana": "いや",
+    "romaji": "iya"
+}, {
+    "kana": "じ",
+    "romaji": "ji"
+}, {
+    "kana": "こころ",
+    "romaji": "kokoro"
+}, {
+    "kana": "ちから",
+    "romaji": "chikara"
+}, {
+    "kana": "ほう",
+    "romaji": "hou"
+}, {
+    "kana": "ご",
+    "romaji": "go"
+}, {
+    "kana": "うち",
+    "romaji": "uchi"
+}, {
+    "kana": "たつ",
+    "romaji": "tatsu"
+}, {
+    "kana": "はず",
+    "romaji": "hazu"
+}, {
+    "kana": "だれ",
+    "romaji": "dare"
+}, {
+    "kana": "ろ",
+    "romaji": "ro"
+}, {
+    "kana": "だが",
+    "romaji": "daga"
+}, {
+    "kana": "ああ",
+    "romaji": "aa"
+}, {
+    "kana": "おなじ",
+    "romaji": "onaji"
+}, {
+    "kana": "なんて",
+    "romaji": "nante"
+}, {
+    "kana": "ただ",
+    "romaji": "tada"
+}, {
+    "kana": "すぐ",
+    "romaji": "sugu"
+}, {
+    "kana": "した",
+    "romaji": "shita"
+}, {
+    "kana": "こ",
+    "romaji": "ko"
+}, {
+    "kana": "おく",
+    "romaji": "oku"
+}, {
+    "kana": "おる",
+    "romaji": "oru"
+}, {
+    "kana": "すがた",
+    "romaji": "sugata"
+}, {
+    "kana": "こんな",
+    "romaji": "konna"
+}, {
+    "kana": "こう",
+    "romaji": "kou"
+}, {
+    "kana": "つ",
+    "romaji": "tsu"
+}, {
+    "kana": "ひる",
+    "romaji": "hiru"
+}, {
+    "kana": "ける",
+    "romaji": "keru"
+}, {
+    "kana": "いう",
+    "romaji": "iu"
+}, {
+    "kana": "ばかり",
+    "romaji": "bakari"
+}, {
+    "kana": "よん",
+    "romaji": "yon"
+}, {
+    "kana": "すこし",
+    "romaji": "sukoshi"
+}, {
+    "kana": "ぼく",
+    "romaji": "boku"
+}, {
+    "kana": "かんじる",
+    "romaji": "kanjiru"
+}, {
+    "kana": "ラ",
+    "romaji": "ra"
+}, {
+    "kana": "へや",
+    "romaji": "heya"
+}, {
+    "kana": "きみ",
+    "romaji": "kimi"
+}, {
+    "kana": "ちる",
+    "romaji": "chiru"
+}, {
+    "kana": "わらう",
+    "romaji": "warau"
+}, {
+    "kana": "つける",
+    "romaji": "tsukeru"
+}, {
+    "kana": "だって",
+    "romaji": "datte"
+}, {
+    "kana": "しか",
+    "romaji": "shika"
+}, {
+    "kana": "あたし",
+    "romaji": "atashi"
+}, {
+    "kana": "じかん",
+    "romaji": "jikan"
+}, {
+    "kana": "あげる",
+    "romaji": "ageru"
+}, {
+    "kana": "ちゃん",
+    "romaji": "chan"
+}, {
+    "kana": "み",
+    "romaji": "mi"
+}, {
+    "kana": "しれる",
+    "romaji": "shireru"
+}, {
+    "kana": "のに",
+    "romaji": "noni"
+}, {
+    "kana": "かえる",
+    "romaji": "kaeru"
+}, {
+    "kana": "ねる",
+    "romaji": "neru"
+}, {
+    "kana": "ご",
+    "romaji": "go"
+}, {
+    "kana": "あと",
+    "romaji": "ato"
+}, {
+    "kana": "ど",
+    "romaji": "do"
+}, {
+    "kana": "からだ",
+    "romaji": "karada"
+}, {
+    "kana": "ど",
+    "romaji": "do"
+}, {
+    "kana": "だい",
+    "romaji": "dai"
+}, {
+    "kana": "まつ",
+    "romaji": "matsu"
+}, {
+    "kana": "ド",
+    "romaji": "do"
+}, {
+    "kana": "あるく",
+    "romaji": "aruku"
+}, {
+    "kana": "ちょっと",
+    "romaji": "chotto"
+}, {
+    "kana": "え",
+    "romaji": "e"
+}, {
+    "kana": "なに",
+    "romaji": "nani"
+}, {
+    "kana": "しぬ",
+    "romaji": "shinu"
+}, {
+    "kana": "よう",
+    "romaji": "you"
+}, {
+    "kana": "め",
+    "romaji": "me"
+}, {
+    "kana": "げ",
+    "romaji": "ge"
+}, {
+    "kana": "スる",
+    "romaji": "suru"
+}, {
+    "kana": "かかる",
+    "romaji": "kakaru"
+}, {
+    "kana": "あいて",
+    "romaji": "aite"
+}, {
+    "kana": "わるい",
+    "romaji": "warui"
+}, {
+    "kana": "ひらく",
+    "romaji": "hiraku"
+}, {
+    "kana": "くに",
+    "romaji": "kuni"
+}, {
+    "kana": "かず",
+    "romaji": "kazu"
+}, {
+    "kana": "せかい",
+    "romaji": "sekai"
+}, {
+    "kana": "さき",
+    "romaji": "saki"
+}, {
+    "kana": "つかう",
+    "romaji": "tsukau"
+}, {
+    "kana": "ござる",
+    "romaji": "gozaru"
+}, {
+    "kana": "そと",
+    "romaji": "soto"
+}, {
+    "kana": "だから",
+    "romaji": "dakara"
+}, {
+    "kana": "しょうじょ",
+    "romaji": "shoujo"
+}, {
+    "kana": "とる",
+    "romaji": "toru"
+}, {
+    "kana": "くび",
+    "romaji": "kubi"
+}, {
+    "kana": "あし",
+    "romaji": "ashi"
+}, {
+    "kana": "べし",
+    "romaji": "beshi"
+}, {
+    "kana": "むね",
+    "romaji": "mune"
+}, {
+    "kana": "おおきい",
+    "romaji": "ookii"
+}, {
+    "kana": "かぜ",
+    "romaji": "kaze"
+}, {
+    "kana": "ころす",
+    "romaji": "korosu"
+}, {
+    "kana": "ほん",
+    "romaji": "hon"
+}, {
+    "kana": "もどる",
+    "romaji": "modoru"
+}, {
+    "kana": "そういう",
+    "romaji": "souiu"
+}, {
+    "kana": "おまえ",
+    "romaji": "omae"
+}, {
+    "kana": "だい",
+    "romaji": "dai"
+}, {
+    "kana": "けれど",
+    "romaji": "keredo"
+}, {
+    "kana": "とる",
+    "romaji": "toru"
+}, {
+    "kana": "ひとつ",
+    "romaji": "hitotsu"
+}, {
+    "kana": "いれる",
+    "romaji": "ireru"
+}, {
+    "kana": "こども",
+    "romaji": "kodomo"
+}, {
+    "kana": "ろく",
+    "romaji": "roku"
+}, {
+    "kana": "よる",
+    "romaji": "yoru"
+}, {
+    "kana": "くらい",
+    "romaji": "kurai"
+}, {
+    "kana": "よぶ",
+    "romaji": "yobu"
+}, {
+    "kana": "おまえ",
+    "romaji": "omae"
+}, {
+    "kana": "ひかり",
+    "romaji": "hikari"
+}, {
+    "kana": "ので",
+    "romaji": "node"
+}, {
+    "kana": "あげる",
+    "romaji": "ageru"
+}, {
+    "kana": "てき",
+    "romaji": "teki"
+}, {
+    "kana": "いじょう",
+    "romaji": "ijou"
+}, {
+    "kana": "こたえる",
+    "romaji": "kotaeru"
+}, {
+    "kana": "みたい",
+    "romaji": "mitai"
+}, {
+    "kana": "な",
+    "romaji": "na"
+}, {
+    "kana": "なん",
+    "romaji": "nan"
+}, {
+    "kana": "こし",
+    "romaji": "koshi"
+}, {
+    "kana": "ふる",
+    "romaji": "furu"
+}, {
+    "kana": "おく",
+    "romaji": "oku"
+}, {
+    "kana": "そ",
+    "romaji": "so"
+}, {
+    "kana": "いつ",
+    "romaji": "itsu"
+}, {
+    "kana": "はやい",
+    "romaji": "hayai"
+}, {
+    "kana": "ながい",
+    "romaji": "nagai"
+}, {
+    "kana": "ゆび",
+    "romaji": "yubi"
+}, {
+    "kana": "ぜ",
+    "romaji": "ze"
+}, {
+    "kana": "みず",
+    "romaji": "mizu"
+}, {
+    "kana": "ロ",
+    "romaji": "ro"
+}, {
+    "kana": "みせる",
+    "romaji": "miseru"
+}, {
+    "kana": "はしる",
+    "romaji": "hashiru"
+}, {
+    "kana": "もらう",
+    "romaji": "morau"
+}, {
+    "kana": "きょう",
+    "romaji": "kyou"
+}, {
+    "kana": "しろい",
+    "romaji": "shiroi"
+}, {
+    "kana": "ぶん",
+    "romaji": "bun"
+}, {
+    "kana": "うで",
+    "romaji": "ude"
+}, {
+    "kana": "ちがう",
+    "romaji": "chigau"
+}, {
+    "kana": "いま",
+    "romaji": "ima"
+}, {
+    "kana": "いつも",
+    "romaji": "itsumo"
+}, {
+    "kana": "もん",
+    "romaji": "mon"
+}, {
+    "kana": "かた",
+    "romaji": "kata"
+}, {
+    "kana": "むすめ",
+    "romaji": "musume"
+}, {
+    "kana": "うごく",
+    "romaji": "ugoku"
+}, {
+    "kana": "しんたい",
+    "romaji": "shintai"
+}, {
+    "kana": "せんせい",
+    "romaji": "sensei"
+}, {
+    "kana": "ねえ",
+    "romaji": "nee"
+}, {
+    "kana": "もの",
+    "romaji": "mono"
+}, {
+    "kana": "みんな",
+    "romaji": "minna"
+}, {
+    "kana": "みち",
+    "romaji": "michi"
+}, {
+    "kana": "た",
+    "romaji": "ta"
+}, {
+    "kana": "いろ",
+    "romaji": "iro"
+}, {
+    "kana": "ぼうてん",
+    "romaji": "bouten"
+}, {
+    "kana": "ばしょ",
+    "romaji": "basho"
+}, {
+    "kana": "いみ",
+    "romaji": "imi"
+}, {
+    "kana": "おおきな",
+    "romaji": "ookina"
+}, {
+    "kana": "ひつよう",
+    "romaji": "hitsuyou"
+}, {
+    "kana": "つよい",
+    "romaji": "tsuyoi"
+}, {
+    "kana": "ひゃく",
+    "romaji": "hyaku"
+}, {
+    "kana": "すぎる",
+    "romaji": "sugiru"
+}, {
+    "kana": "こちら",
+    "romaji": "kochira"
+}, {
+    "kana": "なか",
+    "romaji": "naka"
+}, {
+    "kana": "つもり",
+    "romaji": "tsumori"
+}, {
+    "kana": "あれ",
+    "romaji": "are"
+}, {
+    "kana": "すべて",
+    "romaji": "subete"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "よる",
+    "romaji": "yoru"
+}, {
+    "kana": "なな",
+    "romaji": "nana"
+}, {
+    "kana": "むかう",
+    "romaji": "mukau"
+}, {
+    "kana": "おわる",
+    "romaji": "owaru"
+}, {
+    "kana": "かく",
+    "romaji": "kaku"
+}, {
+    "kana": "たかい",
+    "romaji": "takai"
+}, {
+    "kana": "まあ",
+    "romaji": "maa"
+}, {
+    "kana": "かれら",
+    "romaji": "karera"
+}, {
+    "kana": "ご",
+    "romaji": "go"
+}, {
+    "kana": "まるで",
+    "romaji": "marude"
+}, {
+    "kana": "そら",
+    "romaji": "sora"
+}, {
+    "kana": "よく",
+    "romaji": "yoku"
+}, {
+    "kana": "どうして",
+    "romaji": "doushite"
+}, {
+    "kana": "もっと",
+    "romaji": "motto"
+}, {
+    "kana": "はじめる",
+    "romaji": "hajimeru"
+}, {
+    "kana": "とか",
+    "romaji": "toka"
+}, {
+    "kana": "かく",
+    "romaji": "kaku"
+}, {
+    "kana": "はい",
+    "romaji": "hai"
+}, {
+    "kana": "おう",
+    "romaji": "ou"
+}, {
+    "kana": "ひとり",
+    "romaji": "hitori"
+}, {
+    "kana": "どんな",
+    "romaji": "donna"
+}, {
+    "kana": "かべ",
+    "romaji": "kabe"
+}, {
+    "kana": "あんた",
+    "romaji": "anta"
+}, {
+    "kana": "ちゃう",
+    "romaji": "chau"
+}, {
+    "kana": "しごと",
+    "romaji": "shigoto"
+}, {
+    "kana": "ひょうじょう",
+    "romaji": "hyoujou"
+}, {
+    "kana": "だれ",
+    "romaji": "dare"
+}, {
+    "kana": "もつ",
+    "romaji": "motsu"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "いき",
+    "romaji": "iki"
+}, {
+    "kana": "ひとつ",
+    "romaji": "hitotsu"
+}, {
+    "kana": "さえ",
+    "romaji": "sae"
+}, {
+    "kana": "ようす",
+    "romaji": "yousu"
+}, {
+    "kana": "おちる",
+    "romaji": "ochiru"
+}, {
+    "kana": "うける",
+    "romaji": "ukeru"
+}, {
+    "kana": "でる",
+    "romaji": "deru"
+}, {
+    "kana": "しつ",
+    "romaji": "shitsu"
+}, {
+    "kana": "かみ",
+    "romaji": "kami"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "みみ",
+    "romaji": "mimi"
+}, {
+    "kana": "できる",
+    "romaji": "dekiru"
+}, {
+    "kana": "ちいさな",
+    "romaji": "chiisana"
+}, {
+    "kana": "くださる",
+    "romaji": "kudasaru"
+}, {
+    "kana": "ば",
+    "romaji": "ba"
+}, {
+    "kana": "きこえる",
+    "romaji": "kikoeru"
+}, {
+    "kana": "つぎ",
+    "romaji": "tsugi"
+}, {
+    "kana": "くちびる",
+    "romaji": "kuchibiru"
+}, {
+    "kana": "むける",
+    "romaji": "mukeru"
+}, {
+    "kana": "いける",
+    "romaji": "ikeru"
+}, {
+    "kana": "いっしょ",
+    "romaji": "issho"
+}, {
+    "kana": "なさる",
+    "romaji": "nasaru"
+}, {
+    "kana": "とも",
+    "romaji": "tomo"
+}, {
+    "kana": "はち",
+    "romaji": "hachi"
+}, {
+    "kana": "もんだい",
+    "romaji": "mondai"
+}, {
+    "kana": "それから",
+    "romaji": "sorekara"
+}, {
+    "kana": "ひく",
+    "romaji": "hiku"
+}, {
+    "kana": "さいご",
+    "romaji": "saigo"
+}, {
+    "kana": "つづける",
+    "romaji": "tsuzukeru"
+}, {
+    "kana": "ガ",
+    "romaji": "ga"
+}, {
+    "kana": "はなす",
+    "romaji": "hanasu"
+}, {
+    "kana": "にとって",
+    "romaji": "nitotte"
+}, {
+    "kana": "わかい",
+    "romaji": "wakai"
+}, {
+    "kana": "まど",
+    "romaji": "mado"
+}, {
+    "kana": "きむ",
+    "romaji": "kimu"
+}, {
+    "kana": "はじめる",
+    "romaji": "hajimeru"
+}, {
+    "kana": "もちろん",
+    "romaji": "mochiron"
+}, {
+    "kana": "せい",
+    "romaji": "sei"
+}, {
+    "kana": "ク",
+    "romaji": "ku"
+}, {
+    "kana": "まったく",
+    "romaji": "mattaku"
+}, {
+    "kana": "える",
+    "romaji": "eru"
+}, {
+    "kana": "にく",
+    "romaji": "niku"
+}, {
+    "kana": "おこなう",
+    "romaji": "okonau"
+}, {
+    "kana": "はる",
+    "romaji": "haru"
+}, {
+    "kana": "ふね",
+    "romaji": "fune"
+}, {
+    "kana": "いる",
+    "romaji": "iru"
+}, {
+    "kana": "によって",
+    "romaji": "niyotte"
+}, {
+    "kana": "かれる",
+    "romaji": "kareru"
+}, {
+    "kana": "について",
+    "romaji": "nitsuite"
+}, {
+    "kana": "なぜ",
+    "romaji": "naze"
+}, {
+    "kana": "やつ",
+    "romaji": "yatsu"
+}, {
+    "kana": "さらに",
+    "romaji": "sarani"
+}, {
+    "kana": "ほんとうに",
+    "romaji": "hontouni"
+}, {
+    "kana": "とおり",
+    "romaji": "toori"
+}, {
+    "kana": "ゆう",
+    "romaji": "yuu"
+}, {
+    "kana": "ち",
+    "romaji": "chi"
+}, {
+    "kana": "おく",
+    "romaji": "oku"
+}, {
+    "kana": "ぐん",
+    "romaji": "gun"
+}, {
+    "kana": "ところ",
+    "romaji": "tokoro"
+}, {
+    "kana": "しんじる",
+    "romaji": "shinjiru"
+}, {
+    "kana": "わすれる",
+    "romaji": "wasureru"
+}, {
+    "kana": "そんざい",
+    "romaji": "sonzai"
+}, {
+    "kana": "のこる",
+    "romaji": "nokoru"
+}, {
+    "kana": "くるま",
+    "romaji": "kuruma"
+}, {
+    "kana": "こそ",
+    "romaji": "koso"
+}, {
+    "kana": "がる",
+    "romaji": "garu"
+}, {
+    "kana": "ほか",
+    "romaji": "hoka"
+}, {
+    "kana": "ずっと",
+    "romaji": "zutto"
+}, {
+    "kana": "こんど",
+    "romaji": "kondo"
+}, {
+    "kana": "きづく",
+    "romaji": "kizuku"
+}, {
+    "kana": "いきる",
+    "romaji": "ikiru"
+}, {
+    "kana": "やま",
+    "romaji": "yama"
+}, {
+    "kana": "みつめる",
+    "romaji": "mitsumeru"
+}, {
+    "kana": "あう",
+    "romaji": "au"
+}, {
+    "kana": "ちゃ",
+    "romaji": "cha"
+}, {
+    "kana": "きる",
+    "romaji": "kiru"
+}, {
+    "kana": "しせん",
+    "romaji": "shisen"
+}, {
+    "kana": "とぶ",
+    "romaji": "tobu"
+}, {
+    "kana": "やつ",
+    "romaji": "yatsu"
+}, {
+    "kana": "つて",
+    "romaji": "tsute"
+}, {
+    "kana": "しいる",
+    "romaji": "shiiru"
+}, {
+    "kana": "よこ",
+    "romaji": "yoko"
+}, {
+    "kana": "かんけい",
+    "romaji": "kankei"
+}, {
+    "kana": "ふかい",
+    "romaji": "fukai"
+}, {
+    "kana": "きみ",
+    "romaji": "kimi"
+}, {
+    "kana": "くろい",
+    "romaji": "kuroi"
+}, {
+    "kana": "しれる",
+    "romaji": "shireru"
+}, {
+    "kana": "まい",
+    "romaji": "mai"
+}, {
+    "kana": "けん",
+    "romaji": "ken"
+}, {
+    "kana": "さっき",
+    "romaji": "sakki"
+}, {
+    "kana": "つくる",
+    "romaji": "tsukuru"
+}, {
+    "kana": "じゃあ",
+    "romaji": "jaa"
+}, {
+    "kana": "やはり",
+    "romaji": "yahari"
+}, {
+    "kana": "こむ",
+    "romaji": "komu"
+}, {
+    "kana": "むら",
+    "romaji": "mura"
+}, {
+    "kana": "すでに",
+    "romaji": "sudeni"
+}, {
+    "kana": "たしか",
+    "romaji": "tashika"
+}, {
+    "kana": "きえる",
+    "romaji": "kieru"
+}, {
+    "kana": "ころ",
+    "romaji": "koro"
+}, {
+    "kana": "ちち",
+    "romaji": "chichi"
+}, {
+    "kana": "だす",
+    "romaji": "dasu"
+}, {
+    "kana": "ほる",
+    "romaji": "horu"
+}, {
+    "kana": "ゆっくり",
+    "romaji": "yukkuri"
+}, {
+    "kana": "すき",
+    "romaji": "suki"
+}, {
+    "kana": "わかる",
+    "romaji": "wakaru"
+}, {
+    "kana": "じしん",
+    "romaji": "jishin"
+}, {
+    "kana": "しばらく",
+    "romaji": "shibaraku"
+}, {
+    "kana": "きょう",
+    "romaji": "kyou"
+}, {
+    "kana": "ち",
+    "romaji": "chi"
+}, {
+    "kana": "ドア",
+    "romaji": "doa"
+}, {
+    "kana": "さいしょ",
+    "romaji": "saisho"
+}, {
+    "kana": "しょうねん",
+    "romaji": "shounen"
+}, {
+    "kana": "せい",
+    "romaji": "sei"
+}, {
+    "kana": "もし",
+    "romaji": "moshi"
+}, {
+    "kana": "いたる",
+    "romaji": "itaru"
+}, {
+    "kana": "ゆ",
+    "romaji": "yu"
+}, {
+    "kana": "ちいさい",
+    "romaji": "chiisai"
+}, {
+    "kana": "かたち",
+    "romaji": "katachi"
+}, {
+    "kana": "かげ",
+    "romaji": "kage"
+}, {
+    "kana": "りゅう",
+    "romaji": "ryuu"
+}, {
+    "kana": "でんわ",
+    "romaji": "denwa"
+}, {
+    "kana": "じ",
+    "romaji": "ji"
+}, {
+    "kana": "ほとんど",
+    "romaji": "hotondo"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "かわる",
+    "romaji": "kawaru"
+}, {
+    "kana": "なまえ",
+    "romaji": "namae"
+}, {
+    "kana": "かた",
+    "romaji": "kata"
+}, {
+    "kana": "ゆか",
+    "romaji": "yuka"
+}, {
+    "kana": "ぶ",
+    "romaji": "bu"
+}, {
+    "kana": "にる",
+    "romaji": "niru"
+}, {
+    "kana": "うん",
+    "romaji": "un"
+}, {
+    "kana": "ええ",
+    "romaji": "ee"
+}, {
+    "kana": "やがて",
+    "romaji": "yagate"
+}, {
+    "kana": "くん",
+    "romaji": "kun"
+}, {
+    "kana": "かみ",
+    "romaji": "kami"
+}, {
+    "kana": "あまり",
+    "romaji": "amari"
+}, {
+    "kana": "こっち",
+    "romaji": "kotchi"
+}, {
+    "kana": "おおい",
+    "romaji": "ooi"
+}, {
+    "kana": "のる",
+    "romaji": "noru"
+}, {
+    "kana": "い",
+    "romaji": "i"
+}, {
+    "kana": "あたり",
+    "romaji": "atari"
+}, {
+    "kana": "きっと",
+    "romaji": "kitto"
+}, {
+    "kana": "それでも",
+    "romaji": "soredemo"
+}, {
+    "kana": "おもえる",
+    "romaji": "omoeru"
+}, {
+    "kana": "とびら",
+    "romaji": "tobira"
+}, {
+    "kana": "みせ",
+    "romaji": "mise"
+}, {
+    "kana": "ばあい",
+    "romaji": "baai"
+}, {
+    "kana": "はは",
+    "romaji": "haha"
+}, {
+    "kana": "ゆく",
+    "romaji": "yuku"
+}, {
+    "kana": "きもち",
+    "romaji": "kimochi"
+}, {
+    "kana": "かんじ",
+    "romaji": "kanji"
+}, {
+    "kana": "おどろく",
+    "romaji": "odoroku"
+}, {
+    "kana": "まち",
+    "romaji": "machi"
+}, {
+    "kana": "しんぱい",
+    "romaji": "shinpai"
+}, {
+    "kana": "み",
+    "romaji": "mi"
+}, {
+    "kana": "はなれる",
+    "romaji": "hanareru"
+}, {
+    "kana": "キノ",
+    "romaji": "kino"
+}, {
+    "kana": "ゐる",
+    "romaji": "wiru"
+}, {
+    "kana": "せなか",
+    "romaji": "senaka"
+}, {
+    "kana": "うなずく",
+    "romaji": "unazuku"
+}, {
+    "kana": "つつ",
+    "romaji": "tsutsu"
+}, {
+    "kana": "ぐらい",
+    "romaji": "gurai"
+}, {
+    "kana": "だまる",
+    "romaji": "damaru"
+}, {
+    "kana": "うま",
+    "romaji": "uma"
+}, {
+    "kana": "うち",
+    "romaji": "uchi"
+}, {
+    "kana": "せつめい",
+    "romaji": "setsumei"
+}, {
+    "kana": "もと",
+    "romaji": "moto"
+}, {
+    "kana": "ぶる",
+    "romaji": "buru"
+}, {
+    "kana": "たてる",
+    "romaji": "tateru"
+}, {
+    "kana": "やめる",
+    "romaji": "yameru"
+}, {
+    "kana": "どうじに",
+    "romaji": "doujini"
+}, {
+    "kana": "せいかつ",
+    "romaji": "seikatsu"
+}, {
+    "kana": "たつ",
+    "romaji": "tatsu"
+}, {
+    "kana": "おもいだす",
+    "romaji": "omoidasu"
+}, {
+    "kana": "おしえる",
+    "romaji": "oshieru"
+}, {
+    "kana": "きく",
+    "romaji": "kiku"
+}, {
+    "kana": "つづく",
+    "romaji": "tsuzuku"
+}, {
+    "kana": "のむ",
+    "romaji": "nomu"
+}, {
+    "kana": "つる",
+    "romaji": "tsuru"
+}, {
+    "kana": "にげる",
+    "romaji": "nigeru"
+}, {
+    "kana": "みぎ",
+    "romaji": "migi"
+}, {
+    "kana": "さけぶ",
+    "romaji": "sakebu"
+}, {
+    "kana": "ひと",
+    "romaji": "hito"
+}, {
+    "kana": "はな",
+    "romaji": "hana"
+}, {
+    "kana": "しゅんかん",
+    "romaji": "shunkan"
+}, {
+    "kana": "いしき",
+    "romaji": "ishiki"
+}, {
+    "kana": "ろう",
+    "romaji": "rou"
+}, {
+    "kana": "とても",
+    "romaji": "totemo"
+}, {
+    "kana": "レイ",
+    "romaji": "rei"
+}, {
+    "kana": "うみ",
+    "romaji": "umi"
+}, {
+    "kana": "がっこう",
+    "romaji": "gakkou"
+}, {
+    "kana": "きる",
+    "romaji": "kiru"
+}, {
+    "kana": "じけん",
+    "romaji": "jiken"
+}, {
+    "kana": "わし",
+    "romaji": "washi"
+}, {
+    "kana": "つまり",
+    "romaji": "tsumari"
+}, {
+    "kana": "りょう",
+    "romaji": "ryou"
+}, {
+    "kana": "あける",
+    "romaji": "akeru"
+}, {
+    "kana": "ひとびと",
+    "romaji": "hitobito"
+}, {
+    "kana": "にる",
+    "romaji": "niru"
+}, {
+    "kana": "バーン",
+    "romaji": "baan"
+}, {
+    "kana": "がわ",
+    "romaji": "gawa"
+}, {
+    "kana": "てん",
+    "romaji": "ten"
+}, {
+    "kana": "ひ",
+    "romaji": "hi"
+}, {
+    "kana": "よい",
+    "romaji": "yoi"
+}, {
+    "kana": "くい",
+    "romaji": "kui"
+}, {
+    "kana": "いっしゅん",
+    "romaji": "isshun"
+}, {
+    "kana": "べつ",
+    "romaji": "betsu"
+}, {
+    "kana": "そのまま",
+    "romaji": "sonomama"
+}, {
+    "kana": "ひどい",
+    "romaji": "hidoi"
+}, {
+    "kana": "ちょう",
+    "romaji": "chou"
+}, {
+    "kana": "うしろ",
+    "romaji": "ushiro"
+}, {
+    "kana": "りゆう",
+    "romaji": "riyuu"
+}, {
+    "kana": "しかも",
+    "romaji": "shikamo"
+}, {
+    "kana": "にっぽん",
+    "romaji": "nippon"
+}, {
+    "kana": "かるい",
+    "romaji": "karui"
+}, {
+    "kana": "よう",
+    "romaji": "you"
+}, {
+    "kana": "ちかづく",
+    "romaji": "chikazuku"
+}, {
+    "kana": "ぼる",
+    "romaji": "boru"
+}, {
+    "kana": "あう",
+    "romaji": "au"
+}, {
+    "kana": "きゅう",
+    "romaji": "kyuu"
+}, {
+    "kana": "なく",
+    "romaji": "naku"
+}, {
+    "kana": "や",
+    "romaji": "ya"
+}, {
+    "kana": "かう",
+    "romaji": "kau"
+}, {
+    "kana": "させる",
+    "romaji": "saseru"
+}, {
+    "kana": "ゆめ",
+    "romaji": "yume"
+}, {
+    "kana": "おす",
+    "romaji": "osu"
+}, {
+    "kana": "とめる",
+    "romaji": "tomeru"
+}, {
+    "kana": "うつくしい",
+    "romaji": "utsukushii"
+}, {
+    "kana": "しく",
+    "romaji": "shiku"
+}, {
+    "kana": "れんちゅう",
+    "romaji": "renchuu"
+}, {
+    "kana": "はじめて",
+    "romaji": "hajimete"
+}, {
+    "kana": "りょうて",
+    "romaji": "ryoute"
+}, {
+    "kana": "あかい",
+    "romaji": "akai"
+}, {
+    "kana": "ゆう",
+    "romaji": "yuu"
+}, {
+    "kana": "あがる",
+    "romaji": "agaru"
+}, {
+    "kana": "だい",
+    "romaji": "dai"
+}, {
+    "kana": "ミ",
+    "romaji": "mi"
+}, {
+    "kana": "たる",
+    "romaji": "taru"
+}, {
+    "kana": "とし",
+    "romaji": "toshi"
+}, {
+    "kana": "しゅうい",
+    "romaji": "shuui"
+}, {
+    "kana": "こ",
+    "romaji": "ko"
+}, {
+    "kana": "やっぱり",
+    "romaji": "yappari"
+}, {
+    "kana": "それに",
+    "romaji": "soreni"
+}, {
+    "kana": "そう",
+    "romaji": "sou"
+}, {
+    "kana": "かなり",
+    "romaji": "kanari"
+}, {
+    "kana": "うしなう",
+    "romaji": "ushinau"
+}, {
+    "kana": "そうぞう",
+    "romaji": "souzou"
+}, {
+    "kana": "よむ",
+    "romaji": "yomu"
+}, {
+    "kana": "たべる",
+    "romaji": "taberu"
+}, {
+    "kana": "まち",
+    "romaji": "machi"
+}, {
+    "kana": "くろ",
+    "romaji": "kuro"
+}, {
+    "kana": "どの",
+    "romaji": "dono"
+}, {
+    "kana": "もり",
+    "romaji": "mori"
+}, {
+    "kana": "しずか",
+    "romaji": "shizuka"
+}, {
+    "kana": "とう",
+    "romaji": "tou"
+}, {
+    "kana": "けれども",
+    "romaji": "keredomo"
+}, {
+    "kana": "われわれ",
+    "romaji": "wareware"
+}, {
+    "kana": "きゅう",
+    "romaji": "kyuu"
+}, {
+    "kana": "せいと",
+    "romaji": "seito"
+}, {
+    "kana": "こむ",
+    "romaji": "komu"
+}, {
+    "kana": "くらい",
+    "romaji": "kurai"
+}, {
+    "kana": "こまる",
+    "romaji": "komaru"
+}, {
+    "kana": "ちかい",
+    "romaji": "chikai"
+}, {
+    "kana": "おぼえる",
+    "romaji": "oboeru"
+}, {
+    "kana": "いちばん",
+    "romaji": "ichiban"
+}, {
+    "kana": "にぎる",
+    "romaji": "nigiru"
+}, {
+    "kana": "パー",
+    "romaji": "paa"
+}, {
+    "kana": "しょう",
+    "romaji": "shou"
+}, {
+    "kana": "やみ",
+    "romaji": "yami"
+}, {
+    "kana": "じょせい",
+    "romaji": "josei"
+}, {
+    "kana": "ふしぎ",
+    "romaji": "fushigi"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "あさ",
+    "romaji": "asa"
+}, {
+    "kana": "かえす",
+    "romaji": "kaesu"
+}, {
+    "kana": "ふく",
+    "romaji": "fuku"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "じじつ",
+    "romaji": "jijitsu"
+}, {
+    "kana": "はいる",
+    "romaji": "hairu"
+}, {
+    "kana": "とおい",
+    "romaji": "tooi"
+}, {
+    "kana": "とおる",
+    "romaji": "tooru"
+}, {
+    "kana": "ねる",
+    "romaji": "neru"
+}, {
+    "kana": "むかし",
+    "romaji": "mukashi"
+}, {
+    "kana": "ようやく",
+    "romaji": "youyaku"
+}, {
+    "kana": "りかい",
+    "romaji": "rikai"
+}, {
+    "kana": "せん",
+    "romaji": "sen"
+}, {
+    "kana": "つれる",
+    "romaji": "tsureru"
+}, {
+    "kana": "これから",
+    "romaji": "korekara"
+}, {
+    "kana": "はっきり",
+    "romaji": "hakkiri"
+}, {
+    "kana": "せ",
+    "romaji": "se"
+}, {
+    "kana": "ぶぶん",
+    "romaji": "bubun"
+}, {
+    "kana": "あね",
+    "romaji": "ane"
+}, {
+    "kana": "わたくし",
+    "romaji": "watakushi"
+}, {
+    "kana": "つき",
+    "romaji": "tsuki"
+}, {
+    "kana": "すすむ",
+    "romaji": "susumu"
+}, {
+    "kana": "うつ",
+    "romaji": "utsu"
+}, {
+    "kana": "ばん",
+    "romaji": "ban"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "うごき",
+    "romaji": "ugoki"
+}, {
+    "kana": "々",
+    "romaji": "々"
+}, {
+    "kana": "まず",
+    "romaji": "mazu"
+}, {
+    "kana": "うつ",
+    "romaji": "utsu"
+}, {
+    "kana": "ふたつ",
+    "romaji": "futatsu"
+}, {
+    "kana": "ふとし",
+    "romaji": "futoshi"
+}, {
+    "kana": "せき",
+    "romaji": "seki"
+}, {
+    "kana": "じょうたい",
+    "romaji": "joutai"
+}, {
+    "kana": "とにかく",
+    "romaji": "tonikaku"
+}, {
+    "kana": "ほお",
+    "romaji": "hoo"
+}, {
+    "kana": "さいじん",
+    "romaji": "saijin"
+}, {
+    "kana": "きし",
+    "romaji": "kishi"
+}, {
+    "kana": "した",
+    "romaji": "shita"
+}, {
+    "kana": "だいじょうぶ",
+    "romaji": "daijoubu"
+}, {
+    "kana": "もうす",
+    "romaji": "mousu"
+}, {
+    "kana": "あたえる",
+    "romaji": "ataeru"
+}, {
+    "kana": "おう",
+    "romaji": "ou"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "はいご",
+    "romaji": "haigo"
+}, {
+    "kana": "そこで",
+    "romaji": "sokode"
+}, {
+    "kana": "どういう",
+    "romaji": "douiu"
+}, {
+    "kana": "じだい",
+    "romaji": "jidai"
+}, {
+    "kana": "たちあがる",
+    "romaji": "tachiagaru"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "まほう",
+    "romaji": "mahou"
+}, {
+    "kana": "ども",
+    "romaji": "domo"
+}, {
+    "kana": "ごと",
+    "romaji": "goto"
+}, {
+    "kana": "メートル",
+    "romaji": "meetoru"
+}, {
+    "kana": "ひざ",
+    "romaji": "hiza"
+}, {
+    "kana": "セ",
+    "romaji": "se"
+}, {
+    "kana": "はら",
+    "romaji": "hara"
+}, {
+    "kana": "いがい",
+    "romaji": "igai"
+}, {
+    "kana": "きぶん",
+    "romaji": "kibun"
+}, {
+    "kana": "うい",
+    "romaji": "ui"
+}, {
+    "kana": "かる",
+    "romaji": "karu"
+}, {
+    "kana": "ベッド",
+    "romaji": "beddo"
+}, {
+    "kana": "べ",
+    "romaji": "be"
+}, {
+    "kana": "しま",
+    "romaji": "shima"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "かしら",
+    "romaji": "kashira"
+}, {
+    "kana": "しんし",
+    "romaji": "shinshi"
+}, {
+    "kana": "み",
+    "romaji": "mi"
+}, {
+    "kana": "うまい",
+    "romaji": "umai"
+}, {
+    "kana": "ながれる",
+    "romaji": "nagareru"
+}, {
+    "kana": "こういう",
+    "romaji": "kouiu"
+}, {
+    "kana": "もっとも",
+    "romaji": "mottomo"
+}, {
+    "kana": "むり",
+    "romaji": "muri"
+}, {
+    "kana": "そば",
+    "romaji": "soba"
+}, {
+    "kana": "ちかく",
+    "romaji": "chikaku"
+}, {
+    "kana": "あっ",
+    "romaji": "a"
+}, {
+    "kana": "あたらしい",
+    "romaji": "atarashii"
+}, {
+    "kana": "すぎる",
+    "romaji": "sugiru"
+}, {
+    "kana": "とく",
+    "romaji": "toku"
+}, {
+    "kana": "いし",
+    "romaji": "ishi"
+}, {
+    "kana": "なみだ",
+    "romaji": "namida"
+}, {
+    "kana": "へい",
+    "romaji": "hei"
+}, {
+    "kana": "すると",
+    "romaji": "suruto"
+}, {
+    "kana": "さあ",
+    "romaji": "saa"
+}, {
+    "kana": "めん",
+    "romaji": "men"
+}, {
+    "kana": "ふたたび",
+    "romaji": "futatabi"
+}, {
+    "kana": "まい",
+    "romaji": "mai"
+}, {
+    "kana": "かう",
+    "romaji": "kau"
+}, {
+    "kana": "ころ",
+    "romaji": "koro"
+}, {
+    "kana": "ふたり",
+    "romaji": "futari"
+}, {
+    "kana": "はん",
+    "romaji": "han"
+}, {
+    "kana": "ぜったい",
+    "romaji": "zettai"
+}, {
+    "kana": "オーラ",
+    "romaji": "oora"
+}, {
+    "kana": "きけん",
+    "romaji": "kiken"
+}, {
+    "kana": "あな",
+    "romaji": "ana"
+}, {
+    "kana": "かんぜん",
+    "romaji": "kanzen"
+}, {
+    "kana": "わかる",
+    "romaji": "wakaru"
+}, {
+    "kana": "さい",
+    "romaji": "sai"
+}, {
+    "kana": "ひだり",
+    "romaji": "hidari"
+}, {
+    "kana": "かくす",
+    "romaji": "kakusu"
+}, {
+    "kana": "こうげき",
+    "romaji": "kougeki"
+}, {
+    "kana": "つた",
+    "romaji": "tsuta"
+}, {
+    "kana": "ま",
+    "romaji": "ma"
+}, {
+    "kana": "たく",
+    "romaji": "taku"
+}, {
+    "kana": "なにか",
+    "romaji": "nanika"
+}, {
+    "kana": "なかま",
+    "romaji": "nakama"
+}, {
+    "kana": "いろいろ",
+    "romaji": "iroiro"
+}, {
+    "kana": "リ",
+    "romaji": "ri"
+}, {
+    "kana": "とうぜん",
+    "romaji": "touzen"
+}, {
+    "kana": "かのう",
+    "romaji": "kanou"
+}, {
+    "kana": "おくる",
+    "romaji": "okuru"
+}, {
+    "kana": "なあ",
+    "romaji": "naa"
+}, {
+    "kana": "ゆるす",
+    "romaji": "yurusu"
+}, {
+    "kana": "しり",
+    "romaji": "shiri"
+}, {
+    "kana": "たい",
+    "romaji": "tai"
+}, {
+    "kana": "ラン",
+    "romaji": "ran"
+}, {
+    "kana": "くださる",
+    "romaji": "kudasaru"
+}, {
+    "kana": "むこう",
+    "romaji": "mukou"
+}, {
+    "kana": "はな",
+    "romaji": "hana"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "みつける",
+    "romaji": "mitsukeru"
+}, {
+    "kana": "ようし",
+    "romaji": "youshi"
+}, {
+    "kana": "ちがい",
+    "romaji": "chigai"
+}, {
+    "kana": "はげしい",
+    "romaji": "hageshii"
+}, {
+    "kana": "さすが",
+    "romaji": "sasuga"
+}, {
+    "kana": "けい",
+    "romaji": "kei"
+}, {
+    "kana": "ひくい",
+    "romaji": "hikui"
+}, {
+    "kana": "ひとみ",
+    "romaji": "hitomi"
+}, {
+    "kana": "のこす",
+    "romaji": "nokosu"
+}, {
+    "kana": "いだく",
+    "romaji": "idaku"
+}, {
+    "kana": "しゅじん",
+    "romaji": "shujin"
+}, {
+    "kana": "きがつく",
+    "romaji": "kigatsuku"
+}, {
+    "kana": "レ",
+    "romaji": "re"
+}, {
+    "kana": "ちじょう",
+    "romaji": "chijou"
+}, {
+    "kana": "あいつ",
+    "romaji": "aitsu"
+}, {
+    "kana": "きく",
+    "romaji": "kiku"
+}, {
+    "kana": "おこる",
+    "romaji": "okoru"
+}, {
+    "kana": "ふつう",
+    "romaji": "futsuu"
+}, {
+    "kana": "うごかす",
+    "romaji": "ugokasu"
+}, {
+    "kana": "くうき",
+    "romaji": "kuuki"
+}, {
+    "kana": "ふう",
+    "romaji": "fuu"
+}, {
+    "kana": "あに",
+    "romaji": "ani"
+}, {
+    "kana": "ほし",
+    "romaji": "hoshi"
+}, {
+    "kana": "なり",
+    "romaji": "nari"
+}, {
+    "kana": "つづける",
+    "romaji": "tsuzukeru"
+}, {
+    "kana": "じっさい",
+    "romaji": "jissai"
+}, {
+    "kana": "おもい",
+    "romaji": "omoi"
+}, {
+    "kana": "ページ",
+    "romaji": "peeji"
+}, {
+    "kana": "まもる",
+    "romaji": "mamoru"
+}, {
+    "kana": "おお",
+    "romaji": "oo"
+}, {
+    "kana": "いもうと",
+    "romaji": "imouto"
+}, {
+    "kana": "むく",
+    "romaji": "muku"
+}, {
+    "kana": "せんとう",
+    "romaji": "sentou"
+}, {
+    "kana": "しき",
+    "romaji": "shiki"
+}, {
+    "kana": "ホ",
+    "romaji": "ho"
+}, {
+    "kana": "リア",
+    "romaji": "ria"
+}, {
+    "kana": "ぼう",
+    "romaji": "bou"
+}, {
+    "kana": "いのち",
+    "romaji": "inochi"
+}, {
+    "kana": "こいつ",
+    "romaji": "koitsu"
+}, {
+    "kana": "にたいして",
+    "romaji": "nitaishite"
+}, {
+    "kana": "うちゅう",
+    "romaji": "uchuu"
+}, {
+    "kana": "ろうか",
+    "romaji": "rouka"
+}, {
+    "kana": "テーブル",
+    "romaji": "teeburu"
+}, {
+    "kana": "きおく",
+    "romaji": "kioku"
+}, {
+    "kana": "つぶやく",
+    "romaji": "tsubuyaku"
+}, {
+    "kana": "ほんとう",
+    "romaji": "hontou"
+}, {
+    "kana": "それで",
+    "romaji": "sorede"
+}, {
+    "kana": "ちゃんと",
+    "romaji": "chanto"
+}, {
+    "kana": "かえる",
+    "romaji": "kaeru"
+}, {
+    "kana": "おもい",
+    "romaji": "omoi"
+}, {
+    "kana": "きょだい",
+    "romaji": "kyodai"
+}, {
+    "kana": "まさか",
+    "romaji": "masaka"
+}, {
+    "kana": "あさば",
+    "romaji": "asaba"
+}, {
+    "kana": "ルー",
+    "romaji": "ruu"
+}, {
+    "kana": "きゃく",
+    "romaji": "kyaku"
+}, {
+    "kana": "ぜんしん",
+    "romaji": "zenshin"
+}, {
+    "kana": "レナ",
+    "romaji": "rena"
+}, {
+    "kana": "ふと",
+    "romaji": "futo"
+}, {
+    "kana": "うる",
+    "romaji": "uru"
+}, {
+    "kana": "おこす",
+    "romaji": "okosu"
+}, {
+    "kana": "ながめる",
+    "romaji": "nagameru"
+}, {
+    "kana": "あがる",
+    "romaji": "agaru"
+}, {
+    "kana": "きぞく",
+    "romaji": "kizoku"
+}, {
+    "kana": "サー",
+    "romaji": "saa"
+}, {
+    "kana": "だめ",
+    "romaji": "dame"
+}, {
+    "kana": "さけ",
+    "romaji": "sake"
+}, {
+    "kana": "ふあん",
+    "romaji": "fuan"
+}, {
+    "kana": "けっか",
+    "romaji": "kekka"
+}, {
+    "kana": "とうきょう",
+    "romaji": "toukyou"
+}, {
+    "kana": "おんなのこ",
+    "romaji": "onnanoko"
+}, {
+    "kana": "しゃしん",
+    "romaji": "shashin"
+}, {
+    "kana": "へんじ",
+    "romaji": "henji"
+}, {
+    "kana": "いす",
+    "romaji": "isu"
+}, {
+    "kana": "みぎて",
+    "romaji": "migite"
+}, {
+    "kana": "さがす",
+    "romaji": "sagasu"
+}, {
+    "kana": "すわる",
+    "romaji": "suwaru"
+}, {
+    "kana": "きかい",
+    "romaji": "kikai"
+}, {
+    "kana": "かいだん",
+    "romaji": "kaidan"
+}, {
+    "kana": "たい",
+    "romaji": "tai"
+}, {
+    "kana": "あらため",
+    "romaji": "aratame"
+}, {
+    "kana": "わずか",
+    "romaji": "wazuka"
+}, {
+    "kana": "そんなに",
+    "romaji": "sonnani"
+}, {
+    "kana": "けっして",
+    "romaji": "kesshite"
+}, {
+    "kana": "からだ",
+    "romaji": "karada"
+}, {
+    "kana": "そる",
+    "romaji": "soru"
+}, {
+    "kana": "とおり",
+    "romaji": "toori"
+}, {
+    "kana": "さくら",
+    "romaji": "sakura"
+}, {
+    "kana": "こうどう",
+    "romaji": "koudou"
+}, {
+    "kana": "おりる",
+    "romaji": "oriru"
+}, {
+    "kana": "おこる",
+    "romaji": "okoru"
+}, {
+    "kana": "がら",
+    "romaji": "gara"
+}, {
+    "kana": "さゆう",
+    "romaji": "sayuu"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "しろ",
+    "romaji": "shiro"
+}, {
+    "kana": "われわれ",
+    "romaji": "wareware"
+}, {
+    "kana": "みあげる",
+    "romaji": "miageru"
+}, {
+    "kana": "おい",
+    "romaji": "oi"
+}, {
+    "kana": "みとめる",
+    "romaji": "mitomeru"
+}, {
+    "kana": "もと",
+    "romaji": "moto"
+}, {
+    "kana": "あめ",
+    "romaji": "ame"
+}, {
+    "kana": "もどる",
+    "romaji": "modoru"
+}, {
+    "kana": "おとす",
+    "romaji": "otosu"
+}, {
+    "kana": "はこぶ",
+    "romaji": "hakobu"
+}, {
+    "kana": "ろうじん",
+    "romaji": "roujin"
+}, {
+    "kana": "うそ",
+    "romaji": "uso"
+}, {
+    "kana": "しぜん",
+    "romaji": "shizen"
+}, {
+    "kana": "しん",
+    "romaji": "shin"
+}, {
+    "kana": "しろ",
+    "romaji": "shiro"
+}, {
+    "kana": "とつぜん",
+    "romaji": "totsuzen"
+}, {
+    "kana": "れい",
+    "romaji": "rei"
+}, {
+    "kana": "バー",
+    "romaji": "baa"
+}, {
+    "kana": "どうも",
+    "romaji": "doumo"
+}, {
+    "kana": "おきる",
+    "romaji": "okiru"
+}, {
+    "kana": "さげ",
+    "romaji": "sage"
+}, {
+    "kana": "ねむる",
+    "romaji": "nemuru"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "はこ",
+    "romaji": "hako"
+}, {
+    "kana": "いたい",
+    "romaji": "itai"
+}, {
+    "kana": "かんがえ",
+    "romaji": "kangae"
+}, {
+    "kana": "じゅう",
+    "romaji": "juu"
+}, {
+    "kana": "てがみ",
+    "romaji": "tegami"
+}, {
+    "kana": "くう",
+    "romaji": "kuu"
+}, {
+    "kana": "いきなり",
+    "romaji": "ikinari"
+}, {
+    "kana": "べつに",
+    "romaji": "betsuni"
+}, {
+    "kana": "おもわず",
+    "romaji": "omowazu"
+}, {
+    "kana": "そこ",
+    "romaji": "soko"
+}, {
+    "kana": "さる",
+    "romaji": "saru"
+}, {
+    "kana": "せいしん",
+    "romaji": "seishin"
+}, {
+    "kana": "ほのお",
+    "romaji": "honoo"
+}, {
+    "kana": "はたらく",
+    "romaji": "hataraku"
+}, {
+    "kana": "あした",
+    "romaji": "ashita"
+}, {
+    "kana": "たすける",
+    "romaji": "tasukeru"
+}, {
+    "kana": "じめん",
+    "romaji": "jimen"
+}, {
+    "kana": "あう",
+    "romaji": "au"
+}, {
+    "kana": "あつい",
+    "romaji": "atsui"
+}, {
+    "kana": "うかぶ",
+    "romaji": "ukabu"
+}, {
+    "kana": "レン",
+    "romaji": "ren"
+}, {
+    "kana": "つめたい",
+    "romaji": "tsumetai"
+}, {
+    "kana": "いん",
+    "romaji": "in"
+}, {
+    "kana": "かんたん",
+    "romaji": "kantan"
+}, {
+    "kana": "のうりょく",
+    "romaji": "nouryoku"
+}, {
+    "kana": "あいだ",
+    "romaji": "aida"
+}, {
+    "kana": "もとめる",
+    "romaji": "motomeru"
+}, {
+    "kana": "あらわれる",
+    "romaji": "arawareru"
+}, {
+    "kana": "はなつ",
+    "romaji": "hanatsu"
+}, {
+    "kana": "とじる",
+    "romaji": "tojiru"
+}, {
+    "kana": "たおれる",
+    "romaji": "taoreru"
+}, {
+    "kana": "いぬ",
+    "romaji": "inu"
+}, {
+    "kana": "では",
+    "romaji": "deha"
+}, {
+    "kana": "てん",
+    "romaji": "ten"
+}, {
+    "kana": "すごい",
+    "romaji": "sugoi"
+}, {
+    "kana": "ない",
+    "romaji": "nai"
+}, {
+    "kana": "おかしい",
+    "romaji": "okashii"
+}, {
+    "kana": "げん",
+    "romaji": "gen"
+}, {
+    "kana": "へん",
+    "romaji": "hen"
+}, {
+    "kana": "ちょう",
+    "romaji": "chou"
+}, {
+    "kana": "いち",
+    "romaji": "ichi"
+}, {
+    "kana": "ゝ",
+    "romaji": "ゝ"
+}, {
+    "kana": "こわい",
+    "romaji": "kowai"
+}, {
+    "kana": "つい",
+    "romaji": "tsui"
+}, {
+    "kana": "かくにん",
+    "romaji": "kakunin"
+}, {
+    "kana": "めいれい",
+    "romaji": "meirei"
+}, {
+    "kana": "すてる",
+    "romaji": "suteru"
+}, {
+    "kana": "ちょうど",
+    "romaji": "choudo"
+}, {
+    "kana": "もん",
+    "romaji": "mon"
+}, {
+    "kana": "しかた",
+    "romaji": "shikata"
+}, {
+    "kana": "しめす",
+    "romaji": "shimesu"
+}, {
+    "kana": "は",
+    "romaji": "ha"
+}, {
+    "kana": "どちら",
+    "romaji": "dochira"
+}, {
+    "kana": "あゆみ",
+    "romaji": "ayumi"
+}, {
+    "kana": "はんぶん",
+    "romaji": "hanbun"
+}, {
+    "kana": "あわせる",
+    "romaji": "awaseru"
+}, {
+    "kana": "たたかう",
+    "romaji": "tatakau"
+}, {
+    "kana": "きょり",
+    "romaji": "kyori"
+}, {
+    "kana": "むく",
+    "romaji": "muku"
+}, {
+    "kana": "かむ",
+    "romaji": "kamu"
+}, {
+    "kana": "かえる",
+    "romaji": "kaeru"
+}, {
+    "kana": "ならぶ",
+    "romaji": "narabu"
+}, {
+    "kana": "ふりかえる",
+    "romaji": "furikaeru"
+}, {
+    "kana": "すっかり",
+    "romaji": "sukkari"
+}, {
+    "kana": "かぐ",
+    "romaji": "kagu"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "つつむ",
+    "romaji": "tsutsumu"
+}, {
+    "kana": "いくら",
+    "romaji": "ikura"
+}, {
+    "kana": "いえる",
+    "romaji": "ieru"
+}, {
+    "kana": "きのう",
+    "romaji": "kinou"
+}, {
+    "kana": "それら",
+    "romaji": "sorera"
+}, {
+    "kana": "ゆき",
+    "romaji": "yuki"
+}, {
+    "kana": "げき",
+    "romaji": "geki"
+}, {
+    "kana": "じょうほう",
+    "romaji": "jouhou"
+}, {
+    "kana": "うまれる",
+    "romaji": "umareru"
+}, {
+    "kana": "ひめい",
+    "romaji": "himei"
+}, {
+    "kana": "あるいは",
+    "romaji": "aruiha"
+}, {
+    "kana": "なかなか",
+    "romaji": "nakanaka"
+}, {
+    "kana": "ひろい",
+    "romaji": "hiroi"
+}, {
+    "kana": "か",
+    "romaji": "ka"
+}, {
+    "kana": "せんそう",
+    "romaji": "sensou"
+}, {
+    "kana": "たび",
+    "romaji": "tabi"
+}, {
+    "kana": "まつ",
+    "romaji": "matsu"
+}, {
+    "kana": "みょう",
+    "romaji": "myou"
+}, {
+    "kana": "もういちど",
+    "romaji": "mouichido"
+}, {
+    "kana": "それとも",
+    "romaji": "soretomo"
+}, {
+    "kana": "みせる",
+    "romaji": "miseru"
+}, {
+    "kana": "いっぽう",
+    "romaji": "ippou"
+}, {
+    "kana": "すむ",
+    "romaji": "sumu"
+}, {
+    "kana": "ほうほう",
+    "romaji": "houhou"
+}, {
+    "kana": "えん",
+    "romaji": "en"
+}, {
+    "kana": "ほしい",
+    "romaji": "hoshii"
+}, {
+    "kana": "となり",
+    "romaji": "tonari"
+}, {
+    "kana": "じょうきょう",
+    "romaji": "joukyou"
+}, {
+    "kana": "じっと",
+    "romaji": "jitto"
+}, {
+    "kana": "ははおや",
+    "romaji": "hahaoya"
+}, {
+    "kana": "おも",
+    "romaji": "omo"
+}, {
+    "kana": "いったい",
+    "romaji": "ittai"
+}, {
+    "kana": "えらぶ",
+    "romaji": "erabu"
+}, {
+    "kana": "くちょう",
+    "romaji": "kuchou"
+}, {
+    "kana": "やすし",
+    "romaji": "yasushi"
+}, {
+    "kana": "しんがり",
+    "romaji": "shingari"
+}, {
+    "kana": "へる",
+    "romaji": "heru"
+}, {
+    "kana": "かんじょう",
+    "romaji": "kanjou"
+}, {
+    "kana": "ふれる",
+    "romaji": "fureru"
+}, {
+    "kana": "しょ",
+    "romaji": "sho"
+}, {
+    "kana": "みな",
+    "romaji": "mina"
+}, {
+    "kana": "あい",
+    "romaji": "ai"
+}, {
+    "kana": "はんにん",
+    "romaji": "hannin"
+}, {
+    "kana": "み",
+    "romaji": "mi"
+}, {
+    "kana": "けはい",
+    "romaji": "kehai"
+}, {
+    "kana": "たずねる",
+    "romaji": "tazuneru"
+}, {
+    "kana": "なんか",
+    "romaji": "nanka"
+}, {
+    "kana": "きず",
+    "romaji": "kizu"
+}, {
+    "kana": "きょうふ",
+    "romaji": "kyoufu"
+}, {
+    "kana": "いっしょ",
+    "romaji": "issho"
+}, {
+    "kana": "どうやら",
+    "romaji": "douyara"
+}, {
+    "kana": "すむ",
+    "romaji": "sumu"
+}, {
+    "kana": "かんかく",
+    "romaji": "kankaku"
+}, {
+    "kana": "きたい",
+    "romaji": "kitai"
+}, {
+    "kana": "ほそい",
+    "romaji": "hosoi"
+}, {
+    "kana": "ぜんいん",
+    "romaji": "zenin"
+}, {
+    "kana": "じゆう",
+    "romaji": "jiyuu"
+}, {
+    "kana": "ぬける",
+    "romaji": "nukeru"
+}, {
+    "kana": "いや",
+    "romaji": "iya"
+}, {
+    "kana": "たたく",
+    "romaji": "tataku"
+}, {
+    "kana": "マージ",
+    "romaji": "maaji"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "たん",
+    "romaji": "tan"
+}, {
+    "kana": "ヤツ",
+    "romaji": "yatsu"
+}, {
+    "kana": "もくてき",
+    "romaji": "mokuteki"
+}, {
+    "kana": "きめる",
+    "romaji": "kimeru"
+}, {
+    "kana": "うら",
+    "romaji": "ura"
+}, {
+    "kana": "そいつ",
+    "romaji": "soitsu"
+}, {
+    "kana": "とちゅう",
+    "romaji": "tochuu"
+}, {
+    "kana": "しし",
+    "romaji": "shishi"
+}, {
+    "kana": "たのむ",
+    "romaji": "tanomu"
+}, {
+    "kana": "いそぐ",
+    "romaji": "isogu"
+}, {
+    "kana": "なるほど",
+    "romaji": "naruhodo"
+}, {
+    "kana": "なま",
+    "romaji": "nama"
+}, {
+    "kana": "たび",
+    "romaji": "tabi"
+}, {
+    "kana": "しつもん",
+    "romaji": "shitsumon"
+}, {
+    "kana": "うし",
+    "romaji": "ushi"
+}, {
+    "kana": "ごう",
+    "romaji": "gou"
+}, {
+    "kana": "あかるい",
+    "romaji": "akarui"
+}, {
+    "kana": "あまりに",
+    "romaji": "amarini"
+}, {
+    "kana": "さとこ",
+    "romaji": "satoko"
+}, {
+    "kana": "たのしい",
+    "romaji": "tanoshii"
+}, {
+    "kana": "つかむ",
+    "romaji": "tsukamu"
+}, {
+    "kana": "せん",
+    "romaji": "sen"
+}, {
+    "kana": "ぬく",
+    "romaji": "nuku"
+}, {
+    "kana": "うわさ",
+    "romaji": "uwasa"
+}, {
+    "kana": "ぜんぶ",
+    "romaji": "zenbu"
+}, {
+    "kana": "つげる",
+    "romaji": "tsugeru"
+}, {
+    "kana": "たてる",
+    "romaji": "tateru"
+}, {
+    "kana": "ものの",
+    "romaji": "monono"
+}, {
+    "kana": "いただく",
+    "romaji": "itadaku"
+}, {
+    "kana": "ほうこう",
+    "romaji": "houkou"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "なる",
+    "romaji": "naru"
+}, {
+    "kana": "かって",
+    "romaji": "katte"
+}, {
+    "kana": "しらべる",
+    "romaji": "shiraberu"
+}, {
+    "kana": "はかせ",
+    "romaji": "hakase"
+}, {
+    "kana": "え",
+    "romaji": "e"
+}, {
+    "kana": "びしょう",
+    "romaji": "bishou"
+}, {
+    "kana": "やっと",
+    "romaji": "yatto"
+}, {
+    "kana": "けいさつ",
+    "romaji": "keisatsu"
+}, {
+    "kana": "のぼる",
+    "romaji": "noboru"
+}, {
+    "kana": "あら",
+    "romaji": "ara"
+}, {
+    "kana": "ばら",
+    "romaji": "bara"
+}, {
+    "kana": "わが",
+    "romaji": "waga"
+}, {
+    "kana": "いちど",
+    "romaji": "ichido"
+}, {
+    "kana": "つま",
+    "romaji": "tsuma"
+}, {
+    "kana": "だれか",
+    "romaji": "dareka"
+}, {
+    "kana": "どれ",
+    "romaji": "dore"
+}, {
+    "kana": "やくそく",
+    "romaji": "yakusoku"
+}, {
+    "kana": "つくえ",
+    "romaji": "tsukue"
+}, {
+    "kana": "たぶん",
+    "romaji": "tabun"
+}, {
+    "kana": "あく",
+    "romaji": "aku"
+}, {
+    "kana": "げんじつ",
+    "romaji": "genjitsu"
+}, {
+    "kana": "けっきょく",
+    "romaji": "kekkyoku"
+}, {
+    "kana": "まじゅつ",
+    "romaji": "majutsu"
+}, {
+    "kana": "イン",
+    "romaji": "in"
+}, {
+    "kana": "ばか",
+    "romaji": "baka"
+}, {
+    "kana": "たてもの",
+    "romaji": "tatemono"
+}, {
+    "kana": "のみ",
+    "romaji": "nomi"
+}, {
+    "kana": "じんぶつ",
+    "romaji": "jinbutsu"
+}, {
+    "kana": "ひだりて",
+    "romaji": "hidarite"
+}, {
+    "kana": "ワ",
+    "romaji": "wa"
+}, {
+    "kana": "ずつ",
+    "romaji": "zutsu"
+}, {
+    "kana": "あか",
+    "romaji": "aka"
+}, {
+    "kana": "だい",
+    "romaji": "dai"
+}, {
+    "kana": "かな",
+    "romaji": "kana"
+}, {
+    "kana": "さちこ",
+    "romaji": "sachiko"
+}, {
+    "kana": "ひかる",
+    "romaji": "hikaru"
+}, {
+    "kana": "うん",
+    "romaji": "un"
+}, {
+    "kana": "はだ",
+    "romaji": "hada"
+}, {
+    "kana": "とまる",
+    "romaji": "tomaru"
+}, {
+    "kana": "ぜん",
+    "romaji": "zen"
+}, {
+    "kana": "おそろしい",
+    "romaji": "osoroshii"
+}, {
+    "kana": "ぶたい",
+    "romaji": "butai"
+}, {
+    "kana": "うかべる",
+    "romaji": "ukaberu"
+}, {
+    "kana": "ほら",
+    "romaji": "hora"
+}, {
+    "kana": "みずから",
+    "romaji": "mizukara"
+}, {
+    "kana": "そっと",
+    "romaji": "sotto"
+}, {
+    "kana": "やう",
+    "romaji": "yau"
+}, {
+    "kana": "たくさん",
+    "romaji": "takusan"
+}, {
+    "kana": "それぞれ",
+    "romaji": "sorezore"
+}, {
+    "kana": "へいし",
+    "romaji": "heishi"
+}, {
+    "kana": "たたかい",
+    "romaji": "tatakai"
+}, {
+    "kana": "っていう",
+    "romaji": "tteiu"
+}, {
+    "kana": "ふん",
+    "romaji": "fun"
+}, {
+    "kana": "つく",
+    "romaji": "tsuku"
+}, {
+    "kana": "そのもの",
+    "romaji": "sonomono"
+}, {
+    "kana": "げんざい",
+    "romaji": "genzai"
+}, {
+    "kana": "したい",
+    "romaji": "shitai"
+}, {
+    "kana": "げん",
+    "romaji": "gen"
+}, {
+    "kana": "さげる",
+    "romaji": "sageru"
+}, {
+    "kana": "えがく",
+    "romaji": "egaku"
+}, {
+    "kana": "ぜんたい",
+    "romaji": "zentai"
+}, {
+    "kana": "おそい",
+    "romaji": "osoi"
+}, {
+    "kana": "の",
+    "romaji": "no"
+}, {
+    "kana": "いぜん",
+    "romaji": "izen"
+}, {
+    "kana": "びょう",
+    "romaji": "byou"
+}, {
+    "kana": "ようい",
+    "romaji": "youi"
+}, {
+    "kana": "ふるえる",
+    "romaji": "furueru"
+}, {
+    "kana": "いたす",
+    "romaji": "itasu"
+}, {
+    "kana": "へん",
+    "romaji": "hen"
+}, {
+    "kana": "つばさ",
+    "romaji": "tsubasa"
+}, {
+    "kana": "ふく",
+    "romaji": "fuku"
+}, {
+    "kana": "ほしい",
+    "romaji": "hoshii"
+}, {
+    "kana": "かなめ",
+    "romaji": "kaname"
+}, {
+    "kana": "リック",
+    "romaji": "rikku"
+}, {
+    "kana": "みじかい",
+    "romaji": "mijikai"
+}, {
+    "kana": "はんのう",
+    "romaji": "hannou"
+}, {
+    "kana": "ちまう",
+    "romaji": "chimau"
+}, {
+    "kana": "しっかり",
+    "romaji": "shikkari"
+}, {
+    "kana": "あおい",
+    "romaji": "aoi"
+}, {
+    "kana": "ひみつ",
+    "romaji": "himitsu"
+}, {
+    "kana": "ねこ",
+    "romaji": "neko"
+}, {
+    "kana": "ぶき",
+    "romaji": "buki"
+}, {
+    "kana": "まったく",
+    "romaji": "mattaku"
+}, {
+    "kana": "むこう",
+    "romaji": "mukou"
+}, {
+    "kana": "ふる",
+    "romaji": "furu"
+}, {
+    "kana": "たた",
+    "romaji": "tata"
+}, {
+    "kana": "すう",
+    "romaji": "suu"
+}, {
+    "kana": "あせ",
+    "romaji": "ase"
+}, {
+    "kana": "まちがい",
+    "romaji": "machigai"
+}, {
+    "kana": "はずかしい",
+    "romaji": "hazukashii"
+}, {
+    "kana": "こうして",
+    "romaji": "koushite"
+}, {
+    "kana": "がく",
+    "romaji": "gaku"
+}, {
+    "kana": "むしろ",
+    "romaji": "mushiro"
+}, {
+    "kana": "ほうこく",
+    "romaji": "houkoku"
+}, {
+    "kana": "くうかん",
+    "romaji": "kuukan"
+}, {
+    "kana": "えがお",
+    "romaji": "egao"
+}, {
+    "kana": "まわる",
+    "romaji": "mawaru"
+}, {
+    "kana": "にたいする",
+    "romaji": "nitaisuru"
+}, {
+    "kana": "いえる",
+    "romaji": "ieru"
+}, {
+    "kana": "におい",
+    "romaji": "nioi"
+}, {
+    "kana": "いずれ",
+    "romaji": "izure"
+}, {
+    "kana": "ありがとう",
+    "romaji": "arigatou"
+}, {
+    "kana": "やってくる",
+    "romaji": "yattekuru"
+}, {
+    "kana": "こんなに",
+    "romaji": "konnani"
+}, {
+    "kana": "じつは",
+    "romaji": "jitsuha"
+}, {
+    "kana": "ちょうし",
+    "romaji": "choushi"
+}, {
+    "kana": "ようこ",
+    "romaji": "youko"
+}, {
+    "kana": "ぼう",
+    "romaji": "bou"
+}, {
+    "kana": "アン",
+    "romaji": "an"
+}, {
+    "kana": "のばす",
+    "romaji": "nobasu"
+}, {
+    "kana": "そりゃ",
+    "romaji": "sorya"
+}, {
+    "kana": "エルメス",
+    "romaji": "erumesu"
+}, {
+    "kana": "がた",
+    "romaji": "gata"
+}, {
+    "kana": "あし",
+    "romaji": "ashi"
+}, {
+    "kana": "とともに",
+    "romaji": "totomoni"
+}, {
+    "kana": "ひとし",
+    "romaji": "hitoshi"
+}, {
+    "kana": "いっぱい",
+    "romaji": "ippai"
+}, {
+    "kana": "たいど",
+    "romaji": "taido"
+}, {
+    "kana": "はっけん",
+    "romaji": "hakken"
+}, {
+    "kana": "はん",
+    "romaji": "han"
+}, {
+    "kana": "きんちょう",
+    "romaji": "kinchou"
+}, {
+    "kana": "おに",
+    "romaji": "oni"
+}, {
+    "kana": "じゅう",
+    "romaji": "juu"
+}, {
+    "kana": "あんしん",
+    "romaji": "anshin"
+}, {
+    "kana": "はんだん",
+    "romaji": "handan"
+}, {
+    "kana": "うなる",
+    "romaji": "unaru"
+}, {
+    "kana": "たしかに",
+    "romaji": "tashikani"
+}, {
+    "kana": "ゆの",
+    "romaji": "yuno"
+}, {
+    "kana": "あわてる",
+    "romaji": "awateru"
+}, {
+    "kana": "たにん",
+    "romaji": "tanin"
+}, {
+    "kana": "みのる",
+    "romaji": "minoru"
+}, {
+    "kana": "なぁ",
+    "romaji": "naa"
+}, {
+    "kana": "こう",
+    "romaji": "kou"
+}, {
+    "kana": "てんじょう",
+    "romaji": "tenjou"
+}, {
+    "kana": "やしき",
+    "romaji": "yashiki"
+}, {
+    "kana": "かた",
+    "romaji": "kata"
+}, {
+    "kana": "くも",
+    "romaji": "kumo"
+}, {
+    "kana": "たま",
+    "romaji": "tama"
+}, {
+    "kana": "おねがい",
+    "romaji": "onegai"
+}, {
+    "kana": "ちょう",
+    "romaji": "chou"
+}, {
+    "kana": "しん",
+    "romaji": "shin"
+}, {
+    "kana": "おもしろい",
+    "romaji": "omoshiroi"
+}, {
+    "kana": "ていど",
+    "romaji": "teido"
+}, {
+    "kana": "ふく",
+    "romaji": "fuku"
+}, {
+    "kana": "がん",
+    "romaji": "gan"
+}, {
+    "kana": "かぶる",
+    "romaji": "kaburu"
+}, {
+    "kana": "わけ",
+    "romaji": "wake"
+}, {
+    "kana": "なれる",
+    "romaji": "nareru"
+}, {
+    "kana": "ちゅうおう",
+    "romaji": "chuuou"
+}, {
+    "kana": "において",
+    "romaji": "nioite"
+}, {
+    "kana": "かぎり",
+    "romaji": "kagiri"
+}, {
+    "kana": "ひく",
+    "romaji": "hiku"
+}, {
+    "kana": "よせる",
+    "romaji": "yoseru"
+}, {
+    "kana": "せん",
+    "romaji": "sen"
+}, {
+    "kana": "きよし",
+    "romaji": "kiyoshi"
+}, {
+    "kana": "ふるい",
+    "romaji": "furui"
+}, {
+    "kana": "セイ",
+    "romaji": "sei"
+}, {
+    "kana": "いったい",
+    "romaji": "ittai"
+}, {
+    "kana": "かたる",
+    "romaji": "kataru"
+}, {
+    "kana": "たいへん",
+    "romaji": "taihen"
+}, {
+    "kana": "せいめい",
+    "romaji": "seimei"
+}, {
+    "kana": "これ",
+    "romaji": "kore"
+}, {
+    "kana": "ちがう",
+    "romaji": "chigau"
+}, {
+    "kana": "ける",
+    "romaji": "keru"
+}, {
+    "kana": "ひっし",
+    "romaji": "hisshi"
+}, {
+    "kana": "はじ",
+    "romaji": "haji"
+}, {
+    "kana": "あてる",
+    "romaji": "ateru"
+}, {
+    "kana": "ちきゅう",
+    "romaji": "chikyuu"
+}, {
+    "kana": "はる",
+    "romaji": "haru"
+}, {
+    "kana": "おっと",
+    "romaji": "otto"
+}, {
+    "kana": "けいけん",
+    "romaji": "keiken"
+}, {
+    "kana": "そのご",
+    "romaji": "sonogo"
+}, {
+    "kana": "けいかく",
+    "romaji": "keikaku"
+}, {
+    "kana": "こんや",
+    "romaji": "konya"
+}, {
+    "kana": "なつ",
+    "romaji": "natsu"
+}, {
+    "kana": "わかる",
+    "romaji": "wakaru"
+}, {
+    "kana": "よし",
+    "romaji": "yoshi"
+}, {
+    "kana": "いち",
+    "romaji": "ichi"
+}, {
+    "kana": "オレ",
+    "romaji": "ore"
+}, {
+    "kana": "とどく",
+    "romaji": "todoku"
+}, {
+    "kana": "はんたい",
+    "romaji": "hantai"
+}, {
+    "kana": "かれら",
+    "romaji": "karera"
+}, {
+    "kana": "まゆ",
+    "romaji": "mayu"
+}, {
+    "kana": "とりだす",
+    "romaji": "toridasu"
+}, {
+    "kana": "けっこん",
+    "romaji": "kekkon"
+}, {
+    "kana": "まく",
+    "romaji": "maku"
+}, {
+    "kana": "つたえる",
+    "romaji": "tsutaeru"
+}, {
+    "kana": "いきおい",
+    "romaji": "ikioi"
+}, {
+    "kana": "たま",
+    "romaji": "tama"
+}, {
+    "kana": "きょうみ",
+    "romaji": "kyoumi"
+}, {
+    "kana": "しゅん",
+    "romaji": "shun"
+}, {
+    "kana": "ぜん",
+    "romaji": "zen"
+}, {
+    "kana": "じじょう",
+    "romaji": "jijou"
+}, {
+    "kana": "にくたい",
+    "romaji": "nikutai"
+}, {
+    "kana": "きまる",
+    "romaji": "kimaru"
+}, {
+    "kana": "デ",
+    "romaji": "de"
+}, {
+    "kana": "かつ",
+    "romaji": "katsu"
+}, {
+    "kana": "おそう",
+    "romaji": "osou"
+}, {
+    "kana": "はじまる",
+    "romaji": "hajimaru"
+}, {
+    "kana": "なみ",
+    "romaji": "nami"
+}, {
+    "kana": "なんとか",
+    "romaji": "nantoka"
+}, {
+    "kana": "こうけい",
+    "romaji": "koukei"
+}, {
+    "kana": "おろす",
+    "romaji": "orosu"
+}, {
+    "kana": "ぎゃく",
+    "romaji": "gyaku"
+}, {
+    "kana": "きょうしつ",
+    "romaji": "kyoushitsu"
+}, {
+    "kana": "ペニス",
+    "romaji": "penisu"
+}, {
+    "kana": "しゅう",
+    "romaji": "shuu"
+}, {
+    "kana": "ちちおや",
+    "romaji": "chichioya"
+}, {
+    "kana": "よる",
+    "romaji": "yoru"
+}, {
+    "kana": "しゃかい",
+    "romaji": "shakai"
+}, {
+    "kana": "おそらく",
+    "romaji": "osoraku"
+}, {
+    "kana": "かすか",
+    "romaji": "kasuka"
+}, {
+    "kana": "ため",
+    "romaji": "tame"
+}, {
+    "kana": "どうしても",
+    "romaji": "doushitemo"
+}, {
+    "kana": "せん",
+    "romaji": "sen"
+}, {
+    "kana": "まわす",
+    "romaji": "mawasu"
+}, {
+    "kana": "しず",
+    "romaji": "shizu"
+}, {
+    "kana": "つづく",
+    "romaji": "tsuzuku"
+}, {
+    "kana": "ほんの",
+    "romaji": "honno"
+}, {
+    "kana": "もはや",
+    "romaji": "mohaya"
+}, {
+    "kana": "はく",
+    "romaji": "haku"
+}, {
+    "kana": "ばか",
+    "romaji": "baka"
+}, {
+    "kana": "し",
+    "romaji": "shi"
+}, {
+    "kana": "ながす",
+    "romaji": "nagasu"
+}, {
+    "kana": "しょうめん",
+    "romaji": "shoumen"
+}, {
+    "kana": "のど",
+    "romaji": "nodo"
+}, {
+    "kana": "しな",
+    "romaji": "shina"
+}, {
+    "kana": "おおく",
+    "romaji": "ooku"
+}, {
+    "kana": "するどい",
+    "romaji": "surudoi"
+}, {
+    "kana": "すくない",
+    "romaji": "sukunai"
+}, {
+    "kana": "きれい",
+    "romaji": "kirei"
+}, {
+    "kana": "ど",
+    "romaji": "do"
+}, {
+    "kana": "あまい",
+    "romaji": "amai"
+}, {
+    "kana": "いわ",
+    "romaji": "iwa"
+}, {
+    "kana": "ばくはつ",
+    "romaji": "bakuhatsu"
+}, {
+    "kana": "ゆき",
+    "romaji": "yuki"
+}, {
+    "kana": "いどう",
+    "romaji": "idou"
+}, {
+    "kana": "げん",
+    "romaji": "gen"
+}, {
+    "kana": "けい",
+    "romaji": "kei"
+}, {
+    "kana": "げんかん",
+    "romaji": "genkan"
+}, {
+    "kana": "けす",
+    "romaji": "kesu"
+}, {
+    "kana": "かげ",
+    "romaji": "kage"
+}, {
+    "kana": "ノ",
+    "romaji": "no"
+}, {
+    "kana": "げんき",
+    "romaji": "genki"
+}, {
+    "kana": "おや",
+    "romaji": "oya"
+}, {
+    "kana": "さえる",
+    "romaji": "saeru"
+}, {
+    "kana": "ちゅうい",
+    "romaji": "chuui"
+}, {
+    "kana": "ところが",
+    "romaji": "tokoroga"
+}, {
+    "kana": "はかい",
+    "romaji": "hakai"
+}, {
+    "kana": "おん",
+    "romaji": "on"
+}, {
+    "kana": "また",
+    "romaji": "mata"
+}, {
+    "kana": "たとえ",
+    "romaji": "tatoe"
+}, {
+    "kana": "やく",
+    "romaji": "yaku"
+}, {
+    "kana": "にわ",
+    "romaji": "niwa"
+}, {
+    "kana": "まわる",
+    "romaji": "mawaru"
+}, {
+    "kana": "けんきゅう",
+    "romaji": "kenkyuu"
+}, {
+    "kana": "ガラス",
+    "romaji": "garasu"
+}, {
+    "kana": "なす",
+    "romaji": "nasu"
+}, {
+    "kana": "さる",
+    "romaji": "saru"
+}, {
+    "kana": "あお",
+    "romaji": "ao"
+}, {
+    "kana": "ただしい",
+    "romaji": "tadashii"
+}, {
+    "kana": "なめる",
+    "romaji": "nameru"
+}, {
+    "kana": "せんぱい",
+    "romaji": "senpai"
+}, {
+    "kana": "ちぶさ",
+    "romaji": "chibusa"
+}, {
+    "kana": "おのれ",
+    "romaji": "onore"
+}, {
+    "kana": "や",
+    "romaji": "ya"
+}, {
+    "kana": "やや",
+    "romaji": "yaya"
+}, {
+    "kana": "けむり",
+    "romaji": "kemuri"
+}, {
+    "kana": "か",
+    "romaji": "ka"
+}, {
+    "kana": "ずいぶん",
+    "romaji": "zuibun"
+}, {
+    "kana": "かく",
+    "romaji": "kaku"
+}, {
+    "kana": "シ",
+    "romaji": "shi"
+}, {
+    "kana": "かわ",
+    "romaji": "kawa"
+}, {
+    "kana": "せいねん",
+    "romaji": "seinen"
+}, {
+    "kana": "ひろがる",
+    "romaji": "hirogaru"
+}, {
+    "kana": "わかもの",
+    "romaji": "wakamono"
+}, {
+    "kana": "わき",
+    "romaji": "waki"
+}, {
+    "kana": "とこ",
+    "romaji": "toko"
+}, {
+    "kana": "しんぶん",
+    "romaji": "shinbun"
+}, {
+    "kana": "しゅうれい",
+    "romaji": "shuurei"
+}, {
+    "kana": "にんぎょう",
+    "romaji": "ningyou"
+}, {
+    "kana": "はな",
+    "romaji": "hana"
+}, {
+    "kana": "れんらく",
+    "romaji": "renraku"
+}, {
+    "kana": "マン",
+    "romaji": "man"
+}, {
+    "kana": "じん",
+    "romaji": "jin"
+}, {
+    "kana": "しょくじ",
+    "romaji": "shokuji"
+}, {
+    "kana": "さくせん",
+    "romaji": "sakusen"
+}, {
+    "kana": "もじ",
+    "romaji": "moji"
+}, {
+    "kana": "きり",
+    "romaji": "kiri"
+}, {
+    "kana": "どうよう",
+    "romaji": "douyou"
+}, {
+    "kana": "よろしい",
+    "romaji": "yoroshii"
+}, {
+    "kana": "まいにち",
+    "romaji": "mainichi"
+}, {
+    "kana": "くみ",
+    "romaji": "kumi"
+}, {
+    "kana": "はく",
+    "romaji": "haku"
+}, {
+    "kana": "いたみ",
+    "romaji": "itami"
+}, {
+    "kana": "とり",
+    "romaji": "tori"
+}, {
+    "kana": "ひびく",
+    "romaji": "hibiku"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "は",
+    "romaji": "ha"
+}, {
+    "kana": "わたす",
+    "romaji": "watasu"
+}, {
+    "kana": "えみ",
+    "romaji": "emi"
+}, {
+    "kana": "きょうし",
+    "romaji": "kyoushi"
+}, {
+    "kana": "なお",
+    "romaji": "nao"
+}, {
+    "kana": "まける",
+    "romaji": "makeru"
+}, {
+    "kana": "かみ",
+    "romaji": "kami"
+}, {
+    "kana": "えっ",
+    "romaji": "e"
+}, {
+    "kana": "てい",
+    "romaji": "tei"
+}, {
+    "kana": "ひじょう",
+    "romaji": "hijou"
+}, {
+    "kana": "てる",
+    "romaji": "teru"
+}, {
+    "kana": "よ",
+    "romaji": "yo"
+}, {
+    "kana": "じゅうぶん",
+    "romaji": "juubun"
+}, {
+    "kana": "なっとく",
+    "romaji": "nattoku"
+}, {
+    "kana": "いらっしゃる",
+    "romaji": "irassharu"
+}, {
+    "kana": "きたい",
+    "romaji": "kitai"
+}, {
+    "kana": "まんぞく",
+    "romaji": "manzoku"
+}, {
+    "kana": "あきら",
+    "romaji": "akira"
+}, {
+    "kana": "くせ",
+    "romaji": "kuse"
+}, {
+    "kana": "しん",
+    "romaji": "shin"
+}, {
+    "kana": "さて",
+    "romaji": "sate"
+}, {
+    "kana": "くるしい",
+    "romaji": "kurushii"
+}, {
+    "kana": "りょう",
+    "romaji": "ryou"
+}, {
+    "kana": "あたる",
+    "romaji": "ataru"
+}, {
+    "kana": "れい",
+    "romaji": "rei"
+}, {
+    "kana": "つみ",
+    "romaji": "tsumi"
+}, {
+    "kana": "しかる",
+    "romaji": "shikaru"
+}, {
+    "kana": "ませる",
+    "romaji": "maseru"
+}, {
+    "kana": "みつかる",
+    "romaji": "mitsukaru"
+}, {
+    "kana": "ちゅうしん",
+    "romaji": "chuushin"
+}, {
+    "kana": "ふじん",
+    "romaji": "fujin"
+}, {
+    "kana": "うつわ",
+    "romaji": "utsuwa"
+}, {
+    "kana": "はる",
+    "romaji": "haru"
+}, {
+    "kana": "きれる",
+    "romaji": "kireru"
+}, {
+    "kana": "かならず",
+    "romaji": "kanarazu"
+}, {
+    "kana": "ほね",
+    "romaji": "hone"
+}, {
+    "kana": "とくに",
+    "romaji": "tokuni"
+}, {
+    "kana": "ぶじ",
+    "romaji": "buji"
+}, {
+    "kana": "いかり",
+    "romaji": "ikari"
+}, {
+    "kana": "すむ",
+    "romaji": "sumu"
+}, {
+    "kana": "さす",
+    "romaji": "sasu"
+}, {
+    "kana": "グッ",
+    "romaji": "gu"
+}, {
+    "kana": "なげる",
+    "romaji": "nageru"
+}, {
+    "kana": "こう",
+    "romaji": "kou"
+}, {
+    "kana": "ねぇ",
+    "romaji": "nee"
+}, {
+    "kana": "かたり",
+    "romaji": "katari"
+}, {
+    "kana": "こい",
+    "romaji": "koi"
+}, {
+    "kana": "らく",
+    "romaji": "raku"
+}, {
+    "kana": "ガン",
+    "romaji": "gan"
+}, {
+    "kana": "おとな",
+    "romaji": "otona"
+}, {
+    "kana": "よろこぶ",
+    "romaji": "yorokobu"
+}, {
+    "kana": "とう",
+    "romaji": "tou"
+}, {
+    "kana": "うる",
+    "romaji": "uru"
+}, {
+    "kana": "へいか",
+    "romaji": "heika"
+}, {
+    "kana": "ぎん",
+    "romaji": "gin"
+}, {
+    "kana": "さき",
+    "romaji": "saki"
+}, {
+    "kana": "べい",
+    "romaji": "bei"
+}, {
+    "kana": "せまい",
+    "romaji": "semai"
+}, {
+    "kana": "ぼんやり",
+    "romaji": "bonyari"
+}, {
+    "kana": "みなみ",
+    "romaji": "minami"
+}, {
+    "kana": "おとうと",
+    "romaji": "otouto"
+}, {
+    "kana": "けいいち",
+    "romaji": "keiichi"
+}, {
+    "kana": "じゅんび",
+    "romaji": "junbi"
+}, {
+    "kana": "りょう",
+    "romaji": "ryou"
+}, {
+    "kana": "はあ",
+    "romaji": "haa"
+}, {
+    "kana": "わたる",
+    "romaji": "wataru"
+}, {
+    "kana": "ぶつ",
+    "romaji": "butsu"
+}, {
+    "kana": "わくせい",
+    "romaji": "wakusei"
+}, {
+    "kana": "あん",
+    "romaji": "an"
+}, {
+    "kana": "バカ",
+    "romaji": "baka"
+}, {
+    "kana": "ていこう",
+    "romaji": "teikou"
+}, {
+    "kana": "こうい",
+    "romaji": "koui"
+}, {
+    "kana": "のぞむ",
+    "romaji": "nozomu"
+}, {
+    "kana": "うれしい",
+    "romaji": "ureshii"
+}, {
+    "kana": "なんだか",
+    "romaji": "nandaka"
+}, {
+    "kana": "こる",
+    "romaji": "koru"
+}, {
+    "kana": "ためいき",
+    "romaji": "tameiki"
+}, {
+    "kana": "かがやく",
+    "romaji": "kagayaku"
+}, {
+    "kana": "たいよう",
+    "romaji": "taiyou"
+}, {
+    "kana": "つぶ",
+    "romaji": "tsubu"
+}, {
+    "kana": "ついに",
+    "romaji": "tsuini"
+}, {
+    "kana": "みや",
+    "romaji": "miya"
+}, {
+    "kana": "ともだち",
+    "romaji": "tomodachi"
+}, {
+    "kana": "ところ",
+    "romaji": "tokoro"
+}, {
+    "kana": "えだ",
+    "romaji": "eda"
+}, {
+    "kana": "かつて",
+    "romaji": "katsute"
+}, {
+    "kana": "あきらか",
+    "romaji": "akiraka"
+}, {
+    "kana": "かえる",
+    "romaji": "kaeru"
+}, {
+    "kana": "へんか",
+    "romaji": "henka"
+}, {
+    "kana": "かご",
+    "romaji": "kago"
+}, {
+    "kana": "そうだん",
+    "romaji": "soudan"
+}, {
+    "kana": "おちつく",
+    "romaji": "ochitsuku"
+}, {
+    "kana": "のぞく",
+    "romaji": "nozoku"
+}, {
+    "kana": "すこし",
+    "romaji": "sukoshi"
+}, {
+    "kana": "あんない",
+    "romaji": "annai"
+}, {
+    "kana": "みん",
+    "romaji": "min"
+}, {
+    "kana": "とち",
+    "romaji": "tochi"
+}, {
+    "kana": "きみょう",
+    "romaji": "kimyou"
+}, {
+    "kana": "あつまる",
+    "romaji": "atsumaru"
+}, {
+    "kana": "こうふん",
+    "romaji": "koufun"
+}, {
+    "kana": "ぶり",
+    "romaji": "buri"
+}, {
+    "kana": "きれる",
+    "romaji": "kireru"
+}, {
+    "kana": "うすい",
+    "romaji": "usui"
+}, {
+    "kana": "あいさつ",
+    "romaji": "aisatsu"
+}, {
+    "kana": "つくる",
+    "romaji": "tsukuru"
+}, {
+    "kana": "まう",
+    "romaji": "mau"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "てん",
+    "romaji": "ten"
+}, {
+    "kana": "り",
+    "romaji": "ri"
+}, {
+    "kana": "ホテル",
+    "romaji": "hoteru"
+}, {
+    "kana": "もっとも",
+    "romaji": "mottomo"
+}, {
+    "kana": "うなずく",
+    "romaji": "unazuku"
+}, {
+    "kana": "おっしゃる",
+    "romaji": "ossharu"
+}, {
+    "kana": "さかい",
+    "romaji": "sakai"
+}, {
+    "kana": "えん",
+    "romaji": "en"
+}, {
+    "kana": "かいわ",
+    "romaji": "kaiwa"
+}, {
+    "kana": "こく",
+    "romaji": "koku"
+}, {
+    "kana": "もう",
+    "romaji": "mou"
+}, {
+    "kana": "あそこ",
+    "romaji": "asoko"
+}, {
+    "kana": "そうして",
+    "romaji": "soushite"
+}, {
+    "kana": "による",
+    "romaji": "niyoru"
+}, {
+    "kana": "やさしい",
+    "romaji": "yasashii"
+}, {
+    "kana": "ふくむ",
+    "romaji": "fukumu"
+}, {
+    "kana": "とびだす",
+    "romaji": "tobidasu"
+}, {
+    "kana": "ぎょ",
+    "romaji": "gyo"
+}, {
+    "kana": "ひ",
+    "romaji": "hi"
+}, {
+    "kana": "じょうだん",
+    "romaji": "joudan"
+}, {
+    "kana": "うんめい",
+    "romaji": "unmei"
+}, {
+    "kana": "きち",
+    "romaji": "kichi"
+}, {
+    "kana": "しょ",
+    "romaji": "sho"
+}, {
+    "kana": "なぞ",
+    "romaji": "nazo"
+}, {
+    "kana": "っぽい",
+    "romaji": "ppoi"
+}, {
+    "kana": "おう",
+    "romaji": "ou"
+}, {
+    "kana": "はなす",
+    "romaji": "hanasu"
+}, {
+    "kana": "つき",
+    "romaji": "tsuki"
+}, {
+    "kana": "かがみ",
+    "romaji": "kagami"
+}, {
+    "kana": "ポケット",
+    "romaji": "poketto"
+}, {
+    "kana": "たちば",
+    "romaji": "tachiba"
+}, {
+    "kana": "わらい",
+    "romaji": "warai"
+}, {
+    "kana": "どうぞ",
+    "romaji": "douzo"
+}, {
+    "kana": "かたな",
+    "romaji": "katana"
+}, {
+    "kana": "ふとい",
+    "romaji": "futoi"
+}, {
+    "kana": "せんし",
+    "romaji": "senshi"
+}, {
+    "kana": "ふくろ",
+    "romaji": "fukuro"
+}, {
+    "kana": "そろそろ",
+    "romaji": "sorosoro"
+}, {
+    "kana": "キロ",
+    "romaji": "kiro"
+}, {
+    "kana": "ごご",
+    "romaji": "gogo"
+}, {
+    "kana": "しょうじき",
+    "romaji": "shoujiki"
+}, {
+    "kana": "やく",
+    "romaji": "yaku"
+}, {
+    "kana": "かぞく",
+    "romaji": "kazoku"
+}, {
+    "kana": "きゅう",
+    "romaji": "kyuu"
+}, {
+    "kana": "れきし",
+    "romaji": "rekishi"
+}, {
+    "kana": "わき",
+    "romaji": "waki"
+}, {
+    "kana": "はっ",
+    "romaji": "ha"
+}, {
+    "kana": "こん",
+    "romaji": "kon"
+}, {
+    "kana": "たしかめる",
+    "romaji": "tashikameru"
+}, {
+    "kana": "かたて",
+    "romaji": "katate"
+}, {
+    "kana": "む",
+    "romaji": "mu"
+}, {
+    "kana": "スト",
+    "romaji": "suto"
+}, {
+    "kana": "あー",
+    "romaji": "a-"
+}, {
+    "kana": "みな",
+    "romaji": "mina"
+}, {
+    "kana": "りゅう",
+    "romaji": "ryuu"
+}, {
+    "kana": "くらい",
+    "romaji": "kurai"
+}, {
+    "kana": "ぎじゅつ",
+    "romaji": "gijutsu"
+}, {
+    "kana": "カー",
+    "romaji": "kaa"
+}, {
+    "kana": "かわる",
+    "romaji": "kawaru"
+}, {
+    "kana": "かこ",
+    "romaji": "kako"
+}, {
+    "kana": "たいが",
+    "romaji": "taiga"
+}, {
+    "kana": "しょうち",
+    "romaji": "shouchi"
+}, {
+    "kana": "はねる",
+    "romaji": "haneru"
+}, {
+    "kana": "あじ",
+    "romaji": "aji"
+}, {
+    "kana": "ぬれる",
+    "romaji": "nureru"
+}, {
+    "kana": "そうち",
+    "romaji": "souchi"
+}, {
+    "kana": "みち",
+    "romaji": "michi"
+}, {
+    "kana": "ともかく",
+    "romaji": "tomokaku"
+}, {
+    "kana": "ちんもく",
+    "romaji": "chinmoku"
+}, {
+    "kana": "さわる",
+    "romaji": "sawaru"
+}, {
+    "kana": "まわす",
+    "romaji": "mawasu"
+}, {
+    "kana": "じしん",
+    "romaji": "jishin"
+}, {
+    "kana": "きる",
+    "romaji": "kiru"
+}, {
+    "kana": "さむい",
+    "romaji": "samui"
+}, {
+    "kana": "はた",
+    "romaji": "hata"
+}, {
+    "kana": "つかれる",
+    "romaji": "tsukareru"
+}, {
+    "kana": "かくご",
+    "romaji": "kakugo"
+}, {
+    "kana": "けっこう",
+    "romaji": "kekkou"
+}, {
+    "kana": "さぎょう",
+    "romaji": "sagyou"
+}, {
+    "kana": "しゅう",
+    "romaji": "shuu"
+}, {
+    "kana": "ぬぐ",
+    "romaji": "nugu"
+}, {
+    "kana": "いよいよ",
+    "romaji": "iyoiyo"
+}, {
+    "kana": "いらい",
+    "romaji": "irai"
+}, {
+    "kana": "ごく",
+    "romaji": "goku"
+}, {
+    "kana": "うつる",
+    "romaji": "utsuru"
+}, {
+    "kana": "むかえる",
+    "romaji": "mukaeru"
+}, {
+    "kana": "だいじ",
+    "romaji": "daiji"
+}, {
+    "kana": "ちがい",
+    "romaji": "chigai"
+}, {
+    "kana": "つく",
+    "romaji": "tsuku"
+}, {
+    "kana": "かんたい",
+    "romaji": "kantai"
+}, {
+    "kana": "あける",
+    "romaji": "akeru"
+}, {
+    "kana": "ぞく",
+    "romaji": "zoku"
+}, {
+    "kana": "だめ",
+    "romaji": "dame"
+}, {
+    "kana": "かなしい",
+    "romaji": "kanashii"
+}, {
+    "kana": "かす",
+    "romaji": "kasu"
+}, {
+    "kana": "ひろげる",
+    "romaji": "hirogeru"
+}, {
+    "kana": "さいきん",
+    "romaji": "saikin"
+}, {
+    "kana": "もらえる",
+    "romaji": "moraeru"
+}, {
+    "kana": "むすこ",
+    "romaji": "musuko"
+}, {
+    "kana": "いくつ",
+    "romaji": "ikutsu"
+}, {
+    "kana": "とぶ",
+    "romaji": "tobu"
+}, {
+    "kana": "はつ",
+    "romaji": "hatsu"
+}, {
+    "kana": "ぶんがく",
+    "romaji": "bungaku"
+}, {
+    "kana": "いし",
+    "romaji": "ishi"
+}, {
+    "kana": "かぎ",
+    "romaji": "kagi"
+}, {
+    "kana": "しまこ",
+    "romaji": "shimako"
+}, {
+    "kana": "うんどう",
+    "romaji": "undou"
+}, {
+    "kana": "かいしゃ",
+    "romaji": "kaisha"
+}, {
+    "kana": "なんと",
+    "romaji": "nanto"
+}, {
+    "kana": "じゃま",
+    "romaji": "jama"
+}, {
+    "kana": "かわり",
+    "romaji": "kawari"
+}, {
+    "kana": "とともに",
+    "romaji": "totomoni"
+}, {
+    "kana": "い",
+    "romaji": "i"
+}, {
+    "kana": "ひめ",
+    "romaji": "hime"
+}, {
+    "kana": "くさ",
+    "romaji": "kusa"
+}, {
+    "kana": "たいちょう",
+    "romaji": "taichou"
+}, {
+    "kana": "あしおと",
+    "romaji": "ashioto"
+}, {
+    "kana": "じょ",
+    "romaji": "jo"
+}, {
+    "kana": "はじめ",
+    "romaji": "hajime"
+}, {
+    "kana": "けい",
+    "romaji": "kei"
+}, {
+    "kana": "かねる",
+    "romaji": "kaneru"
+}, {
+    "kana": "わく",
+    "romaji": "waku"
+}, {
+    "kana": "まいる",
+    "romaji": "mairu"
+}, {
+    "kana": "こたえ",
+    "romaji": "kotae"
+}, {
+    "kana": "その",
+    "romaji": "sono"
+}, {
+    "kana": "しゃべる",
+    "romaji": "shaberu"
+}, {
+    "kana": "べに",
+    "romaji": "beni"
+}, {
+    "kana": "むし",
+    "romaji": "mushi"
+}, {
+    "kana": "さくや",
+    "romaji": "sakuya"
+}, {
+    "kana": "じこ",
+    "romaji": "jiko"
+}, {
+    "kana": "ビル",
+    "romaji": "biru"
+}, {
+    "kana": "ならす",
+    "romaji": "narasu"
+}, {
+    "kana": "びょういん",
+    "romaji": "byouin"
+}, {
+    "kana": "ばしゃ",
+    "romaji": "basha"
+}, {
+    "kana": "ほんき",
+    "romaji": "honki"
+}, {
+    "kana": "パ",
+    "romaji": "pa"
+}, {
+    "kana": "いがい",
+    "romaji": "igai"
+}, {
+    "kana": "ナイフ",
+    "romaji": "naifu"
+}, {
+    "kana": "むごん",
+    "romaji": "mugon"
+}, {
+    "kana": "カイ",
+    "romaji": "kai"
+}, {
+    "kana": "あんまり",
+    "romaji": "anmari"
+}, {
+    "kana": "こ",
+    "romaji": "ko"
+}, {
+    "kana": "でかける",
+    "romaji": "dekakeru"
+}, {
+    "kana": "ただし",
+    "romaji": "tadashi"
+}, {
+    "kana": "しはい",
+    "romaji": "shihai"
+}, {
+    "kana": "ばい",
+    "romaji": "bai"
+}, {
+    "kana": "あらゆる",
+    "romaji": "arayuru"
+}, {
+    "kana": "なれる",
+    "romaji": "nareru"
+}, {
+    "kana": "にもつ",
+    "romaji": "nimotsu"
+}, {
+    "kana": "あご",
+    "romaji": "ago"
+}, {
+    "kana": "つく",
+    "romaji": "tsuku"
+}, {
+    "kana": "しつれい",
+    "romaji": "shitsurei"
+}, {
+    "kana": "うむ",
+    "romaji": "umu"
+}, {
+    "kana": "とおく",
+    "romaji": "tooku"
+}, {
+    "kana": "しょうこ",
+    "romaji": "shouko"
+}, {
+    "kana": "かりる",
+    "romaji": "kariru"
+}, {
+    "kana": "ぢ",
+    "romaji": "ji"
+}, {
+    "kana": "ひょう",
+    "romaji": "hyou"
+}, {
+    "kana": "ひざ",
+    "romaji": "hiza"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "いっきに",
+    "romaji": "ikkini"
+}, {
+    "kana": "つき",
+    "romaji": "tsuki"
+}, {
+    "kana": "なおす",
+    "romaji": "naosu"
+}, {
+    "kana": "よそう",
+    "romaji": "yosou"
+}, {
+    "kana": "こんかい",
+    "romaji": "konkai"
+}, {
+    "kana": "はらう",
+    "romaji": "harau"
+}, {
+    "kana": "たましい",
+    "romaji": "tamashii"
+}, {
+    "kana": "そくど",
+    "romaji": "sokudo"
+}, {
+    "kana": "しんぞう",
+    "romaji": "shinzou"
+}, {
+    "kana": "たま",
+    "romaji": "tama"
+}, {
+    "kana": "さつじん",
+    "romaji": "satsujin"
+}, {
+    "kana": "どうせ",
+    "romaji": "douse"
+}, {
+    "kana": "つうろ",
+    "romaji": "tsuuro"
+}, {
+    "kana": "うた",
+    "romaji": "uta"
+}, {
+    "kana": "じつに",
+    "romaji": "jitsuni"
+}, {
+    "kana": "スカート",
+    "romaji": "sukaato"
+}, {
+    "kana": "とくべつ",
+    "romaji": "tokubetsu"
+}, {
+    "kana": "それほど",
+    "romaji": "sorehodo"
+}, {
+    "kana": "ゆうじん",
+    "romaji": "yuujin"
+}, {
+    "kana": "あつい",
+    "romaji": "atsui"
+}, {
+    "kana": "ぬの",
+    "romaji": "nuno"
+}, {
+    "kana": "ダメ",
+    "romaji": "dame"
+}, {
+    "kana": "とき",
+    "romaji": "toki"
+}, {
+    "kana": "まるい",
+    "romaji": "marui"
+}, {
+    "kana": "ほど",
+    "romaji": "hodo"
+}, {
+    "kana": "ひがし",
+    "romaji": "higashi"
+}, {
+    "kana": "いいえ",
+    "romaji": "iie"
+}, {
+    "kana": "すくう",
+    "romaji": "sukuu"
+}, {
+    "kana": "よ",
+    "romaji": "yo"
+}, {
+    "kana": "たいせつ",
+    "romaji": "taisetsu"
+}, {
+    "kana": "われる",
+    "romaji": "wareru"
+}, {
+    "kana": "おかげ",
+    "romaji": "okage"
+}, {
+    "kana": "ねつ",
+    "romaji": "netsu"
+}, {
+    "kana": "せまる",
+    "romaji": "semaru"
+}, {
+    "kana": "きん",
+    "romaji": "kin"
+}, {
+    "kana": "ちか",
+    "romaji": "chika"
+}, {
+    "kana": "ほお",
+    "romaji": "hoo"
+}, {
+    "kana": "くりかえす",
+    "romaji": "kurikaesu"
+}, {
+    "kana": "ごめん",
+    "romaji": "gomen"
+}, {
+    "kana": "じゅうぶん",
+    "romaji": "juubun"
+}, {
+    "kana": "まわり",
+    "romaji": "mawari"
+}, {
+    "kana": "かっこう",
+    "romaji": "kakkou"
+}, {
+    "kana": "みかた",
+    "romaji": "mikata"
+}, {
+    "kana": "すくなくとも",
+    "romaji": "sukunakutomo"
+}, {
+    "kana": "りょうしん",
+    "romaji": "ryoushin"
+}, {
+    "kana": "ゆうき",
+    "romaji": "yuuki"
+}, {
+    "kana": "はじめて",
+    "romaji": "hajimete"
+}, {
+    "kana": "りっぱ",
+    "romaji": "rippa"
+}, {
+    "kana": "あぁ",
+    "romaji": "aa"
+}, {
+    "kana": "ゆれる",
+    "romaji": "yureru"
+}, {
+    "kana": "とうじ",
+    "romaji": "touji"
+}, {
+    "kana": "すべ",
+    "romaji": "sube"
+}, {
+    "kana": "しょうげき",
+    "romaji": "shougeki"
+}, {
+    "kana": "ネ",
+    "romaji": "ne"
+}, {
+    "kana": "ころがる",
+    "romaji": "korogaru"
+}, {
+    "kana": "やど",
+    "romaji": "yado"
+}, {
+    "kana": "きた",
+    "romaji": "kita"
+}, {
+    "kana": "くむ",
+    "romaji": "kumu"
+}, {
+    "kana": "ばん",
+    "romaji": "ban"
+}, {
+    "kana": "てつ",
+    "romaji": "tetsu"
+}, {
+    "kana": "どっち",
+    "romaji": "dotchi"
+}, {
+    "kana": "しゅぎ",
+    "romaji": "shugi"
+}, {
+    "kana": "つたわる",
+    "romaji": "tsutawaru"
+}, {
+    "kana": "かがく",
+    "romaji": "kagaku"
+}, {
+    "kana": "くすり",
+    "romaji": "kusuri"
+}, {
+    "kana": "うけとる",
+    "romaji": "uketoru"
+}, {
+    "kana": "しこう",
+    "romaji": "shikou"
+}, {
+    "kana": "いけん",
+    "romaji": "iken"
+}, {
+    "kana": "ふうふ",
+    "romaji": "fuufu"
+}, {
+    "kana": "さぐる",
+    "romaji": "saguru"
+}, {
+    "kana": "くしょう",
+    "romaji": "kushou"
+}, {
+    "kana": "ぜんぽう",
+    "romaji": "zenpou"
+}, {
+    "kana": "もえる",
+    "romaji": "moeru"
+}, {
+    "kana": "かぎる",
+    "romaji": "kagiru"
+}, {
+    "kana": "バトラー",
+    "romaji": "batoraa"
+}, {
+    "kana": "あんぜん",
+    "romaji": "anzen"
+}, {
+    "kana": "と",
+    "romaji": "to"
+}, {
+    "kana": "ちょくせつ",
+    "romaji": "chokusetsu"
+}, {
+    "kana": "ないぶ",
+    "romaji": "naibu"
+}, {
+    "kana": "ぜんぜん",
+    "romaji": "zenzen"
+}, {
+    "kana": "やってくる",
+    "romaji": "yattekuru"
+}, {
+    "kana": "りょうり",
+    "romaji": "ryouri"
+}, {
+    "kana": "いちぶ",
+    "romaji": "ichibu"
+}, {
+    "kana": "かかえる",
+    "romaji": "kakaeru"
+}, {
+    "kana": "それだけ",
+    "romaji": "soredake"
+}, {
+    "kana": "かんしょく",
+    "romaji": "kanshoku"
+}, {
+    "kana": "こきゅう",
+    "romaji": "kokyuu"
+}, {
+    "kana": "やむ",
+    "romaji": "yamu"
+}, {
+    "kana": "しま",
+    "romaji": "shima"
+}, {
+    "kana": "おろす",
+    "romaji": "orosu"
+}, {
+    "kana": "やり",
+    "romaji": "yari"
+}, {
+    "kana": "どうか",
+    "romaji": "douka"
+}, {
+    "kana": "せいふく",
+    "romaji": "seifuku"
+}, {
+    "kana": "つえ",
+    "romaji": "tsue"
+}, {
+    "kana": "かくれる",
+    "romaji": "kakureru"
+}, {
+    "kana": "うたがう",
+    "romaji": "utagau"
+}, {
+    "kana": "かまう",
+    "romaji": "kamau"
+}, {
+    "kana": "あそぶ",
+    "romaji": "asobu"
+}, {
+    "kana": "しょう",
+    "romaji": "shou"
+}, {
+    "kana": "すわる",
+    "romaji": "suwaru"
+}, {
+    "kana": "らん",
+    "romaji": "ran"
+}, {
+    "kana": "あなた",
+    "romaji": "anata"
+}, {
+    "kana": "しゅうちゅう",
+    "romaji": "shuuchuu"
+}, {
+    "kana": "クラス",
+    "romaji": "kurasu"
+}, {
+    "kana": "ないよう",
+    "romaji": "naiyou"
+}, {
+    "kana": "あわ",
+    "romaji": "awa"
+}, {
+    "kana": "ふじん",
+    "romaji": "fujin"
+}, {
+    "kana": "ナギ",
+    "romaji": "nagi"
+}, {
+    "kana": "いさと",
+    "romaji": "isato"
+}, {
+    "kana": "リン",
+    "romaji": "rin"
+}, {
+    "kana": "のせる",
+    "romaji": "noseru"
+}, {
+    "kana": "じんせい",
+    "romaji": "jinsei"
+}, {
+    "kana": "ざんねん",
+    "romaji": "zannen"
+}, {
+    "kana": "うばう",
+    "romaji": "ubau"
+}, {
+    "kana": "はずす",
+    "romaji": "hazusu"
+}, {
+    "kana": "すみ",
+    "romaji": "sumi"
+}, {
+    "kana": "くんれん",
+    "romaji": "kunren"
+}, {
+    "kana": "なくなる",
+    "romaji": "nakunaru"
+}, {
+    "kana": "ぎもん",
+    "romaji": "gimon"
+}, {
+    "kana": "てまえ",
+    "romaji": "temae"
+}, {
+    "kana": "しせい",
+    "romaji": "shisei"
+}, {
+    "kana": "うそ",
+    "romaji": "uso"
+}, {
+    "kana": "たちまち",
+    "romaji": "tachimachi"
+}, {
+    "kana": "うめる",
+    "romaji": "umeru"
+}, {
+    "kana": "まよう",
+    "romaji": "mayou"
+}, {
+    "kana": "じたい",
+    "romaji": "jitai"
+}, {
+    "kana": "ゆびさき",
+    "romaji": "yubisaki"
+}, {
+    "kana": "やく",
+    "romaji": "yaku"
+}, {
+    "kana": "ぞう",
+    "romaji": "zou"
+}, {
+    "kana": "ほんにん",
+    "romaji": "honnin"
+}, {
+    "kana": "やすむ",
+    "romaji": "yasumu"
+}, {
+    "kana": "かる",
+    "romaji": "karu"
+}, {
+    "kana": "やすい",
+    "romaji": "yasui"
+}, {
+    "kana": "しかい",
+    "romaji": "shikai"
+}, {
+    "kana": "ばん",
+    "romaji": "ban"
+}, {
+    "kana": "こかん",
+    "romaji": "kokan"
+}, {
+    "kana": "すじ",
+    "romaji": "suji"
+}, {
+    "kana": "はなれ",
+    "romaji": "hanare"
+}, {
+    "kana": "おさえる",
+    "romaji": "osaeru"
+}, {
+    "kana": "とも",
+    "romaji": "tomo"
+}, {
+    "kana": "えん",
+    "romaji": "en"
+}, {
+    "kana": "とりあえず",
+    "romaji": "toriaezu"
+}, {
+    "kana": "さかな",
+    "romaji": "sakana"
+}, {
+    "kana": "やぶる",
+    "romaji": "yaburu"
+}, {
+    "kana": "ほう",
+    "romaji": "hou"
+}, {
+    "kana": "えき",
+    "romaji": "eki"
+}, {
+    "kana": "よゆう",
+    "romaji": "yoyuu"
+}, {
+    "kana": "ふんいき",
+    "romaji": "funiki"
+}, {
+    "kana": "じゅもん",
+    "romaji": "jumon"
+}, {
+    "kana": "まえる",
+    "romaji": "maeru"
+}, {
+    "kana": "はじ",
+    "romaji": "haji"
+}, {
+    "kana": "しずむ",
+    "romaji": "shizumu"
+}, {
+    "kana": "みっつ",
+    "romaji": "mittsu"
+}, {
+    "kana": "ヨ",
+    "romaji": "yo"
+}, {
+    "kana": "おえる",
+    "romaji": "oeru"
+}, {
+    "kana": "かたまり",
+    "romaji": "katamari"
+}, {
+    "kana": "むだ",
+    "romaji": "muda"
+}, {
+    "kana": "たね",
+    "romaji": "tane"
+}, {
+    "kana": "だんな",
+    "romaji": "danna"
+}, {
+    "kana": "たのしむ",
+    "romaji": "tanoshimu"
+}, {
+    "kana": "きんぞく",
+    "romaji": "kinzoku"
+}, {
+    "kana": "なんとか",
+    "romaji": "nantoka"
+}, {
+    "kana": "たった",
+    "romaji": "tatta"
+}, {
+    "kana": "たずねる",
+    "romaji": "tazuneru"
+}, {
+    "kana": "とう",
+    "romaji": "tou"
+}, {
+    "kana": "どんなに",
+    "romaji": "donnani"
+}, {
+    "kana": "やろう",
+    "romaji": "yarou"
+}, {
+    "kana": "しよう",
+    "romaji": "shiyou"
+}, {
+    "kana": "もんく",
+    "romaji": "monku"
+}, {
+    "kana": "いかにも",
+    "romaji": "ikanimo"
+}, {
+    "kana": "かわる",
+    "romaji": "kawaru"
+}, {
+    "kana": "とけい",
+    "romaji": "tokei"
+}, {
+    "kana": "ぶん",
+    "romaji": "bun"
+}, {
+    "kana": "しんけい",
+    "romaji": "shinkei"
+}, {
+    "kana": "はい",
+    "romaji": "hai"
+}, {
+    "kana": "もうすこし",
+    "romaji": "mousukoshi"
+}, {
+    "kana": "ひま",
+    "romaji": "hima"
+}, {
+    "kana": "けた",
+    "romaji": "keta"
+}, {
+    "kana": "くわえる",
+    "romaji": "kuwaeru"
+}, {
+    "kana": "タル",
+    "romaji": "taru"
+}, {
+    "kana": "ふゆ",
+    "romaji": "fuyu"
+}, {
+    "kana": "バス",
+    "romaji": "basu"
+}, {
+    "kana": "きかい",
+    "romaji": "kikai"
+}, {
+    "kana": "だいがく",
+    "romaji": "daigaku"
+}, {
+    "kana": "いたす",
+    "romaji": "itasu"
+}, {
+    "kana": "はし",
+    "romaji": "hashi"
+}, {
+    "kana": "くつ",
+    "romaji": "kutsu"
+}, {
+    "kana": "のびる",
+    "romaji": "nobiru"
+}, {
+    "kana": "おりる",
+    "romaji": "oriru"
+}, {
+    "kana": "けん",
+    "romaji": "ken"
+}, {
+    "kana": "おおう",
+    "romaji": "oou"
+}, {
+    "kana": "しげき",
+    "romaji": "shigeki"
+}, {
+    "kana": "じょおう",
+    "romaji": "joou"
+}, {
+    "kana": "えど",
+    "romaji": "edo"
+}, {
+    "kana": "がまん",
+    "romaji": "gaman"
+}, {
+    "kana": "あつめる",
+    "romaji": "atsumeru"
+}, {
+    "kana": "めい",
+    "romaji": "mei"
+}, {
+    "kana": "せきにん",
+    "romaji": "sekinin"
+}, {
+    "kana": "さける",
+    "romaji": "sakeru"
+}, {
+    "kana": "こうか",
+    "romaji": "kouka"
+}, {
+    "kana": "さしだす",
+    "romaji": "sashidasu"
+}, {
+    "kana": "パイロット",
+    "romaji": "pairotto"
+}, {
+    "kana": "とうとう",
+    "romaji": "toutou"
+}, {
+    "kana": "と",
+    "romaji": "to"
+}, {
+    "kana": "ふむ",
+    "romaji": "fumu"
+}, {
+    "kana": "しょうぐん",
+    "romaji": "shougun"
+}, {
+    "kana": "かける",
+    "romaji": "kakeru"
+}, {
+    "kana": "たおす",
+    "romaji": "taosu"
+}, {
+    "kana": "すべて",
+    "romaji": "subete"
+}, {
+    "kana": "もどす",
+    "romaji": "modosu"
+}, {
+    "kana": "しげる",
+    "romaji": "shigeru"
+}, {
+    "kana": "やね",
+    "romaji": "yane"
+}, {
+    "kana": "ほんとう",
+    "romaji": "hontou"
+}, {
+    "kana": "そうとう",
+    "romaji": "soutou"
+}, {
+    "kana": "つめ",
+    "romaji": "tsume"
+}, {
+    "kana": "ひとこと",
+    "romaji": "hitokoto"
+}, {
+    "kana": "あらう",
+    "romaji": "arau"
+}, {
+    "kana": "しゅうかん",
+    "romaji": "shuukan"
+}, {
+    "kana": "あらわれる",
+    "romaji": "arawareru"
+}, {
+    "kana": "はやし",
+    "romaji": "hayashi"
+}, {
+    "kana": "たえる",
+    "romaji": "taeru"
+}, {
+    "kana": "めいじる",
+    "romaji": "meijiru"
+}, {
+    "kana": "じゅつ",
+    "romaji": "jutsu"
+}, {
+    "kana": "ちゃ",
+    "romaji": "cha"
+}, {
+    "kana": "たたみ",
+    "romaji": "tatami"
+}, {
+    "kana": "すすき",
+    "romaji": "susuki"
+}, {
+    "kana": "ぶつかる",
+    "romaji": "butsukaru"
+}, {
+    "kana": "きり",
+    "romaji": "kiri"
+}, {
+    "kana": "ひこう",
+    "romaji": "hikou"
+}, {
+    "kana": "ながれ",
+    "romaji": "nagare"
+}, {
+    "kana": "おおやけ",
+    "romaji": "ooyake"
+}, {
+    "kana": "ずる",
+    "romaji": "zuru"
+}, {
+    "kana": "しっぱい",
+    "romaji": "shippai"
+}, {
+    "kana": "むすぶ",
+    "romaji": "musubu"
+}, {
+    "kana": "ふりむく",
+    "romaji": "furimuku"
+}, {
+    "kana": "きづく",
+    "romaji": "kizuku"
+}, {
+    "kana": "にし",
+    "romaji": "nishi"
+}, {
+    "kana": "ある",
+    "romaji": "aru"
+}, {
+    "kana": "ねー",
+    "romaji": "ne-"
+}, {
+    "kana": "だけど",
+    "romaji": "dakedo"
+}, {
+    "kana": "いじょう",
+    "romaji": "ijou"
+}, {
+    "kana": "たぶん",
+    "romaji": "tabun"
+}, {
+    "kana": "それにしても",
+    "romaji": "sorenishitemo"
+}, {
+    "kana": "たしょう",
+    "romaji": "tashou"
+}, {
+    "kana": "さやま",
+    "romaji": "sayama"
+}, {
+    "kana": "あい",
+    "romaji": "ai"
+}, {
+    "kana": "わっ",
+    "romaji": "wa"
+}, {
+    "kana": "せいこう",
+    "romaji": "seikou"
+}, {
+    "kana": "おちゃ",
+    "romaji": "ocha"
+}, {
+    "kana": "よわい",
+    "romaji": "yowai"
+}, {
+    "kana": "かいてん",
+    "romaji": "kaiten"
+}, {
+    "kana": "どなる",
+    "romaji": "donaru"
+}, {
+    "kana": "びょうき",
+    "romaji": "byouki"
+}, {
+    "kana": "みどり",
+    "romaji": "midori"
+}, {
+    "kana": "ぐうぜん",
+    "romaji": "guuzen"
+}, {
+    "kana": "だま",
+    "romaji": "dama"
+}, {
+    "kana": "さい",
+    "romaji": "sai"
+}, {
+    "kana": "わざわざ",
+    "romaji": "wazawaza"
+}, {
+    "kana": "われ",
+    "romaji": "ware"
+}, {
+    "kana": "まっすぐ",
+    "romaji": "massugu"
+}, {
+    "kana": "したがう",
+    "romaji": "shitagau"
+}, {
+    "kana": "うちがわ",
+    "romaji": "uchigawa"
+}, {
+    "kana": "たばこ",
+    "romaji": "tabako"
+}, {
+    "kana": "マスター",
+    "romaji": "masutaa"
+}, {
+    "kana": "りか",
+    "romaji": "rika"
+}, {
+    "kana": "はず",
+    "romaji": "hazu"
+}, {
+    "kana": "エルフ",
+    "romaji": "erufu"
+}, {
+    "kana": "われる",
+    "romaji": "wareru"
+}, {
+    "kana": "いたる",
+    "romaji": "itaru"
+}, {
+    "kana": "ずじょう",
+    "romaji": "zujou"
+}, {
+    "kana": "あいす",
+    "romaji": "aisu"
+}, {
+    "kana": "のぼる",
+    "romaji": "noboru"
+}, {
+    "kana": "かいかん",
+    "romaji": "kaikan"
+}, {
+    "kana": "そもそも",
+    "romaji": "somosomo"
+}, {
+    "kana": "とおさか",
+    "romaji": "toosaka"
+}, {
+    "kana": "ひとかげ",
+    "romaji": "hitokage"
+}, {
+    "kana": "きさま",
+    "romaji": "kisama"
+}, {
+    "kana": "つかむ",
+    "romaji": "tsukamu"
+}, {
+    "kana": "はし",
+    "romaji": "hashi"
+}, {
+    "kana": "ざ",
+    "romaji": "za"
+}, {
+    "kana": "はた",
+    "romaji": "hata"
+}, {
+    "kana": "なんだか",
+    "romaji": "nandaka"
+}, {
+    "kana": "とめる",
+    "romaji": "tomeru"
+}, {
+    "kana": "ひき",
+    "romaji": "hiki"
+}, {
+    "kana": "ねん",
+    "romaji": "nen"
+}, {
+    "kana": "せいかく",
+    "romaji": "seikaku"
+}, {
+    "kana": "かたい",
+    "romaji": "katai"
+}, {
+    "kana": "りよう",
+    "romaji": "riyou"
+}, {
+    "kana": "どうし",
+    "romaji": "doushi"
+}, {
+    "kana": "いりぐち",
+    "romaji": "iriguchi"
+}, {
+    "kana": "ほんもの",
+    "romaji": "honmono"
+}, {
+    "kana": "せっきん",
+    "romaji": "sekkin"
+}, {
+    "kana": "つうしん",
+    "romaji": "tsuushin"
+}, {
+    "kana": "ちくび",
+    "romaji": "chikubi"
+}, {
+    "kana": "てらす",
+    "romaji": "terasu"
+}, {
+    "kana": "ますます",
+    "romaji": "masumasu"
+}, {
+    "kana": "ナ",
+    "romaji": "na"
+}, {
+    "kana": "いた",
+    "romaji": "ita"
+}, {
+    "kana": "ちゅう",
+    "romaji": "chuu"
+}, {
+    "kana": "のむ",
+    "romaji": "nomu"
+}, {
+    "kana": "あかり",
+    "romaji": "akari"
+}, {
+    "kana": "つぶやく",
+    "romaji": "tsubuyaku"
+}, {
+    "kana": "れい",
+    "romaji": "rei"
+}, {
+    "kana": "ねがう",
+    "romaji": "negau"
+}, {
+    "kana": "しょうせつ",
+    "romaji": "shousetsu"
+}, {
+    "kana": "とおす",
+    "romaji": "toosu"
+}, {
+    "kana": "なにもの",
+    "romaji": "nanimono"
+}, {
+    "kana": "しかん",
+    "romaji": "shikan"
+}, {
+    "kana": "ぬる",
+    "romaji": "nuru"
+}, {
+    "kana": "ふい",
+    "romaji": "fui"
+}, {
+    "kana": "かける",
+    "romaji": "kakeru"
+}, {
+    "kana": "よてい",
+    "romaji": "yotei"
+}, {
+    "kana": "ひてい",
+    "romaji": "hitei"
+}, {
+    "kana": "むし",
+    "romaji": "mushi"
+}, {
+    "kana": "あんず",
+    "romaji": "anzu"
+}, {
+    "kana": "おび",
+    "romaji": "obi"
+}, {
+    "kana": "みょう",
+    "romaji": "myou"
+}, {
+    "kana": "ほ",
+    "romaji": "ho"
+}, {
+    "kana": "ほほ",
+    "romaji": "hoho"
+}, {
+    "kana": "ごとし",
+    "romaji": "gotoshi"
+}, {
+    "kana": "かんちょう",
+    "romaji": "kanchou"
+}, {
+    "kana": "いっしゅ",
+    "romaji": "isshu"
+}, {
+    "kana": "かつ",
+    "romaji": "katsu"
+}, {
+    "kana": "かんさつ",
+    "romaji": "kansatsu"
+}, {
+    "kana": "パン",
+    "romaji": "pan"
+}, {
+    "kana": "すく",
+    "romaji": "suku"
+}, {
+    "kana": "にゃ",
+    "romaji": "nya"
+}, {
+    "kana": "こや",
+    "romaji": "koya"
+}, {
+    "kana": "かつどう",
+    "romaji": "katsudou"
+}, {
+    "kana": "このよ",
+    "romaji": "konoyo"
+}, {
+    "kana": "おやじ",
+    "romaji": "oyaji"
+}, {
+    "kana": "いちばん",
+    "romaji": "ichiban"
+}, {
+    "kana": "くら",
+    "romaji": "kura"
+}, {
+    "kana": "のど",
+    "romaji": "nodo"
+}, {
+    "kana": "げんいん",
+    "romaji": "genin"
+}, {
+    "kana": "じょう",
+    "romaji": "jou"
+}, {
+    "kana": "おか",
+    "romaji": "oka"
+}, {
+    "kana": "ささえる",
+    "romaji": "sasaeru"
+}, {
+    "kana": "すら",
+    "romaji": "sura"
+}, {
+    "kana": "いと",
+    "romaji": "ito"
+}, {
+    "kana": "どこ",
+    "romaji": "doko"
+}, {
+    "kana": "さく",
+    "romaji": "saku"
+}, {
+    "kana": "もらう",
+    "romaji": "morau"
+}, {
+    "kana": "しんじつ",
+    "romaji": "shinjitsu"
+}, {
+    "kana": "ゲーム",
+    "romaji": "geemu"
+}, {
+    "kana": "だん",
+    "romaji": "dan"
+}, {
+    "kana": "あさひな",
+    "romaji": "asahina"
+}, {
+    "kana": "しき",
+    "romaji": "shiki"
+}, {
+    "kana": "わかれる",
+    "romaji": "wakareru"
+}, {
+    "kana": "こぶし",
+    "romaji": "kobushi"
+}, {
+    "kana": "いんしょう",
+    "romaji": "inshou"
+}, {
+    "kana": "かわ",
+    "romaji": "kawa"
+}, {
+    "kana": "さ",
+    "romaji": "sa"
+}, {
+    "kana": "おとうさん",
+    "romaji": "otousan"
+}, {
+    "kana": "ちる",
+    "romaji": "chiru"
+}, {
+    "kana": "のぞく",
+    "romaji": "nozoku"
+}, {
+    "kana": "あき",
+    "romaji": "aki"
+}, {
+    "kana": "うえ",
+    "romaji": "ue"
+}, {
+    "kana": "めんどう",
+    "romaji": "mendou"
+}, {
+    "kana": "うく",
+    "romaji": "uku"
+}, {
+    "kana": "とし",
+    "romaji": "toshi"
+}, {
+    "kana": "テレビ",
+    "romaji": "terebi"
+}, {
+    "kana": "せいれい",
+    "romaji": "seirei"
+}, {
+    "kana": "せっかく",
+    "romaji": "sekkaku"
+}, {
+    "kana": "なぐ",
+    "romaji": "nagu"
+}, {
+    "kana": "であう",
+    "romaji": "deau"
+}, {
+    "kana": "とたん",
+    "romaji": "totan"
+}, {
+    "kana": "みなと",
+    "romaji": "minato"
+}, {
+    "kana": "うれしい",
+    "romaji": "ureshii"
+}, {
+    "kana": "つける",
+    "romaji": "tsukeru"
+}, {
+    "kana": "あい",
+    "romaji": "ai"
+}, {
+    "kana": "おしつける",
+    "romaji": "oshitsukeru"
+}, {
+    "kana": "いしゃ",
+    "romaji": "isha"
+}, {
+    "kana": "つらい",
+    "romaji": "tsurai"
+}, {
+    "kana": "ちしき",
+    "romaji": "chishiki"
+}, {
+    "kana": "そっち",
+    "romaji": "sotchi"
+}, {
+    "kana": "ぶか",
+    "romaji": "buka"
+}, {
+    "kana": "にんむ",
+    "romaji": "ninmu"
+}, {
+    "kana": "おおごえ",
+    "romaji": "oogoe"
+}, {
+    "kana": "みらい",
+    "romaji": "mirai"
+}, {
+    "kana": "ふめい",
+    "romaji": "fumei"
+}, {
+    "kana": "うつ",
+    "romaji": "utsu"
+}, {
+    "kana": "れんぽう",
+    "romaji": "renpou"
+}, {
+    "kana": "スパーク",
+    "romaji": "supaaku"
+}, {
+    "kana": "あきら",
+    "romaji": "akira"
+}, {
+    "kana": "とばす",
+    "romaji": "tobasu"
+}, {
+    "kana": "くうちゅう",
+    "romaji": "kuuchuu"
+}, {
+    "kana": "びっくり",
+    "romaji": "bikkuri"
+}, {
+    "kana": "かまう",
+    "romaji": "kamau"
+}, {
+    "kana": "みおろす",
+    "romaji": "miorosu"
+}, {
+    "kana": "ばる",
+    "romaji": "baru"
+}, {
+    "kana": "こい",
+    "romaji": "koi"
+}, {
+    "kana": "るい",
+    "romaji": "rui"
+}, {
+    "kana": "くつ",
+    "romaji": "kutsu"
+}, {
+    "kana": "かくじつ",
+    "romaji": "kakujitsu"
+}, {
+    "kana": "はう",
+    "romaji": "hau"
+}, {
+    "kana": "すなお",
+    "romaji": "sunao"
+}, {
+    "kana": "エンジン",
+    "romaji": "enjin"
+}, {
+    "kana": "そしき",
+    "romaji": "soshiki"
+}, {
+    "kana": "そうじゅう",
+    "romaji": "soujuu"
+}, {
+    "kana": "けい",
+    "romaji": "kei"
+}, {
+    "kana": "カード",
+    "romaji": "kaado"
+}, {
+    "kana": "かわいい",
+    "romaji": "kawaii"
+}, {
+    "kana": "まりょく",
+    "romaji": "maryoku"
+}, {
+    "kana": "ステ",
+    "romaji": "sute"
+}, {
+    "kana": "べんきょう",
+    "romaji": "benkyou"
+}, {
+    "kana": "むずかしい",
+    "romaji": "muzukashii"
+}, {
+    "kana": "え",
+    "romaji": "e"
+}, {
+    "kana": "かまえる",
+    "romaji": "kamaeru"
+}, {
+    "kana": "っけ",
+    "romaji": "kke"
+}, {
+    "kana": "これら",
+    "romaji": "korera"
+}, {
+    "kana": "すき",
+    "romaji": "suki"
+}, {
+    "kana": "ほんとに",
+    "romaji": "hontoni"
+}, {
+    "kana": "こえる",
+    "romaji": "koeru"
+}, {
+    "kana": "ひろう",
+    "romaji": "hirou"
+}, {
+    "kana": "いっぱん",
+    "romaji": "ippan"
+}, {
+    "kana": "やしろ",
+    "romaji": "yashiro"
+}, {
+    "kana": "せいかく",
+    "romaji": "seikaku"
+}, {
+    "kana": "にぎる",
+    "romaji": "nigiru"
+}, {
+    "kana": "はなしかける",
+    "romaji": "hanashikakeru"
+}, {
+    "kana": "おや",
+    "romaji": "oya"
+}, {
+    "kana": "かす",
+    "romaji": "kasu"
+}, {
+    "kana": "あく",
+    "romaji": "aku"
+}, {
+    "kana": "いちおう",
+    "romaji": "ichiou"
+}, {
+    "kana": "がくせい",
+    "romaji": "gakusei"
+}, {
+    "kana": "ばん",
+    "romaji": "ban"
+}, {
+    "kana": "くつう",
+    "romaji": "kutsuu"
+}, {
+    "kana": "れいせい",
+    "romaji": "reisei"
+}, {
+    "kana": "はじめ",
+    "romaji": "hajime"
+}, {
+    "kana": "ぶん",
+    "romaji": "bun"
+}, {
+    "kana": "ハッ",
+    "romaji": "ha"
+}, {
+    "kana": "さく",
+    "romaji": "saku"
+}, {
+    "kana": "やみ",
+    "romaji": "yami"
+}, {
+    "kana": "かえって",
+    "romaji": "kaette"
+}, {
+    "kana": "げんしょう",
+    "romaji": "genshou"
+}, {
+    "kana": "ほんらい",
+    "romaji": "honrai"
+}, {
+    "kana": "ひな",
+    "romaji": "hina"
+}, {
+    "kana": "たに",
+    "romaji": "tani"
+}, {
+    "kana": "いちじ",
+    "romaji": "ichiji"
+}, {
+    "kana": "ひょうげん",
+    "romaji": "hyougen"
+}, {
+    "kana": "じゅうよう",
+    "romaji": "juuyou"
+}, {
+    "kana": "づく",
+    "romaji": "zuku"
+}, {
+    "kana": "どりょく",
+    "romaji": "doryoku"
+}, {
+    "kana": "いく",
+    "romaji": "iku"
+}, {
+    "kana": "きれい",
+    "romaji": "kirei"
+}, {
+    "kana": "もる",
+    "romaji": "moru"
+}, {
+    "kana": "およぶ",
+    "romaji": "oyobu"
+}, {
+    "kana": "レンズ",
+    "romaji": "renzu"
+}, {
+    "kana": "どうろ",
+    "romaji": "douro"
+}, {
+    "kana": "ゆうこ",
+    "romaji": "yuuko"
+}, {
+    "kana": "きもち",
+    "romaji": "kimochi"
+}, {
+    "kana": "とら",
+    "romaji": "tora"
+}, {
+    "kana": "おうじる",
+    "romaji": "oujiru"
+}, {
+    "kana": "つうじる",
+    "romaji": "tsuujiru"
+}, {
+    "kana": "たつ",
+    "romaji": "tatsu"
+}, {
+    "kana": "まし",
+    "romaji": "mashi"
+}, {
+    "kana": "ふくざつ",
+    "romaji": "fukuzatsu"
+}, {
+    "kana": "たまる",
+    "romaji": "tamaru"
+}, {
+    "kana": "あちこち",
+    "romaji": "achikochi"
+}, {
+    "kana": "わ",
+    "romaji": "wa"
+}, {
+    "kana": "きょう",
+    "romaji": "kyou"
+}, {
+    "kana": "なぜ",
+    "romaji": "naze"
+}, {
+    "kana": "いか",
+    "romaji": "ika"
+}, {
+    "kana": "まれ",
+    "romaji": "mare"
+}, {
+    "kana": "すな",
+    "romaji": "suna"
+}, {
+    "kana": "あと",
+    "romaji": "ato"
+}, {
+    "kana": "リー",
+    "romaji": "rii"
+}, {
+    "kana": "モノ",
+    "romaji": "mono"
+}, {
+    "kana": "なでる",
+    "romaji": "naderu"
+}, {
+    "kana": "キス",
+    "romaji": "kisu"
+}, {
+    "kana": "きょうりょく",
+    "romaji": "kyouryoku"
+}, {
+    "kana": "へえ",
+    "romaji": "hee"
+}, {
+    "kana": "と",
+    "romaji": "to"
+}, {
+    "kana": "えみ",
+    "romaji": "emi"
+}, {
+    "kana": "なぐる",
+    "romaji": "naguru"
+}, {
+    "kana": "ちょうさ",
+    "romaji": "chousa"
+}, {
+    "kana": "かさねる",
+    "romaji": "kasaneru"
+}, {
+    "kana": "どうぶつ",
+    "romaji": "doubutsu"
+}, {
+    "kana": "せけん",
+    "romaji": "seken"
+}, {
+    "kana": "えいが",
+    "romaji": "eiga"
+}, {
+    "kana": "もり",
+    "romaji": "mori"
+}, {
+    "kana": "おどろき",
+    "romaji": "odoroki"
+}, {
+    "kana": "くるう",
+    "romaji": "kuruu"
+}, {
+    "kana": "はんしゃ",
+    "romaji": "hansha"
+}, {
+    "kana": "かわいい",
+    "romaji": "kawaii"
+}, {
+    "kana": "ふかのう",
+    "romaji": "fukanou"
+}, {
+    "kana": "かえり",
+    "romaji": "kaeri"
+}, {
+    "kana": "は",
+    "romaji": "ha"
+}, {
+    "kana": "さそう",
+    "romaji": "sasou"
+}, {
+    "kana": "そうした",
+    "romaji": "soushita"
+}, {
+    "kana": "こんらん",
+    "romaji": "konran"
+}, {
+    "kana": "いっしょう",
+    "romaji": "isshou"
+}, {
+    "kana": "めずらしい",
+    "romaji": "mezurashii"
+}, {
+    "kana": "さいこう",
+    "romaji": "saikou"
+}, {
+    "kana": "えき",
+    "romaji": "eki"
+}, {
+    "kana": "だらけ",
+    "romaji": "darake"
+}, {
+    "kana": "どうし",
+    "romaji": "doushi"
+}, {
+    "kana": "れい",
+    "romaji": "rei"
+}, {
+    "kana": "しょうたい",
+    "romaji": "shoutai"
+}, {
+    "kana": "ひょうめん",
+    "romaji": "hyoumen"
+}, {
+    "kana": "けが",
+    "romaji": "kega"
+}, {
+    "kana": "ベル",
+    "romaji": "beru"
+}, {
+    "kana": "はぐ",
+    "romaji": "hagu"
+}, {
+    "kana": "おかあさん",
+    "romaji": "okaasan"
+}, {
+    "kana": "かた",
+    "romaji": "kata"
+}, {
+    "kana": "うける",
+    "romaji": "ukeru"
+}, {
+    "kana": "ふろ",
+    "romaji": "furo"
+}, {
+    "kana": "たっぷり",
+    "romaji": "tappuri"
+}, {
+    "kana": "しる",
+    "romaji": "shiru"
+}, {
+    "kana": "こじん",
+    "romaji": "kojin"
+}, {
+    "kana": "かんしゃ",
+    "romaji": "kansha"
+}, {
+    "kana": "えん",
+    "romaji": "en"
+}, {
+    "kana": "つかえる",
+    "romaji": "tsukaeru"
+}, {
+    "kana": "じょうけん",
+    "romaji": "jouken"
+}, {
+    "kana": "ぼうけん",
+    "romaji": "bouken"
+}, {
+    "kana": "ときどき",
+    "romaji": "tokidoki"
+}, {
+    "kana": "ボク",
+    "romaji": "boku"
+}, {
+    "kana": "ぽい",
+    "romaji": "poi"
+}, {
+    "kana": "しゅだん",
+    "romaji": "shudan"
+}, {
+    "kana": "まなぶ",
+    "romaji": "manabu"
+}, {
+    "kana": "むら",
+    "romaji": "mura"
+}, {
+    "kana": "ソ",
+    "romaji": "so"
+}, {
+    "kana": "きこえる",
+    "romaji": "kikoeru"
+}, {
+    "kana": "だいじょうぶ",
+    "romaji": "daijoubu"
+}, {
+    "kana": "ふじ",
+    "romaji": "fuji"
+}, {
+    "kana": "どおり",
+    "romaji": "doori"
+}, {
+    "kana": "もも",
+    "romaji": "momo"
+}, {
+    "kana": "みごと",
+    "romaji": "migoto"
+}, {
+    "kana": "てくび",
+    "romaji": "tekubi"
+}, {
+    "kana": "けいかい",
+    "romaji": "keikai"
+}, {
+    "kana": "おそれる",
+    "romaji": "osoreru"
+}, {
+    "kana": "れつ",
+    "romaji": "retsu"
+}, {
+    "kana": "たとえば",
+    "romaji": "tatoeba"
+}, {
+    "kana": "ひがい",
+    "romaji": "higai"
+}, {
+    "kana": "ほんと",
+    "romaji": "honto"
+}, {
+    "kana": "なにごと",
+    "romaji": "nanigoto"
+}, {
+    "kana": "はやい",
+    "romaji": "hayai"
+}, {
+    "kana": "うつる",
+    "romaji": "utsuru"
+}, {
+    "kana": "はるか",
+    "romaji": "haruka"
+}, {
+    "kana": "ひびき",
+    "romaji": "hibiki"
+}, {
+    "kana": "たびびと",
+    "romaji": "tabibito"
+}, {
+    "kana": "すくめる",
+    "romaji": "sukumeru"
+}, {
+    "kana": "あたり",
+    "romaji": "atari"
+}, {
+    "kana": "しょうかい",
+    "romaji": "shoukai"
+}, {
+    "kana": "のう",
+    "romaji": "nou"
+}, {
+    "kana": "ゆかり",
+    "romaji": "yukari"
+}, {
+    "kana": "さわ",
+    "romaji": "sawa"
+}, {
+    "kana": "おもふ",
+    "romaji": "omofu"
+}, {
+    "kana": "アメリカ",
+    "romaji": "amerika"
+}, {
+    "kana": "おいかける",
+    "romaji": "oikakeru"
+}, {
+    "kana": "にくい",
+    "romaji": "nikui"
+}, {
+    "kana": "しじ",
+    "romaji": "shiji"
+}, {
+    "kana": "わが",
+    "romaji": "waga"
+}, {
+    "kana": "ようきゅう",
+    "romaji": "youkyuu"
+}, {
+    "kana": "あたり",
+    "romaji": "atari"
+}, {
+    "kana": "じょし",
+    "romaji": "joshi"
+}, {
+    "kana": "あッ",
+    "romaji": "a"
+}, {
+    "kana": "ぜんご",
+    "romaji": "zengo"
+}, {
+    "kana": "こめる",
+    "romaji": "komeru"
+}, {
+    "kana": "かち",
+    "romaji": "kachi"
+}, {
+    "kana": "まいる",
+    "romaji": "mairu"
+}, {
+    "kana": "どうぐ",
+    "romaji": "dougu"
+}, {
+    "kana": "まさに",
+    "romaji": "masani"
+}, {
+    "kana": "もともと",
+    "romaji": "motomoto"
+}, {
+    "kana": "ふせる",
+    "romaji": "fuseru"
+}, {
+    "kana": "げんば",
+    "romaji": "genba"
+}, {
+    "kana": "あそび",
+    "romaji": "asobi"
+}, {
+    "kana": "ごろ",
+    "romaji": "goro"
+}, {
+    "kana": "せんたん",
+    "romaji": "sentan"
+}, {
+    "kana": "ます",
+    "romaji": "masu"
+}, {
+    "kana": "かずや",
+    "romaji": "kazuya"
+}, {
+    "kana": "しんにゅう",
+    "romaji": "shinnyuu"
+}, {
+    "kana": "あくま",
+    "romaji": "akuma"
+}, {
+    "kana": "みまわす",
+    "romaji": "mimawasu"
+}, {
+    "kana": "センチ",
+    "romaji": "senchi"
+}, {
+    "kana": "ねらう",
+    "romaji": "nerau"
+}, {
+    "kana": "いちどう",
+    "romaji": "ichidou"
+}, {
+    "kana": "きぼう",
+    "romaji": "kibou"
+}, {
+    "kana": "をもって",
+    "romaji": "womotte"
+}, {
+    "kana": "ショット",
+    "romaji": "shotto"
+}, {
+    "kana": "それでは",
+    "romaji": "soredeha"
+}, {
+    "kana": "まかせる",
+    "romaji": "makaseru"
+}, {
+    "kana": "はしら",
+    "romaji": "hashira"
+}, {
+    "kana": "ならべる",
+    "romaji": "naraberu"
+}, {
+    "kana": "ねえさん",
+    "romaji": "neesan"
+}, {
+    "kana": "ひっぱる",
+    "romaji": "hipparu"
+}, {
+    "kana": "もしも",
+    "romaji": "moshimo"
+}, {
+    "kana": "せわ",
+    "romaji": "sewa"
+}, {
+    "kana": "カメラ",
+    "romaji": "kamera"
+}, {
+    "kana": "おはなし",
+    "romaji": "ohanashi"
+}, {
+    "kana": "せめて",
+    "romaji": "semete"
+}, {
+    "kana": "しん",
+    "romaji": "shin"
+}, {
+    "kana": "ようい",
+    "romaji": "youi"
+}, {
+    "kana": "となり",
+    "romaji": "tonari"
+}, {
+    "kana": "へいき",
+    "romaji": "heiki"
+}, {
+    "kana": "いかに",
+    "romaji": "ikani"
+}, {
+    "kana": "ママ",
+    "romaji": "mama"
+}, {
+    "kana": "うわさ",
+    "romaji": "uwasa"
+}, {
+    "kana": "よびかける",
+    "romaji": "yobikakeru"
+}, {
+    "kana": "すい",
+    "romaji": "sui"
+}, {
+    "kana": "じんるい",
+    "romaji": "jinrui"
+}, {
+    "kana": "かくしん",
+    "romaji": "kakushin"
+}, {
+    "kana": "やさしい",
+    "romaji": "yasashii"
+}, {
+    "kana": "しょうばい",
+    "romaji": "shoubai"
+}, {
+    "kana": "あわてる",
+    "romaji": "awateru"
+}, {
+    "kana": "はう",
+    "romaji": "hau"
+}, {
+    "kana": "ある",
+    "romaji": "aru"
+}, {
+    "kana": "としせい",
+    "romaji": "toshisei"
+}, {
+    "kana": "おわる",
+    "romaji": "owaru"
+}, {
+    "kana": "しゅっぱつ",
+    "romaji": "shuppatsu"
+}, {
+    "kana": "めいわく",
+    "romaji": "meiwaku"
+}, {
+    "kana": "いつか",
+    "romaji": "itsuka"
+}, {
+    "kana": "きんじょ",
+    "romaji": "kinjo"
+}, {
+    "kana": "よろい",
+    "romaji": "yoroi"
+}, {
+    "kana": "こうど",
+    "romaji": "koudo"
+}, {
+    "kana": "はいいろ",
+    "romaji": "haiiro"
+}, {
+    "kana": "かたい",
+    "romaji": "katai"
+}, {
+    "kana": "いっこう",
+    "romaji": "ikkou"
+}, {
+    "kana": "ふた",
+    "romaji": "futa"
+}, {
+    "kana": "かいほう",
+    "romaji": "kaihou"
+}, {
+    "kana": "しめる",
+    "romaji": "shimeru"
+}, {
+    "kana": "やる",
+    "romaji": "yaru"
+}, {
+    "kana": "かぎり",
+    "romaji": "kagiri"
+}, {
+    "kana": "うわ",
+    "romaji": "uwa"
+}, {
+    "kana": "ひそめる",
+    "romaji": "hisomeru"
+}, {
+    "kana": "おる",
+    "romaji": "oru"
+}, {
+    "kana": "とびこむ",
+    "romaji": "tobikomu"
+}, {
+    "kana": "ゆいいつ",
+    "romaji": "yuiitsu"
+}, {
+    "kana": "シル",
+    "romaji": "shiru"
+}, {
+    "kana": "はんぞう",
+    "romaji": "hanzou"
+}, {
+    "kana": "かこむ",
+    "romaji": "kakomu"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "ぼうし",
+    "romaji": "boushi"
+}, {
+    "kana": "かいし",
+    "romaji": "kaishi"
+}, {
+    "kana": "あたる",
+    "romaji": "ataru"
+}, {
+    "kana": "まずい",
+    "romaji": "mazui"
+}, {
+    "kana": "じこ",
+    "romaji": "jiko"
+}, {
+    "kana": "おかね",
+    "romaji": "okane"
+}, {
+    "kana": "エネルギー",
+    "romaji": "enerugii"
+}, {
+    "kana": "どこか",
+    "romaji": "dokoka"
+}, {
+    "kana": "どく",
+    "romaji": "doku"
+}, {
+    "kana": "こもる",
+    "romaji": "komoru"
+}, {
+    "kana": "かし",
+    "romaji": "kashi"
+}, {
+    "kana": "みちる",
+    "romaji": "michiru"
+}, {
+    "kana": "おそれる",
+    "romaji": "osoreru"
+}, {
+    "kana": "くらべる",
+    "romaji": "kuraberu"
+}, {
+    "kana": "せいぶつ",
+    "romaji": "seibutsu"
+}, {
+    "kana": "いつのまにか",
+    "romaji": "itsunomanika"
+}, {
+    "kana": "お",
+    "romaji": "o"
+}, {
+    "kana": "たりる",
+    "romaji": "tariru"
+}, {
+    "kana": "しょうぶ",
+    "romaji": "shoubu"
+}, {
+    "kana": "なか",
+    "romaji": "naka"
+}, {
+    "kana": "トン",
+    "romaji": "ton"
+}, {
+    "kana": "スクリーン",
+    "romaji": "sukuriin"
+}, {
+    "kana": "こする",
+    "romaji": "kosuru"
+}, {
+    "kana": "きもの",
+    "romaji": "kimono"
+}, {
+    "kana": "カシュー",
+    "romaji": "kashuu"
+}, {
+    "kana": "おこなう",
+    "romaji": "okonau"
+}, {
+    "kana": "のる",
+    "romaji": "noru"
+}, {
+    "kana": "おっしゃる",
+    "romaji": "ossharu"
+}, {
+    "kana": "おじ",
+    "romaji": "oji"
+}, {
+    "kana": "みえる",
+    "romaji": "mieru"
+}, {
+    "kana": "たすかる",
+    "romaji": "tasukaru"
+}, {
+    "kana": "ひろば",
+    "romaji": "hiroba"
+}, {
+    "kana": "ゆえ",
+    "romaji": "yue"
+}, {
+    "kana": "はっす",
+    "romaji": "hassu"
+}, {
+    "kana": "にげだす",
+    "romaji": "nigedasu"
+}, {
+    "kana": "りょこう",
+    "romaji": "ryokou"
+}, {
+    "kana": "いと",
+    "romaji": "ito"
+}, {
+    "kana": "すきま",
+    "romaji": "sukima"
+}, {
+    "kana": "まね",
+    "romaji": "mane"
+}, {
+    "kana": "すう",
+    "romaji": "suu"
+}, {
+    "kana": "しょうにん",
+    "romaji": "shounin"
+}, {
+    "kana": "ロー",
+    "romaji": "roo"
+}, {
+    "kana": "ちず",
+    "romaji": "chizu"
+}, {
+    "kana": "さす",
+    "romaji": "sasu"
+}, {
+    "kana": "よし",
+    "romaji": "yoshi"
+}, {
+    "kana": "てい",
+    "romaji": "tei"
+}, {
+    "kana": "まる",
+    "romaji": "maru"
+}, {
+    "kana": "にどと",
+    "romaji": "nidoto"
+}, {
+    "kana": "ふたたび",
+    "romaji": "futatabi"
+}, {
+    "kana": "コモ",
+    "romaji": "komo"
+}, {
+    "kana": "ごめんなさい",
+    "romaji": "gomennasai"
+}, {
+    "kana": "さんか",
+    "romaji": "sanka"
+}, {
+    "kana": "タイプ",
+    "romaji": "taipu"
+}, {
+    "kana": "すそ",
+    "romaji": "suso"
+}, {
+    "kana": "てのひら",
+    "romaji": "tenohira"
+}, {
+    "kana": "ためらう",
+    "romaji": "tamerau"
+}, {
+    "kana": "つぎつぎ",
+    "romaji": "tsugitsugi"
+}, {
+    "kana": "とく",
+    "romaji": "toku"
+}, {
+    "kana": "みちる",
+    "romaji": "michiru"
+}, {
+    "kana": "つむ",
+    "romaji": "tsumu"
+}, {
+    "kana": "じたい",
+    "romaji": "jitai"
+}, {
+    "kana": "デル",
+    "romaji": "deru"
+}, {
+    "kana": "ゆうれい",
+    "romaji": "yuurei"
+}, {
+    "kana": "シャツ",
+    "romaji": "shatsu"
+}, {
+    "kana": "ね",
+    "romaji": "ne"
+}, {
+    "kana": "くだる",
+    "romaji": "kudaru"
+}, {
+    "kana": "おもいつく",
+    "romaji": "omoitsuku"
+}, {
+    "kana": "しあわせ",
+    "romaji": "shiawase"
+}, {
+    "kana": "よりゆき",
+    "romaji": "yoriyuki"
+}, {
+    "kana": "コーヒー",
+    "romaji": "koohii"
+}, {
+    "kana": "みおくる",
+    "romaji": "miokuru"
+}, {
+    "kana": "パンティ",
+    "romaji": "pantei"
+}, {
+    "kana": "ばく",
+    "romaji": "baku"
+}, {
+    "kana": "ガス",
+    "romaji": "gasu"
+}, {
+    "kana": "しれい",
+    "romaji": "shirei"
+}, {
+    "kana": "どうにか",
+    "romaji": "dounika"
+}, {
+    "kana": "もしか",
+    "romaji": "moshika"
+}, {
+    "kana": "だんせい",
+    "romaji": "dansei"
+}, {
+    "kana": "にっぽんじん",
+    "romaji": "nipponjin"
+}, {
+    "kana": "てら",
+    "romaji": "tera"
+}, {
+    "kana": "くろう",
+    "romaji": "kurou"
+}, {
+    "kana": "スリル",
+    "romaji": "suriru"
+}, {
+    "kana": "がい",
+    "romaji": "gai"
+}, {
+    "kana": "らん",
+    "romaji": "ran"
+}, {
+    "kana": "とら",
+    "romaji": "tora"
+}, {
+    "kana": "ハイ",
+    "romaji": "hai"
+}, {
+    "kana": "おとなしい",
+    "romaji": "otonashii"
+}, {
+    "kana": "ひび",
+    "romaji": "hibi"
+}, {
+    "kana": "まゆ",
+    "romaji": "mayu"
+}, {
+    "kana": "ほぼ",
+    "romaji": "hobo"
+}, {
+    "kana": "さがる",
+    "romaji": "sagaru"
+}, {
+    "kana": "しんよう",
+    "romaji": "shinyou"
+}, {
+    "kana": "うるさい",
+    "romaji": "urusai"
+}, {
+    "kana": "じょうげ",
+    "romaji": "jouge"
+}, {
+    "kana": "い",
+    "romaji": "i"
+}, {
+    "kana": "こう",
+    "romaji": "kou"
+}, {
+    "kana": "つきだす",
+    "romaji": "tsukidasu"
+}, {
+    "kana": "どんどん",
+    "romaji": "dondon"
+}, {
+    "kana": "あらた",
+    "romaji": "arata"
+}, {
+    "kana": "かなた",
+    "romaji": "kanata"
+}, {
+    "kana": "いちはい",
+    "romaji": "ichihai"
+}, {
+    "kana": "さとの",
+    "romaji": "satono"
+}, {
+    "kana": "あせる",
+    "romaji": "aseru"
+}, {
+    "kana": "ところで",
+    "romaji": "tokorode"
+}, {
+    "kana": "そちら",
+    "romaji": "sochira"
+}, {
+    "kana": "れん",
+    "romaji": "ren"
+}, {
+    "kana": "じょう",
+    "romaji": "jou"
+}, {
+    "kana": "ろう",
+    "romaji": "rou"
+}, {
+    "kana": "まっか",
+    "romaji": "makka"
+}, {
+    "kana": "どく",
+    "romaji": "doku"
+}, {
+    "kana": "びじん",
+    "romaji": "bijin"
+}, {
+    "kana": "ころも",
+    "romaji": "koromo"
+}, {
+    "kana": "あご",
+    "romaji": "ago"
+}, {
+    "kana": "たんじゅん",
+    "romaji": "tanjun"
+}, {
+    "kana": "ひとみ",
+    "romaji": "hitomi"
+}, {
+    "kana": "ぐん",
+    "romaji": "gun"
+}, {
+    "kana": "くらす",
+    "romaji": "kurasu"
+}, {
+    "kana": "とうちゃく",
+    "romaji": "touchaku"
+}, {
+    "kana": "けいじ",
+    "romaji": "keiji"
+}, {
+    "kana": "カップ",
+    "romaji": "kappu"
+}, {
+    "kana": "しかた",
+    "romaji": "shikata"
+}, {
+    "kana": "まち",
+    "romaji": "machi"
+}, {
+    "kana": "ふ",
+    "romaji": "fu"
+}, {
+    "kana": "こい",
+    "romaji": "koi"
+}, {
+    "kana": "じゅぎょう",
+    "romaji": "jugyou"
+}, {
+    "kana": "あっさり",
+    "romaji": "assari"
+}, {
+    "kana": "だり",
+    "romaji": "dari"
+}, {
+    "kana": "りょう",
+    "romaji": "ryou"
+}, {
+    "kana": "はだか",
+    "romaji": "hadaka"
+}, {
+    "kana": "できごと",
+    "romaji": "dekigoto"
+}, {
+    "kana": "おきゃく",
+    "romaji": "okyaku"
+}, {
+    "kana": "みまもる",
+    "romaji": "mimamoru"
+}, {
+    "kana": "うめく",
+    "romaji": "umeku"
+}, {
+    "kana": "かわす",
+    "romaji": "kawasu"
+}, {
+    "kana": "ただよう",
+    "romaji": "tadayou"
+}, {
+    "kana": "あみ",
+    "romaji": "ami"
+}, {
+    "kana": "ふつう",
+    "romaji": "futsuu"
+}, {
+    "kana": "こうじょう",
+    "romaji": "koujou"
+}, {
+    "kana": "なかみ",
+    "romaji": "nakami"
+}, {
+    "kana": "なる",
+    "romaji": "naru"
+}, {
+    "kana": "くう",
+    "romaji": "kuu"
+}, {
+    "kana": "いりくち",
+    "romaji": "irikuchi"
+}, {
+    "kana": "きかん",
+    "romaji": "kikan"
+}, {
+    "kana": "ゆる",
+    "romaji": "yuru"
+}, {
+    "kana": "でんしゃ",
+    "romaji": "densha"
+}, {
+    "kana": "つらぬく",
+    "romaji": "tsuranuku"
+}, {
+    "kana": "ささやく",
+    "romaji": "sasayaku"
+}, {
+    "kana": "よい",
+    "romaji": "yoi"
+}, {
+    "kana": "ひま",
+    "romaji": "hima"
+}, {
+    "kana": "ハン",
+    "romaji": "han"
+}, {
+    "kana": "シズ",
+    "romaji": "shizu"
+}, {
+    "kana": "うれし",
+    "romaji": "ureshi"
+}, {
+    "kana": "そのた",
+    "romaji": "sonota"
+}, {
+    "kana": "えい",
+    "romaji": "ei"
+}, {
+    "kana": "おくさん",
+    "romaji": "okusan"
+}, {
+    "kana": "は",
+    "romaji": "ha"
+}, {
+    "kana": "きしもと",
+    "romaji": "kishimoto"
+}, {
+    "kana": "かばん",
+    "romaji": "kaban"
+}, {
+    "kana": "やら",
+    "romaji": "yara"
+}, {
+    "kana": "ひる",
+    "romaji": "hiru"
+}, {
+    "kana": "まれ",
+    "romaji": "mare"
+}, {
+    "kana": "おかす",
+    "romaji": "okasu"
+}, {
+    "kana": "きみ",
+    "romaji": "kimi"
+}, {
+    "kana": "とたん",
+    "romaji": "totan"
+}, {
+    "kana": "ぎせい",
+    "romaji": "gisei"
+}, {
+    "kana": "はり",
+    "romaji": "hari"
+}, {
+    "kana": "こうえん",
+    "romaji": "kouen"
+}, {
+    "kana": "まわり",
+    "romaji": "mawari"
+}, {
+    "kana": "かわ",
+    "romaji": "kawa"
+}, {
+    "kana": "のりこ",
+    "romaji": "noriko"
+}, {
+    "kana": "こおり",
+    "romaji": "koori"
+}, {
+    "kana": "ユリ",
+    "romaji": "yuri"
+}, {
+    "kana": "しょうじる",
+    "romaji": "shoujiru"
+}, {
+    "kana": "さっか",
+    "romaji": "sakka"
+}, {
+    "kana": "そし",
+    "romaji": "soshi"
+}, {
+    "kana": "スイッチ",
+    "romaji": "suitchi"
+}, {
+    "kana": "ハッチ",
+    "romaji": "hatchi"
+}, {
+    "kana": "しんけん",
+    "romaji": "shinken"
+}, {
+    "kana": "せいふ",
+    "romaji": "seifu"
+}, {
+    "kana": "よほど",
+    "romaji": "yohodo"
+}, {
+    "kana": "さいわい",
+    "romaji": "saiwai"
+}, {
+    "kana": "けんか",
+    "romaji": "kenka"
+}, {
+    "kana": "おおいし",
+    "romaji": "ooishi"
+}, {
+    "kana": "いなか",
+    "romaji": "inaka"
+}, {
+    "kana": "しよう",
+    "romaji": "shiyou"
+}, {
+    "kana": "かおいろ",
+    "romaji": "kaoiro"
+}, {
+    "kana": "めぐる",
+    "romaji": "meguru"
+}, {
+    "kana": "おれる",
+    "romaji": "oreru"
+}, {
+    "kana": "すえ",
+    "romaji": "sue"
+}, {
+    "kana": "きつい",
+    "romaji": "kitsui"
+}, {
+    "kana": "こだい",
+    "romaji": "kodai"
+}, {
+    "kana": "せつ",
+    "romaji": "setsu"
+}, {
+    "kana": "おっ",
+    "romaji": "o"
+}, {
+    "kana": "ぎぼ",
+    "romaji": "gibo"
+}, {
+    "kana": "いたる",
+    "romaji": "itaru"
+}, {
+    "kana": "かんしん",
+    "romaji": "kanshin"
+}, {
+    "kana": "きょねん",
+    "romaji": "kyonen"
+}, {
+    "kana": "わか",
+    "romaji": "waka"
+}, {
+    "kana": "いし",
+    "romaji": "ishi"
+}, {
+    "kana": "おさない",
+    "romaji": "osanai"
+}, {
+    "kana": "えんりょ",
+    "romaji": "enryo"
+}, {
+    "kana": "いっさい",
+    "romaji": "issai"
+}, {
+    "kana": "てつだう",
+    "romaji": "tetsudau"
+}, {
+    "kana": "たよる",
+    "romaji": "tayoru"
+}, {
+    "kana": "なんとなく",
+    "romaji": "nantonaku"
+}, {
+    "kana": "りつ",
+    "romaji": "ritsu"
+}, {
+    "kana": "しだいに",
+    "romaji": "shidaini"
+}, {
+    "kana": "たちどまる",
+    "romaji": "tachidomaru"
+}, {
+    "kana": "かく",
+    "romaji": "kaku"
+}, {
+    "kana": "あかり",
+    "romaji": "akari"
+}, {
+    "kana": "したぎ",
+    "romaji": "shitagi"
+}, {
+    "kana": "りょうかい",
+    "romaji": "ryoukai"
+}, {
+    "kana": "うかがう",
+    "romaji": "ukagau"
+}, {
+    "kana": "ちょう",
+    "romaji": "chou"
+}, {
+    "kana": "もよう",
+    "romaji": "moyou"
+}, {
+    "kana": "しめる",
+    "romaji": "shimeru"
+}, {
+    "kana": "さっさと",
+    "romaji": "sassato"
+}, {
+    "kana": "たく",
+    "romaji": "taku"
+}, {
+    "kana": "ゆうき",
+    "romaji": "yuuki"
+}, {
+    "kana": "そうい",
+    "romaji": "soui"
+}, {
+    "kana": "よくじつ",
+    "romaji": "yokujitsu"
+}, {
+    "kana": "グラス",
+    "romaji": "gurasu"
+}, {
+    "kana": "へび",
+    "romaji": "hebi"
+}, {
+    "kana": "ぐあい",
+    "romaji": "guai"
+}, {
+    "kana": "き",
+    "romaji": "ki"
+}, {
+    "kana": "むかう",
+    "romaji": "mukau"
+}, {
+    "kana": "そそぐ",
+    "romaji": "sosogu"
+}, {
+    "kana": "かんし",
+    "romaji": "kanshi"
+}, {
+    "kana": "あてる",
+    "romaji": "ateru"
+}, {
+    "kana": "つまる",
+    "romaji": "tsumaru"
+}, {
+    "kana": "りん",
+    "romaji": "rin"
+}, {
+    "kana": "ごえい",
+    "romaji": "goei"
+}, {
+    "kana": "そっ",
+    "romaji": "so"
+}, {
+    "kana": "まつり",
+    "romaji": "matsuri"
+}, {
+    "kana": "きにいる",
+    "romaji": "kiniiru"
+}, {
+    "kana": "めん",
+    "romaji": "men"
+}, {
+    "kana": "すごい",
+    "romaji": "sugoi"
+}, {
+    "kana": "てあし",
+    "romaji": "teashi"
+}, {
+    "kana": "ほん",
+    "romaji": "hon"
+}, {
+    "kana": "トイレ",
+    "romaji": "toire"
+}, {
+    "kana": "ふむ",
+    "romaji": "fumu"
+}, {
+    "kana": "きろく",
+    "romaji": "kiroku"
+}, {
+    "kana": "あじわう",
+    "romaji": "ajiwau"
+}, {
+    "kana": "ぶたい",
+    "romaji": "butai"
+}, {
+    "kana": "まちがう",
+    "romaji": "machigau"
+}, {
+    "kana": "ちほう",
+    "romaji": "chihou"
+}, {
+    "kana": "だいどころ",
+    "romaji": "daidokoro"
+}, {
+    "kana": "むせん",
+    "romaji": "musen"
+}, {
+    "kana": "きらい",
+    "romaji": "kirai"
+}, {
+    "kana": "つごう",
+    "romaji": "tsugou"
+}, {
+    "kana": "げん",
+    "romaji": "gen"
+}, {
+    "kana": "むらびと",
+    "romaji": "murabito"
+}, {
+    "kana": "わざと",
+    "romaji": "wazato"
+}, {
+    "kana": "とまる",
+    "romaji": "tomaru"
+}, {
+    "kana": "カン",
+    "romaji": "kan"
+}, {
+    "kana": "なぞ",
+    "romaji": "nazo"
+}, {
+    "kana": "しゅんいち",
+    "romaji": "shunichi"
+}, {
+    "kana": "せんじょう",
+    "romaji": "senjou"
+}, {
+    "kana": "けいかん",
+    "romaji": "keikan"
+}, {
+    "kana": "あ",
+    "romaji": "a"
+}, {
+    "kana": "すいじゅん",
+    "romaji": "suijun"
+}, {
+    "kana": "ズボン",
+    "romaji": "zubon"
+}, {
+    "kana": "いれる",
+    "romaji": "ireru"
+}, {
+    "kana": "らっか",
+    "romaji": "rakka"
+}, {
+    "kana": "わら",
+    "romaji": "wara"
+}, {
+    "kana": "ほんとうは",
+    "romaji": "hontouha"
+}, {
+    "kana": "どころ",
+    "romaji": "dokoro"
+}, {
+    "kana": "まもなく",
+    "romaji": "mamonaku"
+}, {
+    "kana": "おいで",
+    "romaji": "oide"
+}, {
+    "kana": "にょうぼう",
+    "romaji": "nyoubou"
+}, {
+    "kana": "さけ",
+    "romaji": "sake"
+}, {
+    "kana": "せいせん",
+    "romaji": "seisen"
+}, {
+    "kana": "なにしろ",
+    "romaji": "nanishiro"
+}, {
+    "kana": "うん",
+    "romaji": "un"
+}, {
+    "kana": "ていこく",
+    "romaji": "teikoku"
+}, {
+    "kana": "ふだん",
+    "romaji": "fudan"
+}, {
+    "kana": "ゆうがた",
+    "romaji": "yuugata"
+}, {
+    "kana": "いし",
+    "romaji": "ishi"
+}, {
+    "kana": "たちあがる",
+    "romaji": "tachiagaru"
+}, {
+    "kana": "ポ",
+    "romaji": "po"
+}, {
+    "kana": "らんぼう",
+    "romaji": "ranbou"
+}, {
+    "kana": "イヤ",
+    "romaji": "iya"
+}, {
+    "kana": "だんしゃく",
+    "romaji": "danshaku"
+}, {
+    "kana": "ゆら",
+    "romaji": "yura"
+}, {
+    "kana": "ふこう",
+    "romaji": "fukou"
+}, {
+    "kana": "はる",
+    "romaji": "haru"
+}, {
+    "kana": "なお",
+    "romaji": "nao"
+}, {
+    "kana": "わるい",
+    "romaji": "warui"
+}, {
+    "kana": "あびる",
+    "romaji": "abiru"
+}, {
+    "kana": "そで",
+    "romaji": "sode"
+}, {
+    "kana": "きょじん",
+    "romaji": "kyojin"
+}, {
+    "kana": "はね",
+    "romaji": "hane"
+}, {
+    "kana": "ダン",
+    "romaji": "dan"
+}, {
+    "kana": "そく",
+    "romaji": "soku"
+}, {
+    "kana": "のぼる",
+    "romaji": "noboru"
+}, {
+    "kana": "さとし",
+    "romaji": "satoshi"
+}, {
+    "kana": "ぶんか",
+    "romaji": "bunka"
+}, {
+    "kana": "がくえん",
+    "romaji": "gakuen"
+}, {
+    "kana": "あせる",
+    "romaji": "aseru"
+}, {
+    "kana": "こうほう",
+    "romaji": "kouhou"
+}, {
+    "kana": "だんだん",
+    "romaji": "dandan"
+}, {
+    "kana": "ごらん",
+    "romaji": "goran"
+}, {
+    "kana": "らく",
+    "romaji": "raku"
+}, {
+    "kana": "だいぶ",
+    "romaji": "daibu"
+}, {
+    "kana": "かかわる",
+    "romaji": "kakawaru"
+}, {
+    "kana": "ろうどう",
+    "romaji": "roudou"
+}, {
+    "kana": "あしもと",
+    "romaji": "ashimoto"
+}, {
+    "kana": "おどる",
+    "romaji": "odoru"
+}, {
+    "kana": "ふたつ",
+    "romaji": "futatsu"
+}, {
+    "kana": "つねに",
+    "romaji": "tsuneni"
+}, {
+    "kana": "セックス",
+    "romaji": "sekkusu"
+}, {
+    "kana": "まで",
+    "romaji": "made"
+}, {
+    "kana": "なかば",
+    "romaji": "nakaba"
+}, {
+    "kana": "たな",
+    "romaji": "tana"
+}, {
+    "kana": "きょうりょく",
+    "romaji": "kyouryoku"
+}, {
+    "kana": "かいけつ",
+    "romaji": "kaiketsu"
+}, {
+    "kana": "ァ",
+    "romaji": "a"
+}, {
+    "kana": "りか",
+    "romaji": "rika"
+}, {
+    "kana": "フェ",
+    "romaji": "fye"
+}, {
+    "kana": "こいびと",
+    "romaji": "koibito"
+}, {
+    "kana": "たいいん",
+    "romaji": "taiin"
+}, {
+    "kana": "ただし",
+    "romaji": "tadashi"
+}, {
+    "kana": "ぶちょう",
+    "romaji": "buchou"
+}, {
+    "kana": "さびしい",
+    "romaji": "sabishii"
+}, {
+    "kana": "しょうしょう",
+    "romaji": "shoushou"
+}, {
+    "kana": "きく",
+    "romaji": "kiku"
+}, {
+    "kana": "じさつ",
+    "romaji": "jisatsu"
+}, {
+    "kana": "かいぶつ",
+    "romaji": "kaibutsu"
+}, {
+    "kana": "せっしょく",
+    "romaji": "sesshoku"
+}, {
+    "kana": "せい",
+    "romaji": "sei"
+}, {
+    "kana": "いくらか",
+    "romaji": "ikuraka"
+}, {
+    "kana": "すすめる",
+    "romaji": "susumeru"
+}, {
+    "kana": "こうこう",
+    "romaji": "koukou"
+}, {
+    "kana": "せいじ",
+    "romaji": "seiji"
+}, {
+    "kana": "わが",
+    "romaji": "waga"
+}, {
+    "kana": "ふた",
+    "romaji": "futa"
+}, {
+    "kana": "よのなか",
+    "romaji": "yononaka"
+}, {
+    "kana": "こうか",
+    "romaji": "kouka"
+}, {
+    "kana": "いちげき",
+    "romaji": "ichigeki"
+}, {
+    "kana": "リス",
+    "romaji": "risu"
+}, {
+    "kana": "きたない",
+    "romaji": "kitanai"
+}, {
+    "kana": "せんちょう",
+    "romaji": "senchou"
+}, {
+    "kana": "しゅみ",
+    "romaji": "shumi"
+}, {
+    "kana": "シャトル",
+    "romaji": "shatoru"
+}, {
+    "kana": "おもしろい",
+    "romaji": "omoshiroi"
+}, {
+    "kana": "あんなに",
+    "romaji": "annani"
+}, {
+    "kana": "かいぎ",
+    "romaji": "kaigi"
+}, {
+    "kana": "さら",
+    "romaji": "sara"
+}, {
+    "kana": "マンション",
+    "romaji": "manshon"
+}, {
+    "kana": "けっしん",
+    "romaji": "kesshin"
+}, {
+    "kana": "いす",
+    "romaji": "isu"
+}, {
+    "kana": "きのどく",
+    "romaji": "kinodoku"
+}, {
+    "kana": "あっち",
+    "romaji": "atchi"
+}, {
+    "kana": "ちん",
+    "romaji": "chin"
+}, {
+    "kana": "めがね",
+    "romaji": "megane"
+}, {
+    "kana": "にいさん",
+    "romaji": "niisan"
+}, {
+    "kana": "いよう",
+    "romaji": "iyou"
+}, {
+    "kana": "いったん",
+    "romaji": "ittan"
+}, {
+    "kana": "めぐみ",
+    "romaji": "megumi"
+}, {
+    "kana": "けいさん",
+    "romaji": "keisan"
+}, {
+    "kana": "うったえる",
+    "romaji": "uttaeru"
+}, {
+    "kana": "じっけん",
+    "romaji": "jikken"
+}, {
+    "kana": "さきほど",
+    "romaji": "sakihodo"
+}, {
+    "kana": "おんがく",
+    "romaji": "ongaku"
+}, {
+    "kana": "かいどう",
+    "romaji": "kaidou"
+}, {
+    "kana": "あさみ",
+    "romaji": "asami"
+}, {
+    "kana": "はつ",
+    "romaji": "hatsu"
+}, {
+    "kana": "なんとなく",
+    "romaji": "nantonaku"
+}, {
+    "kana": "コト",
+    "romaji": "koto"
+}, {
+    "kana": "けいぶ",
+    "romaji": "keibu"
+}, {
+    "kana": "にんしき",
+    "romaji": "ninshiki"
+}, {
+    "kana": "ゆびさす",
+    "romaji": "yubisasu"
+}, {
+    "kana": "だんじょ",
+    "romaji": "danjo"
+}, {
+    "kana": "のぼる",
+    "romaji": "noboru"
+}, {
+    "kana": "おいしい",
+    "romaji": "oishii"
+}, {
+    "kana": "まじる",
+    "romaji": "majiru"
+}, {
+    "kana": "ゆ",
+    "romaji": "yu"
+}, {
+    "kana": "ものがたり",
+    "romaji": "monogatari"
+}, {
+    "kana": "きり",
+    "romaji": "kiri"
+}, {
+    "kana": "さす",
+    "romaji": "sasu"
+}, {
+    "kana": "ほほえむ",
+    "romaji": "hohoemu"
+}, {
+    "kana": "あつい",
+    "romaji": "atsui"
+}, {
+    "kana": "どうよう",
+    "romaji": "douyou"
+}, {
+    "kana": "ちつ",
+    "romaji": "chitsu"
+}, {
+    "kana": "ぜつぼう",
+    "romaji": "zetsubou"
+}, {
+    "kana": "ひも",
+    "romaji": "himo"
+}, {
+    "kana": "ことし",
+    "romaji": "kotoshi"
+}, {
+    "kana": "だっしゅつ",
+    "romaji": "dasshutsu"
+}, {
+    "kana": "のべる",
+    "romaji": "noberu"
+}, {
+    "kana": "そだつ",
+    "romaji": "sodatsu"
+}, {
+    "kana": "だいち",
+    "romaji": "daichi"
+}, {
+    "kana": "すごす",
+    "romaji": "sugosu"
+}, {
+    "kana": "しゅるい",
+    "romaji": "shurui"
+}, {
+    "kana": "うけいれる",
+    "romaji": "ukeireru"
+}, {
+    "kana": "きば",
+    "romaji": "kiba"
+}, {
+    "kana": "ひょっと",
+    "romaji": "hyotto"
+}, {
+    "kana": "えいきょう",
+    "romaji": "eikyou"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "わか",
+    "romaji": "waka"
+}, {
+    "kana": "かむ",
+    "romaji": "kamu"
+}, {
+    "kana": "しばい",
+    "romaji": "shibai"
+}, {
+    "kana": "がいこく",
+    "romaji": "gaikoku"
+}, {
+    "kana": "しょく",
+    "romaji": "shoku"
+}, {
+    "kana": "みやつこ",
+    "romaji": "miyatsuko"
+}, {
+    "kana": "はえる",
+    "romaji": "haeru"
+}, {
+    "kana": "めぐる",
+    "romaji": "meguru"
+}, {
+    "kana": "さくひん",
+    "romaji": "sakuhin"
+}, {
+    "kana": "ふるわせる",
+    "romaji": "furuwaseru"
+}, {
+    "kana": "ブリッジ",
+    "romaji": "burijji"
+}, {
+    "kana": "なー",
+    "romaji": "na-"
+}, {
+    "kana": "ボタン",
+    "romaji": "botan"
+}, {
+    "kana": "まじめ",
+    "romaji": "majime"
+}, {
+    "kana": "きょういく",
+    "romaji": "kyouiku"
+}, {
+    "kana": "あふれる",
+    "romaji": "afureru"
+}, {
+    "kana": "まとも",
+    "romaji": "matomo"
+}, {
+    "kana": "いのる",
+    "romaji": "inoru"
+}, {
+    "kana": "はずす",
+    "romaji": "hazusu"
+}, {
+    "kana": "てんかい",
+    "romaji": "tenkai"
+}, {
+    "kana": "らい",
+    "romaji": "rai"
+}, {
+    "kana": "よろこび",
+    "romaji": "yorokobi"
+}, {
+    "kana": "ケイ",
+    "romaji": "kei"
+}, {
+    "kana": "よそ",
+    "romaji": "yoso"
+}, {
+    "kana": "わく",
+    "romaji": "waku"
+}, {
+    "kana": "にかけて",
+    "romaji": "nikakete"
+}, {
+    "kana": "わかる",
+    "romaji": "wakaru"
+}, {
+    "kana": "そうじ",
+    "romaji": "souji"
+}, {
+    "kana": "でんき",
+    "romaji": "denki"
+}, {
+    "kana": "こうしゃ",
+    "romaji": "kousha"
+}, {
+    "kana": "い",
+    "romaji": "i"
+}, {
+    "kana": "そうさ",
+    "romaji": "sousa"
+}, {
+    "kana": "おとずれる",
+    "romaji": "otozureru"
+}, {
+    "kana": "なし",
+    "romaji": "nashi"
+}, {
+    "kana": "みひらく",
+    "romaji": "mihiraku"
+}, {
+    "kana": "どう",
+    "romaji": "dou"
+}, {
+    "kana": "いける",
+    "romaji": "ikeru"
+}, {
+    "kana": "しょうり",
+    "romaji": "shouri"
+}, {
+    "kana": "どろ",
+    "romaji": "doro"
+}, {
+    "kana": "あえぐ",
+    "romaji": "aegu"
+}, {
+    "kana": "そうね",
+    "romaji": "soune"
+}, {
+    "kana": "むす",
+    "romaji": "musu"
+}, {
+    "kana": "じょちゅう",
+    "romaji": "jochuu"
+}, {
+    "kana": "もちあげる",
+    "romaji": "mochiageru"
+}, {
+    "kana": "みつ",
+    "romaji": "mitsu"
+}, {
+    "kana": "ほんぶ",
+    "romaji": "honbu"
+}, {
+    "kana": "ねんれい",
+    "romaji": "nenrei"
+}, {
+    "kana": "バイ",
+    "romaji": "bai"
+}, {
+    "kana": "にゅう",
+    "romaji": "nyuu"
+}, {
+    "kana": "べんとう",
+    "romaji": "bentou"
+}, {
+    "kana": "といふ",
+    "romaji": "toifu"
+}, {
+    "kana": "よこたわる",
+    "romaji": "yokotawaru"
+}, {
+    "kana": "むすう",
+    "romaji": "musuu"
+}, {
+    "kana": "こもる",
+    "romaji": "komoru"
+}, {
+    "kana": "だいたい",
+    "romaji": "daitai"
+}, {
+    "kana": "へいわ",
+    "romaji": "heiwa"
+}, {
+    "kana": "ていし",
+    "romaji": "teishi"
+}, {
+    "kana": "まんなか",
+    "romaji": "mannaka"
+}, {
+    "kana": "しだい",
+    "romaji": "shidai"
+}, {
+    "kana": "しか",
+    "romaji": "shika"
+}, {
+    "kana": "たまらない",
+    "romaji": "tamaranai"
+}, {
+    "kana": "しつない",
+    "romaji": "shitsunai"
+}, {
+    "kana": "たんに",
+    "romaji": "tanni"
+}, {
+    "kana": "さいだい",
+    "romaji": "saidai"
+}, {
+    "kana": "ひ",
+    "romaji": "hi"
+}, {
+    "kana": "せいび",
+    "romaji": "seibi"
+}, {
+    "kana": "おうこく",
+    "romaji": "oukoku"
+}, {
+    "kana": "けさ",
+    "romaji": "kesa"
+}, {
+    "kana": "ショック",
+    "romaji": "shokku"
+}, {
+    "kana": "どうにも",
+    "romaji": "dounimo"
+}, {
+    "kana": "かめ",
+    "romaji": "kame"
+}, {
+    "kana": "さや",
+    "romaji": "saya"
+}, {
+    "kana": "なんにん",
+    "romaji": "nannin"
+}, {
+    "kana": "やく",
+    "romaji": "yaku"
+}, {
+    "kana": "しゅうだん",
+    "romaji": "shuudan"
+}, {
+    "kana": "そうそう",
+    "romaji": "sousou"
+}, {
+    "kana": "たいせい",
+    "romaji": "taisei"
+}, {
+    "kana": "せんもん",
+    "romaji": "senmon"
+}, {
+    "kana": "たす",
+    "romaji": "tasu"
+}, {
+    "kana": "しょうめい",
+    "romaji": "shoumei"
+}, {
+    "kana": "たつ",
+    "romaji": "tatsu"
+}, {
+    "kana": "わる",
+    "romaji": "waru"
+}, {
+    "kana": "しゅ",
+    "romaji": "shu"
+}, {
+    "kana": "とれる",
+    "romaji": "toreru"
+}, {
+    "kana": "はっしゃ",
+    "romaji": "hassha"
+}, {
+    "kana": "じょうくう",
+    "romaji": "joukuu"
+}, {
+    "kana": "まく",
+    "romaji": "maku"
+}, {
+    "kana": "こうかい",
+    "romaji": "koukai"
+}, {
+    "kana": "あさい",
+    "romaji": "asai"
+}, {
+    "kana": "けんとう",
+    "romaji": "kentou"
+}, {
+    "kana": "たまう",
+    "romaji": "tamau"
+}, {
+    "kana": "はで",
+    "romaji": "hade"
+}, {
+    "kana": "たもつ",
+    "romaji": "tamotsu"
+}, {
+    "kana": "おとこのこ",
+    "romaji": "otokonoko"
+}, {
+    "kana": "さか",
+    "romaji": "saka"
+}, {
+    "kana": "のこり",
+    "romaji": "nokori"
+}, {
+    "kana": "かね",
+    "romaji": "kane"
+}, {
+    "kana": "むちゅう",
+    "romaji": "muchuu"
+}, {
+    "kana": "ねんかん",
+    "romaji": "nenkan"
+}, {
+    "kana": "ベルト",
+    "romaji": "beruto"
+}, {
+    "kana": "てきとう",
+    "romaji": "tekitou"
+}, {
+    "kana": "おおかみ",
+    "romaji": "ookami"
+}, {
+    "kana": "めだつ",
+    "romaji": "medatsu"
+}, {
+    "kana": "くぐる",
+    "romaji": "kuguru"
+}, {
+    "kana": "コート",
+    "romaji": "kooto"
+}, {
+    "kana": "ふところ",
+    "romaji": "futokoro"
+}, {
+    "kana": "ことば",
+    "romaji": "kotoba"
+}, {
+    "kana": "たい",
+    "romaji": "tai"
+}, {
+    "kana": "やなぎ",
+    "romaji": "yanagi"
+}, {
+    "kana": "よー",
+    "romaji": "yo-"
+}, {
+    "kana": "きちんと",
+    "romaji": "kichinto"
+}, {
+    "kana": "カウンター",
+    "romaji": "kauntaa"
+}, {
+    "kana": "かんぱん",
+    "romaji": "kanpan"
+}, {
+    "kana": "おどろき",
+    "romaji": "odoroki"
+}, {
+    "kana": "いま",
+    "romaji": "ima"
+}, {
+    "kana": "たすけ",
+    "romaji": "tasuke"
+}, {
+    "kana": "たま",
+    "romaji": "tama"
+}, {
+    "kana": "におい",
+    "romaji": "nioi"
+}, {
+    "kana": "じごく",
+    "romaji": "jigoku"
+}, {
+    "kana": "かい",
+    "romaji": "kai"
+}, {
+    "kana": "こんど",
+    "romaji": "kondo"
+}, {
+    "kana": "はっせい",
+    "romaji": "hassei"
+}, {
+    "kana": "かんとく",
+    "romaji": "kantoku"
+}, {
+    "kana": "わだい",
+    "romaji": "wadai"
+}, {
+    "kana": "あふれる",
+    "romaji": "afureru"
+}, {
+    "kana": "たっす",
+    "romaji": "tassu"
+}, {
+    "kana": "けが",
+    "romaji": "kega"
+}, {
+    "kana": "たずねる",
+    "romaji": "tazuneru"
+}, {
+    "kana": "わける",
+    "romaji": "wakeru"
+}, {
+    "kana": "さら",
+    "romaji": "sara"
+}, {
+    "kana": "における",
+    "romaji": "niokeru"
+}, {
+    "kana": "ひにく",
+    "romaji": "hiniku"
+}, {
+    "kana": "みさわ",
+    "romaji": "misawa"
+}, {
+    "kana": "システム",
+    "romaji": "shisutemu"
+}, {
+    "kana": "どれほど",
+    "romaji": "dorehodo"
+}, {
+    "kana": "たしか",
+    "romaji": "tashika"
+}, {
+    "kana": "しゅちょう",
+    "romaji": "shuchou"
+}, {
+    "kana": "きのう",
+    "romaji": "kinou"
+}, {
+    "kana": "あつい",
+    "romaji": "atsui"
+}, {
+    "kana": "まぁ",
+    "romaji": "maa"
+}, {
+    "kana": "やわらかい",
+    "romaji": "yawarakai"
+}, {
+    "kana": "にあう",
+    "romaji": "niau"
+}, {
+    "kana": "ちらりと",
+    "romaji": "chirarito"
+}, {
+    "kana": "じっこう",
+    "romaji": "jikkou"
+}, {
+    "kana": "ふしん",
+    "romaji": "fushin"
+}, {
+    "kana": "がち",
+    "romaji": "gachi"
+}, {
+    "kana": "パイ",
+    "romaji": "pai"
+}, {
+    "kana": "あやしい",
+    "romaji": "ayashii"
+}, {
+    "kana": "とくしゅ",
+    "romaji": "tokushu"
+}, {
+    "kana": "すか",
+    "romaji": "suka"
+}, {
+    "kana": "バード",
+    "romaji": "baado"
+}, {
+    "kana": "みやる",
+    "romaji": "miyaru"
+}, {
+    "kana": "ふとん",
+    "romaji": "futon"
+}, {
+    "kana": "ことわる",
+    "romaji": "kotowaru"
+}, {
+    "kana": "ひらく",
+    "romaji": "hiraku"
+}, {
+    "kana": "ぞう",
+    "romaji": "zou"
+}, {
+    "kana": "じこく",
+    "romaji": "jikoku"
+}, {
+    "kana": "はじまる",
+    "romaji": "hajimaru"
+}, {
+    "kana": "なみ",
+    "romaji": "nami"
+}, {
+    "kana": "しょ",
+    "romaji": "sho"
+}, {
+    "kana": "ヤン",
+    "romaji": "yan"
+}, {
+    "kana": "スピード",
+    "romaji": "supiido"
+}, {
+    "kana": "さがす",
+    "romaji": "sagasu"
+}, {
+    "kana": "しゃ",
+    "romaji": "sha"
+}, {
+    "kana": "とりもどす",
+    "romaji": "torimodosu"
+}, {
+    "kana": "ちょくご",
+    "romaji": "chokugo"
+}, {
+    "kana": "たいくつ",
+    "romaji": "taikutsu"
+}, {
+    "kana": "ばら",
+    "romaji": "bara"
+}, {
+    "kana": "そっくり",
+    "romaji": "sokkuri"
+}, {
+    "kana": "こころもち",
+    "romaji": "kokoromochi"
+}, {
+    "kana": "もちろん",
+    "romaji": "mochiron"
+}, {
+    "kana": "すわる",
+    "romaji": "suwaru"
+}, {
+    "kana": "レベル",
+    "romaji": "reberu"
+}, {
+    "kana": "いさむ",
+    "romaji": "isamu"
+}, {
+    "kana": "すなわち",
+    "romaji": "sunawachi"
+}, {
+    "kana": "きどう",
+    "romaji": "kidou"
+}, {
+    "kana": "えいぞう",
+    "romaji": "eizou"
+}, {
+    "kana": "ほる",
+    "romaji": "horu"
+}, {
+    "kana": "ふり",
+    "romaji": "furi"
+}, {
+    "kana": "しまい",
+    "romaji": "shimai"
+}, {
+    "kana": "かいきゅう",
+    "romaji": "kaikyuu"
+}, {
+    "kana": "せめる",
+    "romaji": "semeru"
+}, {
+    "kana": "じん",
+    "romaji": "jin"
+}, {
+    "kana": "とくい",
+    "romaji": "tokui"
+}, {
+    "kana": "よけい",
+    "romaji": "yokei"
+}, {
+    "kana": "さい",
+    "romaji": "sai"
+}, {
+    "kana": "くずれる",
+    "romaji": "kuzureru"
+}, {
+    "kana": "かん",
+    "romaji": "kan"
+}, {
+    "kana": "じょう",
+    "romaji": "jou"
+}, {
+    "kana": "でんせつ",
+    "romaji": "densetsu"
+}, {
+    "kana": "もうしわけ",
+    "romaji": "moushiwake"
+}, {
+    "kana": "いわゆる",
+    "romaji": "iwayuru"
+}, {
+    "kana": "しゃべる",
+    "romaji": "shaberu"
+}, {
+    "kana": "あいず",
+    "romaji": "aizu"
+}, {
+    "kana": "しみん",
+    "romaji": "shimin"
+}, {
+    "kana": "まぼろし",
+    "romaji": "maboroshi"
+}, {
+    "kana": "せい",
+    "romaji": "sei"
+}, {
+    "kana": "あきら",
+    "romaji": "akira"
+}, {
+    "kana": "した",
+    "romaji": "shita"
+}, {
+    "kana": "たけ",
+    "romaji": "take"
+}, {
+    "kana": "おうさか",
+    "romaji": "ousaka"
+}, {
+    "kana": "いざ",
+    "romaji": "iza"
+}, {
+    "kana": "ず",
+    "romaji": "zu"
+}, {
+    "kana": "うたう",
+    "romaji": "utau"
+}, {
+    "kana": "うし",
+    "romaji": "ushi"
+}, {
+    "kana": "ほかす",
+    "romaji": "hokasu"
+}, {
+    "kana": "そめる",
+    "romaji": "someru"
+}, {
+    "kana": "おのれ",
+    "romaji": "onore"
+}, {
+    "kana": "さ",
+    "romaji": "sa"
+}, {
+    "kana": "しかめる",
+    "romaji": "shikameru"
+}, {
+    "kana": "けい",
+    "romaji": "kei"
+}, {
+    "kana": "ひゃくごう",
+    "romaji": "hyakugou"
+}, {
+    "kana": "ぎしき",
+    "romaji": "gishiki"
+}, {
+    "kana": "あいかわらず",
+    "romaji": "aikawarazu"
+}, {
+    "kana": "しんちょう",
+    "romaji": "shinchou"
+}, {
+    "kana": "せつ",
+    "romaji": "setsu"
+}, {
+    "kana": "せつ",
+    "romaji": "setsu"
+}, {
+    "kana": "こりゃ",
+    "romaji": "korya"
+}, {
+    "kana": "びみょう",
+    "romaji": "bimyou"
+}, {
+    "kana": "おかしな",
+    "romaji": "okashina"
+}, {
+    "kana": "た",
+    "romaji": "ta"
+}, {
+    "kana": "すいぜんじ",
+    "romaji": "suizenji"
+}, {
+    "kana": "さと",
+    "romaji": "sato"
+}, {
+    "kana": "いそがしい",
+    "romaji": "isogashii"
+}, {
+    "kana": "りょうほう",
+    "romaji": "ryouhou"
+}, {
+    "kana": "はたけ",
+    "romaji": "hatake"
+}, {
+    "kana": "しら",
+    "romaji": "shira"
+}, {
+    "kana": "つぎに",
+    "romaji": "tsugini"
+}, {
+    "kana": "こうたい",
+    "romaji": "koutai"
+}, {
+    "kana": "いふ",
+    "romaji": "ifu"
+}, {
+    "kana": "しん",
+    "romaji": "shin"
+}, {
+    "kana": "ぜっきょう",
+    "romaji": "zekkyou"
+}, {
+    "kana": "つめ",
+    "romaji": "tsume"
+}, {
+    "kana": "うんてん",
+    "romaji": "unten"
+}, {
+    "kana": "おさえる",
+    "romaji": "osaeru"
+}, {
+    "kana": "しかる",
+    "romaji": "shikaru"
+}, {
+    "kana": "いさご",
+    "romaji": "isago"
+}, {
+    "kana": "あつし",
+    "romaji": "atsushi"
+}, {
+    "kana": "ピンク",
+    "romaji": "pinku"
+}, {
+    "kana": "うつす",
+    "romaji": "utsusu"
+}, {
+    "kana": "やす",
+    "romaji": "yasu"
+}, {
+    "kana": "あいさつ",
+    "romaji": "aisatsu"
+}, {
+    "kana": "とうめい",
+    "romaji": "toumei"
+}, {
+    "kana": "ぬる",
+    "romaji": "nuru"
+}, {
+    "kana": "だん",
+    "romaji": "dan"
+}, {
+    "kana": "くま",
+    "romaji": "kuma"
+}, {
+    "kana": "にいちゃん",
+    "romaji": "niichan"
+}, {
+    "kana": "さまざま",
+    "romaji": "samazama"
+}, {
+    "kana": "もくげき",
+    "romaji": "mokugeki"
+}, {
+    "kana": "がたい",
+    "romaji": "gatai"
+}, {
+    "kana": "こうぞう",
+    "romaji": "kouzou"
+}, {
+    "kana": "あらし",
+    "romaji": "arashi"
+}, {
+    "kana": "こごえ",
+    "romaji": "kogoe"
+}, {
+    "kana": "ふうけい",
+    "romaji": "fuukei"
+}, {
+    "kana": "そまる",
+    "romaji": "somaru"
+}, {
+    "kana": "ほうる",
+    "romaji": "houru"
+}, {
+    "kana": "ようへい",
+    "romaji": "youhei"
+}, {
+    "kana": "かま",
+    "romaji": "kama"
+}, {
+    "kana": "たいさ",
+    "romaji": "taisa"
+}, {
+    "kana": "あらためて",
+    "romaji": "aratamete"
+}, {
+    "kana": "おりる",
+    "romaji": "oriru"
+}, {
+    "kana": "ライ",
+    "romaji": "rai"
+}, {
+    "kana": "くず",
+    "romaji": "kuzu"
+}, {
+    "kana": "つや",
+    "romaji": "tsuya"
+}, {
+    "kana": "ひさしぶり",
+    "romaji": "hisashiburi"
+}, {
+    "kana": "ろ",
+    "romaji": "ro"
+}, {
+    "kana": "つながる",
+    "romaji": "tsunagaru"
+}, {
+    "kana": "もと",
+    "romaji": "moto"
+}, {
+    "kana": "なんとも",
+    "romaji": "nantomo"
+}, {
+    "kana": "あんこく",
+    "romaji": "ankoku"
+}, {
+    "kana": "まくる",
+    "romaji": "makuru"
+}, {
+    "kana": "じょうしょう",
+    "romaji": "joushou"
+}, {
+    "kana": "くさい",
+    "romaji": "kusai"
+}, {
+    "kana": "ようしゃ",
+    "romaji": "yousha"
+}, {
+    "kana": "ぜ",
+    "romaji": "ze"
+}, {
+    "kana": "かんり",
+    "romaji": "kanri"
+}, {
+    "kana": "あぶない",
+    "romaji": "abunai"
+}, {
+    "kana": "くせ",
+    "romaji": "kuse"
+}, {
+    "kana": "へいき",
+    "romaji": "heiki"
+}, {
+    "kana": "かいふく",
+    "romaji": "kaifuku"
+}, {
+    "kana": "きこえる",
+    "romaji": "kikoeru"
+}, {
+    "kana": "まとう",
+    "romaji": "matou"
+}, {
+    "kana": "たから",
+    "romaji": "takara"
+}, {
+    "kana": "かあさん",
+    "romaji": "kaasan"
+}, {
+    "kana": "きのう",
+    "romaji": "kinou"
+}, {
+    "kana": "けん",
+    "romaji": "ken"
+}, {
+    "kana": "よくぼう",
+    "romaji": "yokubou"
+}, {
+    "kana": "アル",
+    "romaji": "aru"
+}, {
+    "kana": "こうふく",
+    "romaji": "koufuku"
+}, {
+    "kana": "なのに",
+    "romaji": "nanoni"
+}, {
+    "kana": "コックピット",
+    "romaji": "kokkupitto"
+}, {
+    "kana": "まさとき",
+    "romaji": "masatoki"
+}, {
+    "kana": "わざ",
+    "romaji": "waza"
+}, {
+    "kana": "おくれる",
+    "romaji": "okureru"
+}, {
+    "kana": "けんぶつ",
+    "romaji": "kenbutsu"
+}, {
+    "kana": "くだす",
+    "romaji": "kudasu"
+}, {
+    "kana": "さわぎ",
+    "romaji": "sawagi"
+}, {
+    "kana": "しがみつく",
+    "romaji": "shigamitsuku"
+}, {
+    "kana": "ながと",
+    "romaji": "nagato"
+}, {
+    "kana": "いくつか",
+    "romaji": "ikutsuka"
+}, {
+    "kana": "かさなる",
+    "romaji": "kasanaru"
+}, {
+    "kana": "じてんしゃ",
+    "romaji": "jitensha"
+}, {
+    "kana": "けつろん",
+    "romaji": "ketsuron"
+}, {
+    "kana": "ゆりこ",
+    "romaji": "yuriko"
+}, {
+    "kana": "こきょう",
+    "romaji": "kokyou"
+}, {
+    "kana": "しゃく",
+    "romaji": "shaku"
+}, {
+    "kana": "だく",
+    "romaji": "daku"
+}, {
+    "kana": "つぐ",
+    "romaji": "tsugu"
+}, {
+    "kana": "やすみ",
+    "romaji": "yasumi"
+}, {
+    "kana": "いん",
+    "romaji": "in"
+}, {
+    "kana": "きたむら",
+    "romaji": "kitamura"
+}, {
+    "kana": "といった",
+    "romaji": "toitta"
+}, {
+    "kana": "きりん",
+    "romaji": "kirin"
+}, {
+    "kana": "そういえば",
+    "romaji": "souieba"
+}, {
+    "kana": "うつむく",
+    "romaji": "utsumuku"
+}, {
+    "kana": "ぶったい",
+    "romaji": "buttai"
+}, {
+    "kana": "れんぞく",
+    "romaji": "renzoku"
+}, {
+    "kana": "つっこむ",
+    "romaji": "tsukkomu"
+}, {
+    "kana": "ちづこ",
+    "romaji": "chizuko"
+}, {
+    "kana": "ただし",
+    "romaji": "tadashi"
+}, {
+    "kana": "わたり",
+    "romaji": "watari"
+}, {
+    "kana": "せおう",
+    "romaji": "seou"
+}, {
+    "kana": "ゆくえ",
+    "romaji": "yukue"
+}, {
+    "kana": "ひろた",
+    "romaji": "hirota"
+}, {
+    "kana": "つめ",
+    "romaji": "tsume"
+}, {
+    "kana": "ちち",
+    "romaji": "chichi"
+}, {
+    "kana": "きびしい",
+    "romaji": "kibishii"
+}, {
+    "kana": "みあわせる",
+    "romaji": "miawaseru"
+}, {
+    "kana": "ちょうだい",
+    "romaji": "choudai"
+}, {
+    "kana": "けいやく",
+    "romaji": "keiyaku"
+}, {
+    "kana": "ナン",
+    "romaji": "nan"
+}, {
+    "kana": "くし",
+    "romaji": "kushi"
+}, {
+    "kana": "かす",
+    "romaji": "kasu"
+}, {
+    "kana": "みなもと",
+    "romaji": "minamoto"
+}, {
+    "kana": "く",
+    "romaji": "ku"
+}, {
+    "kana": "ざしき",
+    "romaji": "zashiki"
+}, {
+    "kana": "さぶろう",
+    "romaji": "saburou"
+}, {
+    "kana": "とる",
+    "romaji": "toru"
+}, {
+    "kana": "かけ",
+    "romaji": "kake"
+}, {
+    "kana": "ちゃく",
+    "romaji": "chaku"
+}, {
+    "kana": "ひねる",
+    "romaji": "hineru"
+}, {
+    "kana": "スー",
+    "romaji": "suu"
+}, {
+    "kana": "ふまん",
+    "romaji": "fuman"
+}, {
+    "kana": "けいび",
+    "romaji": "keibi"
+}, {
+    "kana": "しんり",
+    "romaji": "shinri"
+}, {
+    "kana": "きょうじゅ",
+    "romaji": "kyouju"
+}, {
+    "kana": "ほっと",
+    "romaji": "hotto"
+}, {
+    "kana": "あたりまえ",
+    "romaji": "atarimae"
+}, {
+    "kana": "じき",
+    "romaji": "jiki"
+}, {
+    "kana": "かかり",
+    "romaji": "kakari"
+}, {
+    "kana": "はさむ",
+    "romaji": "hasamu"
+}, {
+    "kana": "ゆみ",
+    "romaji": "yumi"
+}, {
+    "kana": "のばす",
+    "romaji": "nobasu"
+}, {
+    "kana": "しょくどう",
+    "romaji": "shokudou"
+}, {
+    "kana": "こする",
+    "romaji": "kosuru"
+}, {
+    "kana": "はや",
+    "romaji": "haya"
+}, {
+    "kana": "みりょく",
+    "romaji": "miryoku"
+}, {
+    "kana": "たいけん",
+    "romaji": "taiken"
+}, {
+    "kana": "ちょ",
+    "romaji": "cho"
+}, {
+    "kana": "しばる",
+    "romaji": "shibaru"
+}, {
+    "kana": "むいしき",
+    "romaji": "muishiki"
+}, {
+    "kana": "ゆうめい",
+    "romaji": "yuumei"
+}, {
+    "kana": "たかこ",
+    "romaji": "takako"
+}, {
+    "kana": "ざっし",
+    "romaji": "zasshi"
+}, {
+    "kana": "のりだす",
+    "romaji": "noridasu"
+}, {
+    "kana": "やくにたつ",
+    "romaji": "yakunitatsu"
+}, {
+    "kana": "いいん",
+    "romaji": "iin"
+}, {
+    "kana": "まとめる",
+    "romaji": "matomeru"
+}, {
+    "kana": "げいじゅつ",
+    "romaji": "geijutsu"
+}, {
+    "kana": "えいえん",
+    "romaji": "eien"
+}, {
+    "kana": "いっそう",
+    "romaji": "issou"
+}, {
+    "kana": "もむ",
+    "romaji": "momu"
+}, {
+    "kana": "あみ",
+    "romaji": "ami"
+}, {
+    "kana": "まくら",
+    "romaji": "makura"
+}, {
+    "kana": "のむ",
+    "romaji": "nomu"
+}, {
+    "kana": "つかう",
+    "romaji": "tsukau"
+}, {
+    "kana": "きょうだい",
+    "romaji": "kyoudai"
+}, {
+    "kana": "みぶん",
+    "romaji": "mibun"
+}, {
+    "kana": "おうきゅう",
+    "romaji": "oukyuu"
+}, {
+    "kana": "ののやま",
+    "romaji": "nonoyama"
+}, {
+    "kana": "いっそう",
+    "romaji": "issou"
+}, {
+    "kana": "いろんな",
+    "romaji": "ironna"
+}, {
+    "kana": "まもる",
+    "romaji": "mamoru"
+}, {
+    "kana": "いきもの",
+    "romaji": "ikimono"
+}, {
+    "kana": "にかんする",
+    "romaji": "nikansuru"
+}, {
+    "kana": "はくしゃく",
+    "romaji": "hakushaku"
+}, {
+    "kana": "そうさ",
+    "romaji": "sousa"
+}, {
+    "kana": "きよし",
+    "romaji": "kiyoshi"
+}, {
+    "kana": "うた",
+    "romaji": "uta"
+}]
