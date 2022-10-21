@@ -52,7 +52,7 @@ function updateData(kanji,detail,kanjiData,info){
     let grade = detail.grade
     let onData = kanjiData.find(data=>data.kanji === kanji)
     let allC = JSON.parse(localStorage.getItem("OverAllCounter"))
-    let gradeData = JSON.parse(localStorage.getItem(`G${grade}Counter`))
+    let gradeData = JSON.parse(localStorage.getItem(`${detail.jlpt === 4 ? "N5" : `G${grade}`}Counter`))
 
     if(!onData){
         onData = {
@@ -76,6 +76,7 @@ function updateData(kanji,detail,kanjiData,info){
     }
     
     localStorage.setItem("OverAllCounter",JSON.stringify(allC))
-    localStorage.setItem(`G${grade}Counter`,JSON.stringify(gradeData))
+    
+    localStorage.setItem(`${detail.jlpt === 4 ? "N5" : `G${grade}`}Counter`,JSON.stringify(gradeData))
     localStorage.setItem("kanjiData",JSON.stringify(kanjiData))
 }

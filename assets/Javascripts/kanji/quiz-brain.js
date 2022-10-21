@@ -51,14 +51,16 @@ function generateLetter(){
     if(kanjiGrade.includes("All")){
         return Kanji.dump()[Math.floor(Math.random() * Kanji.dump().length)]
     }
-    let grades = kanjiGrade.map(grade => Number(grade.replace("G","")))
-
-    if(grades.length == 0){
+    if(kanjiGrade.length == 0){
         return null
     }
     let kanjis = []
-    for(let grade of grades){
-        kanjis = Kanji.dump().filter(kanji => kanji.grade == grade)
+    for(let g of kanjiGrade){
+        if(g.startsWith("N")){
+            kanjis = [...kanjis,...Kanji.dump().filter(k => k.jlpt === 4)]
+        } else {
+            kanjis = [...kanjis,...Kanji.dump().filter(k => k.grade === g)]
+        }
     }
 
     return kanjis[Math.floor(Math.random() * kanjis.length)]

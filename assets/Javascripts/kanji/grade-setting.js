@@ -39,6 +39,7 @@ function resetAll() {
     localStorage.setItem("G8Counter", '{"correct":0,"wrong":0}')
     localStorage.setItem("G9Counter", '{"correct":0,"wrong":0}')
     localStorage.setItem("G10Counter", '{"correct":0,"wrong":0}')
+    localStorage.setItem("N5Counter", '{"correct":0,"wrong":0}')
     localStorage.setItem("OverAllCounter", '{"correct":0,"wrong":0}')
 
     document.location.reload()

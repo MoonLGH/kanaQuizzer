@@ -14,6 +14,7 @@ function init() {
     let Grade8 = localStorage.getItem("G8Counter")
     let Grade9 = localStorage.getItem("G9Counter")
     let Grade10 = localStorage.getItem("G10Counter")
+    let N5 = localStorage.getItem("N5Counter")
     let OverAll = localStorage.getItem("OverAllCounter")
 
     if(!kanji){
@@ -60,6 +61,9 @@ function init() {
     }
     if (!Grade10) {
         localStorage.setItem("G10Counter", '{"correct":0,"wrong":0}')
+    }
+    if (!N5) {
+        localStorage.setItem("N5Counter", '{"correct":0,"wrong":0}')
     }
     if (!OverAll) {
         localStorage.setItem("OverAllCounter", '{"correct":0,"wrong":0}')
