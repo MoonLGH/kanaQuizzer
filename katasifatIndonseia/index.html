@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KataSifat Quizzer</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/popup.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div id="quiz">
+        <h1>Nihongo Quizzer</h1>
+        <div class="box" id="question">
+            <h3></h3>
+        </div>
+        <p>Write this on romaji</p>
+        <div id="answer">
+            <input type="text" name="answer" autocomplete="off">
+            <div class="submit">
+                <button class="btn btn-success">Submit</button>
+            </div>
+        </div>
+        <div id="alerts">
+        </div>
+    </div>
+    <div id="side-info">
+        <h1>Information</h1>
+        <div id="stageI">
+            <h3>Stage</h3>
+            <div class="phase"></div>
+            <div class="nextPhase"></div>
+        </div>
+        <div id="kataI">
+            <h3>KataSifat</h3>
+            <div class="correct"></div>
+            <div class="wrong"></div>
+        </div>
+    </div>
+    <div id="popup">
+
+    </div>
+</body>
+
+<!-- general -->
+<script src="../assets/Javascripts/popup.js"></script>
+
+<script src="../assets/Javascripts/katasifat.js"></script>
+<script src="../assets/Javascripts/katasifatLogic.js"></script>
+</html>
