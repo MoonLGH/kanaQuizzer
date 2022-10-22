@@ -37,7 +37,7 @@ let arr = [
     {
         "jepang": "ハンサム",
         "romaji": "hansamu",
-        "indonesia": "tanpan"
+        "indonesia": "tampan"
     },
     {
         "jepang": "下手",
@@ -521,10 +521,12 @@ window.onload = function () {
 }
 
 
-const inputAnswer = document.querySelector("#answer > input")
-const buttonAnswer = document.querySelector("#answer button")
+const inputAnswer = document.querySelector("#answer")
+const inputAnswer1 = document.querySelector("#answer1")
+const buttonAnswer = document.getElementById("submitBtn")
 const QuestionBox = document.querySelector("#question > h3")
 
+console.log(buttonAnswer)
 
 function GenerateNewQuestion() {
     let q = arr[Math.floor(Math.random() * arr.length)]
@@ -536,7 +538,8 @@ function GenerateNewQuestion() {
         console.log("RELEARN    ")
         console.log(words)
         if(!words.every((val, i, words) => val.counter === words[0].counter)){
-            putQuestion(words[0].letter)
+            // putQuestion(words[0].letter)
+            putQuestion(q)
         }else{
             makeAlert("Seems like you understand these word, Randomizing","alert-success")
             setPhase("Generating Random Letter","10")
@@ -561,6 +564,7 @@ buttonAnswer.addEventListener("click", (e) => {
     e.preventDefault()
     answer()
     inputAnswer.value = ""
+    inputAnswer1.value = ""
 })
 
 inputAnswer.addEventListener('keypress', function (e) {
@@ -568,6 +572,16 @@ inputAnswer.addEventListener('keypress', function (e) {
         e.preventDefault()
         answer()
         inputAnswer.value = ""
+        inputAnswer1.value = ""
+    }
+})
+
+inputAnswer1.addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') {
+        e.preventDefault()
+        answer()
+        inputAnswer.value = ""
+        inputAnswer1.value = ""
     }
 })
 
@@ -575,7 +589,7 @@ function answer() {
     // get answer from arr.find questionBox
     let q = arr.find((q) => q.jepang == QuestionBox.innerHTML)
     // check answer
-    if (q.romaji == inputAnswer.value) {
+    if (q.romaji === inputAnswer.value && inputAnswer1.value.length > 1 && q.indonesia.includes(inputAnswer1.value)) {
         makeAlert(`Correct ${q.jepang} in romaji is ${q.romaji} Meaning:${q.indonesia}`, "alert-success")
         correct(q.jepang)
     }
@@ -585,6 +599,8 @@ function answer() {
     }
     let newQ = GenerateNewQuestion()
     inputAnswer.value = ""
+    inputAnswer1.value = ""
+    inputAnswer.focus()
 }
 
 

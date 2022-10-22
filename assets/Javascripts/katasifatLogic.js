@@ -10,7 +10,7 @@ function initialcheck() {
         localStorage.setItem("phase", "Generating Random Letter")
     }
     if (!number) {
-        localStorage.setItem("number", "10")
+        localStorage.setItem("number", "50")
     }
     if (!sifatLearned) {
         localStorage.setItem("sifatLearned", "[]")
@@ -108,7 +108,7 @@ function updatePhase(initial){
     if(phase === "Relearn letter"){
         if(number === "0"){
             localStorage.setItem("phase", "Generating Random Letter")
-            localStorage.setItem("number", "10")
+            localStorage.setItem("number", "20")
         }
     }
 

@@ -18,10 +18,11 @@
             <h3></h3>
         </div>
         <p>Write this on romaji</p>
-        <div id="answer">
-            <input type="text" name="answer" autocomplete="off">
+        <div id="answers">
+            <input type="text" id="answer" autocomplete="off" placeholder="ROMAJI">
+            <input type="text" id="answer1" autocomplete="off" placeholder="MEANING">
             <div class="submit">
-                <button class="btn btn-success">Submit</button>
+                <button class="btn btn-success" id="submitBtn">Submit</button>
             </div>
         </div>
         <div id="alerts">
@@ -48,6 +49,6 @@
 <!-- general -->
 <script src="../assets/Javascripts/popup.js"></script>
 
-<script src="../assets/Javascripts/katasifat.js"></script>
+<script src="../assets/Javascripts/katasifat.js" defer></script>
 <script src="../assets/Javascripts/katasifatLogic.js"></script>
 </html>
