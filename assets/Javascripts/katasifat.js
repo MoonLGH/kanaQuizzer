@@ -535,14 +535,13 @@ function GenerateNewQuestion() {
     if(phase === "Relearn letter"){
         let words = JSON.parse(localStorage.getItem("sifatData"))
         words.sort((a,b) => a.counter-b.counter)
-        console.log("RELEARN    ")
+        console.log("RELEARN")
         console.log(words)
         if(!words.every((val, i, words) => val.counter === words[0].counter)){
-            // putQuestion(words[0].letter)
-            putQuestion(q)
+            putQuestion(words[0].letter)
         }else{
             makeAlert("Seems like you understand these word, Randomizing","alert-success")
-            setPhase("Generating Random Letter","10")
+            setPhase("Generating Random Letter","30")
             putQuestion(q)
         }
     }else{
